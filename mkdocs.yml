@@ -1,0 +1,68 @@
+site_name: PalDB
+site_description: Palworld knowledge base — human lookup + LLM reference
+site_author: vukyn
+# Palworld game database. Markdown entities with frontmatter stats + [[wikilinks]].
+
+theme:
+  name: material
+  palette:
+    # Dark default (game-DB reads better dark), toggle to light.
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark
+  features:
+    - navigation.instant   # SPA-like nav
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes   # section index pages (index.md per folder)
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
+
+markdown_extensions:
+  - meta                   # frontmatter as page.meta
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  # [[wikilinks]] and [[target|label]] resolved to real page paths.
+  - roamlinks
+  # Tag index across entities (element tags, work tags).
+  - tags
+
+extra_css:
+  - stylesheets/entity.css
+
+# Nav is intentionally minimal — folder index pages drive discovery,
+# search + [[wikilinks]] are the primary navigation for a growing DB.
+nav:
+  - Home: index.md
+  - Pals: pals/index.md
+  - Items: items/index.md
+  - Mechanics: mechanics/index.md
+  - Locations: locations/index.md
+  - Guides: guides/index.md

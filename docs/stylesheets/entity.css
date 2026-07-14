@@ -1,0 +1,24 @@
+/* PalDB entity styling — element chips, stat tables. Extend as entities grow. */
+
+.md-typeset table:not([class]) {
+  font-size: 0.72rem;
+}
+
+/* Element tag chips (used via attr_list, e.g. `Fire`{.el .el-fire}). */
+.el {
+  display: inline-block;
+  padding: 0.05em 0.5em;
+  border-radius: 1em;
+  font-size: 0.72em;
+  font-weight: 600;
+  color: #fff;
+}
+.el-fire { background: #e25822; }
+.el-water { background: #2a72c9; }
+.el-grass { background: #3fa34d; }
+.el-electric { background: #d8a800; }
+.el-ground { background: #a1704a; }
+.el-ice { background: #4ec3d9; }
+.el-dark { background: #5a3a7a; }
+.el-dragon { background: #7b4fd8; }
+.el-neutral { background: #8a8f98; }

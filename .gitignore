@@ -1,0 +1,16 @@
+# MkDocs build output
+site/
+
+# Python venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Code knowledge graph (platform local artifact — never commit)
+.code-review-graph/

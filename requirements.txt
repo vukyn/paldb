@@ -1,0 +1,3 @@
+# Build the static site: pip install -r requirements.txt && mkdocs serve
+mkdocs-material>=9.5
+mkdocs-roamlinks-plugin>=0.3.2
