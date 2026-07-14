@@ -35,6 +35,25 @@ One entity = one markdown file = **frontmatter (structured, machine-parseable)**
   yet is a **stub marker**: it names something worth ingesting later, not an
   error.
 
+## Bilingual (EN / VI)
+
+The site is EN/VI via the `mkdocs-static-i18n` plugin (suffix mode, header
+language switcher, per-language search):
+
+- **EN is the source of truth.** An unsuffixed file (`elements.md`,
+  `pals/lamball.md`) is the English/default page.
+- **VI is a translation overlay.** `<name>.vi.md` beside the EN file holds the
+  Vietnamese version. `fallback_to_default: true` → any page without a `.vi.md`
+  shows its EN content, so VI can be filled in incrementally (no need to
+  translate everything).
+- **Frontmatter must stay IDENTICAL across the EN and VI variants** (same stats,
+  slugs, tags, `[[links]]`). Only the **prose is translated**, plus the `title:`.
+  This is the anti-drift rule — the structured data layer is language-neutral;
+  translating it would let EN and VI facts diverge. Game proper nouns (Pal /
+  item / element names) stay in English in both.
+- Interactive widgets / mermaid blocks are copied verbatim into both variants
+  (same `<div id="...">` / ```` ```mermaid ```` fence).
+
 ## Ingestion contract (how the DB grows)
 
 The user feeds knowledge incrementally. When ingesting a drop:
@@ -58,7 +77,7 @@ The user feeds knowledge incrementally. When ingesting a drop:
 
 ```bash
 pip install -r requirements.txt
-mkdocs serve            # preview (live wiki UI at http://127.0.0.1:8000)
+mkdocs serve            # preview (live wiki UI at http://127.0.0.1:10000)
 mkdocs build            # verification build → site/ (gitignored)
 ```
 
@@ -75,6 +94,28 @@ turns those intentional warnings into a failed build. So:
 - Read the warning list to see which stubs still need a file (free worklist).
 - Reserve `--strict` for a structural check on a snapshot with no open stubs
   (rare); it is not the day-to-day gate.
+
+## Icons
+
+In-game icons live under `docs/assets/icons/<category>/` (`work`, `elements`,
+`items`, `pals`, `ui`) — see `docs/assets/icons/README.md` for the naming +
+format spec (that README is `exclude_docs`'d, not a site page). Filename = the
+entity **slug** (item/pal) or the canonical name (work/element), kebab-case,
+PNG/WebP, ~square.
+
+Embed with a **markdown image + attr_list class**, path **source-relative**:
+
+```markdown
+![](../assets/icons/<cat>/<name>.png){ .game-icon }
+```
+
+From any `docs/<section>/<page>.md` the prefix is `../assets/icons/...` (one up
+to the docs root). MkDocs rewrites it to the correct output URL **per page**, so
+it resolves for both the EN page and the `/vi/` mirror (which sits one level
+deeper). **Do NOT use a raw `<img>` with a fixed `../../assets/…` path** — that
+hardcodes the depth and 404s on the `/vi/` tree (VI pages are one level deeper
+and assets live only at the site root, not under `/vi/assets/`). `.game-icon`
+(in `stylesheets/entity.css`) fixes the size (24×24, `object-fit: contain`).
 
 ## Platform notes
 
