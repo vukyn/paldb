@@ -4,11 +4,15 @@ title: Pals
 
 # Pals
 
-Every creature in Palworld. One file per Pal: frontmatter stats (element, work
-suitability, breeding rank, spawns) + prose. Schema: `templates/pal.md`.
+<div class="table-filter" data-placeholder="Filter pals by name, element…" markdown="1">
 
-!!! note "Empty for now"
-    No Pals ingested yet. First entry seeds the pattern. Add a Pal by copying
-    `templates/pal.md` → `docs/pals/<slug>.md`.
+|  | Pal | Element | Size |
+|:--:|-----|---------|:----:|
+| ![](../assets/icons/pals/lamball.png){ .pal-avatar } | [Lamball](lamball.md) | <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/cattiva.png){ .pal-avatar } | [Cattiva](cattiva.md) | <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/chikipi.png){ .pal-avatar } | [Chikipi](chikipi.md) | <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/xenolord.png){ .pal-avatar } | [Xenolord](xenolord.md) | — | — |
+| ![](../assets/icons/pals/xenovader.png){ .pal-avatar } | [Xenovader](xenovader.md) | — | — |
+| ![](../assets/icons/pals/xenogard.png){ .pal-avatar } | [Xenogard](xenogard.md) | — | — |
 
-<!-- INDEX: as Pals are added, list/table them here (or rely on search + tags). -->
+</div>

@@ -34,7 +34,7 @@ requirements.txt    # mkdocs-material + roamlinks
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-mkdocs serve          # live preview at http://127.0.0.1:8000
+mkdocs serve          # live preview at http://127.0.0.1:10000
 mkdocs build          # static site → site/ (gitignored)
 ```
 

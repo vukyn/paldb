@@ -3,6 +3,9 @@ site_description: Palworld knowledge base — human lookup + LLM reference
 site_author: vukyn
 # Palworld game database. Markdown entities with frontmatter stats + [[wikilinks]].
 
+# Dev server on :10000 (avoid the crowded :8000 range).
+dev_addr: 127.0.0.1:10000
+
 theme:
   name: material
   palette:
@@ -22,7 +25,8 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark
   features:
-    - navigation.instant   # SPA-like nav
+    # NOTE: navigation.instant intentionally OFF — it is incompatible with the
+    # i18n language switcher (instant SPA nav bounces language switch to home).
     - navigation.tracking
     - navigation.top
     - navigation.indexes   # section index pages (index.md per folder)
@@ -40,7 +44,12 @@ markdown_extensions:
   - footnotes
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      # ```mermaid fences render as diagrams (relationship graphs, breeding chains).
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji
@@ -49,13 +58,51 @@ markdown_extensions:
 
 plugins:
   - search
+  # EN/VI bilingual. Unsuffixed file = EN (default/source of truth); `.vi.md` =
+  # Vietnamese. Missing VI falls back to EN. Adds a header language switcher.
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+        - locale: vi
+          name: Tiếng Việt
+          build: true
+          # Translate the left-nav labels (EN nav title → VI). Game proper nouns
+          # (Pals, element names) stay English.
+          nav_translations:
+            Home: Trang chủ
+            Pals: Pals
+            Items: Vật phẩm
+            Mechanics: Cơ chế
+            Elements: Nguyên tố
+            Work Suitability: Khả năng lao động
+            Work Priority: Ưu tiên công việc
+            Locations: Địa điểm
+            Guides: Hướng dẫn
   # [[wikilinks]] and [[target|label]] resolved to real page paths.
   - roamlinks
   # Tag index across entities (element tags, work tags).
   - tags
 
+# Maintainer docs that live under docs/ but should not become site pages.
+exclude_docs: |
+  assets/icons/README.md
+
 extra_css:
   - stylesheets/entity.css
+
+extra_javascript:
+  # Interactive widgets (self-contained, no CDN). Each guards on its own
+  # container id, so loading globally is a no-op on pages without it.
+  - javascripts/type-chart.js
+  - javascripts/food-meter.js
+  - javascripts/table-filter.js
 
 # Nav is intentionally minimal — folder index pages drive discovery,
 # search + [[wikilinks]] are the primary navigation for a growing DB.
@@ -63,6 +110,10 @@ nav:
   - Home: index.md
   - Pals: pals/index.md
   - Items: items/index.md
-  - Mechanics: mechanics/index.md
+  - Mechanics:
+    - mechanics/index.md
+    - Elements: mechanics/elements.md
+    - Work Suitability: mechanics/work-suitability.md
+    - Work Priority: mechanics/work-priority.md
   - Locations: locations/index.md
   - Guides: guides/index.md

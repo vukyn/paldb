@@ -9,10 +9,6 @@ Palworld knowledge base. Two audiences, one source:
 - **Humans** — searchable static wiki (MkDocs Material), cross-linked.
 - **LLMs** — plain markdown with machine-parseable frontmatter, ingest directly.
 
-Every entity is one markdown file: **frontmatter** (structured stats) + **prose**
-(explanation). Entities link each other with \[\[slug\]\] wikilinks, so the DB
-forms a graph you can traverse from any node.
-
 ## Sections
 
 | Section | What lives here |
