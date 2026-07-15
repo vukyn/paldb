@@ -17,7 +17,7 @@ tags: [item, food]
 
 ## Obtain
 
-- Dropped by [[chikipi|Chikipi]] (×1, 100%) on capture or defeat.
+- Guaranteed drop when you capture or defeat [[chikipi|Chikipi]] (×1).
 - Laid by [[chikipi|Chikipi]] on a [[ranch|Ranch]] via its **Egg Layer** partner skill (amount
   scales with skill level).
 

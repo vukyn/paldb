@@ -15,7 +15,7 @@ Thứ tự Pal chọn các việc này là [[work-priority|Ưu tiên công việ
 
 ## 12 loại việc
 
-| Icon | Việc | Pal làm gì |
+|  | Việc | Pal làm gì |
 |:----:|------|------------|
 | ![](../assets/icons/work/kindling.png){ .game-icon } | [Kindling](work/kindling.md) | Nhóm lò, lò rèn, bếp (nung, nấu). |
 | ![](../assets/icons/work/watering.png){ .game-icon } | [Watering](work/watering.md) | Tưới cây ở nông trại, cấp nước, dập lửa. |

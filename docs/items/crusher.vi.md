@@ -38,8 +38,8 @@ và từ [[meteorite-fragment|Mảnh Thiên Thạch]].
 
 Mở khoá ở **Technology Lv 8**. Công sức xây: 8000 ([[handiwork|Handiwork]]).
 
-| Nguyên liệu | SL |
-|-------------|:--:|
-| [Gỗ](wood.md) | 50 |
-| [Đá](stone.md) | 20 |
-| [Mảnh Paldium](paldium-fragment.md) | 10 |
+|  | Nguyên liệu | SL |
+|:--:|-------------|:--:|
+| ![](../assets/icons/items/wood.png){ .game-icon } | [Gỗ](wood.md) | 50 |
+| ![](../assets/icons/items/stone.png){ .game-icon } | [Đá](stone.md) | 20 |
+| ![](../assets/icons/items/paldium-fragment.png){ .game-icon } | [Mảnh Paldium](paldium-fragment.md) | 10 |

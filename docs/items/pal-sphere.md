@@ -25,15 +25,20 @@ Capture Power **7** · unlocked at Technology Lv **2**. The entry-tier sphere.
 
 ## Craft
 
-| Material | Qty |
-|----------|:---:|
-| [Paldium Fragment](paldium-fragment.md) | 1 |
+|  | Material | Qty |
+|:--:|----------|:---:|
+| ![](../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](paldium-fragment.md) | 1 |
 
-Craftable at: [[primitive-workbench|Primitive Workbench]],
-[[sphere-workbench|Sphere Workbench]], [[sphere-assembly-line|Sphere Assembly Line]],
-[[sphere-assembly-line-ii|Sphere Assembly Line II]],
-[[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]],
-[[ancient-workbench|Ancient Workbench]].
+**Craftable at**
+
+|  | Station |
+|:----:|---------|
+| ![](../assets/icons/items/primitive-workbench.png){ .game-icon } | [Primitive Workbench](primitive-workbench.md) |
+| ![](../assets/icons/items/sphere-workbench.png){ .game-icon } | [Sphere Workbench](sphere-workbench.md) |
+| ![](../assets/icons/items/sphere-assembly-line.png){ .game-icon } | [Sphere Assembly Line](sphere-assembly-line.md) |
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .game-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .game-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
 
 ## Stats
 

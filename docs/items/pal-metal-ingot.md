@@ -27,7 +27,8 @@ tags: [item, material]
 ## Obtain
 
 Refine [[ore|Ore]] ×4 + [[pure-quartz|Pure Quartz]] ×1 +
-[[paldium-fragment|Paldium Fragment]] ×2 in a furnace.
+[[paldium-fragment|Paldium Fragment]] ×2 in an
+[[electric-furnace|Electric Furnace]] (or the [[ancient-furnace|Ancient Furnace]]).
 
 ## Use
 

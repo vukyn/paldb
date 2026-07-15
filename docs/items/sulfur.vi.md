@@ -24,7 +24,7 @@ tags: [item, material]
 ## Cách lấy
 
 - Đào ở vùng núi lửa.
-- Rơi từ [[pierdon|Pierdon]] (×4–5, 100%).
+- Chắc chắn rơi khi bắt hoặc hạ gục [[pierdon|Pierdon]] (×4–5).
 
 ## Công dụng
 

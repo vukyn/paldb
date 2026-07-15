@@ -89,7 +89,7 @@ năng thì cho càng nhiều:
 
 ## Công việc & dùng ở base
 
-| Icon | Công việc | Cấp độ |
+|  | Công việc | Cấp độ |
 |:----:|------|:--:|
 | ![](../assets/icons/work/handiwork.png){ .game-icon } | [Handiwork](../mechanics/work/handiwork.md) | 1 |
 | ![](../assets/icons/work/transporting.png){ .game-icon } | [Transporting](../mechanics/work/transporting.md) | 1 |
@@ -114,7 +114,7 @@ CombiRank 3050. Chưa ghi nhận cặp bố mẹ nào cho ra Lamball.
 
 Khi bắt hoặc hạ:
 
-| Icon | Vật phẩm | SL | Tỉ lệ |
+|  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
 | ![](../assets/icons/items/wool.png){ .game-icon } | [Len](../items/wool.md) | ×1–3 | 100% |
 | ![](../assets/icons/items/lamball-mutton.png){ .game-icon } | [Thịt cừu Lamball](../items/lamball-mutton.md) | ×1 | 100% |

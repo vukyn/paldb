@@ -15,6 +15,6 @@ tags: [pal]
 
 ## Drops
 
-| Icon | Item | Qty | Chance |
+|  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/pure-quartz.png){ .game-icon } | [Pure Quartz](../items/pure-quartz.md) | ×4–5 | 100% |

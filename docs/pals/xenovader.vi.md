@@ -15,6 +15,6 @@ tags: [pal]
 
 ## Vật phẩm rơi
 
-| Icon | Vật phẩm | SL | Tỉ lệ |
+|  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
 | ![](../assets/icons/items/meteorite-fragment.png){ .game-icon } | [Mảnh Thiên Thạch](../items/meteorite-fragment.md) | ×3–10 | 100% |

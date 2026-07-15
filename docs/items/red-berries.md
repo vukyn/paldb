@@ -16,7 +16,7 @@ tags: [item, food]
 
 ## Obtain
 
-Dropped by [[cattiva|Cattiva]] (×1, 100%) on capture or defeat.
+Guaranteed drop when you capture or defeat [[cattiva|Cattiva]] (×1).
 
 ## Use
 

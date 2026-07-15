@@ -24,7 +24,8 @@ tags: [item, material]
 
 ## Obtain
 
-Refine [[ore|Ore]] ×2 + [[coal|Coal]] ×2 in a furnace.
+Refine [[ore|Ore]] ×2 + [[coal|Coal]] ×2 in an
+[[improved-furnace|Improved Furnace]] (or the [[ancient-furnace|Ancient Furnace]]).
 
 ## Use
 

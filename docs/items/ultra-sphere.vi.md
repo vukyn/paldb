@@ -31,16 +31,20 @@ Capture Power **33** · mở khoá ở Technology Lv **35**.
 
 ## Chế tạo
 
-| Nguyên liệu | SL |
-|-------------|:--:|
-| [Mảnh Paldium](paldium-fragment.md) | 5 |
-| [Thỏi Tinh Luyện](refined-ingot.md) | 3 |
-| [Gỗ](wood.md) | 10 |
-| [Đá](stone.md) | 10 |
+|  | Nguyên liệu | SL |
+|:--:|-------------|:--:|
+| ![](../assets/icons/items/paldium-fragment.png){ .game-icon } | [Mảnh Paldium](paldium-fragment.md) | 5 |
+| ![](../assets/icons/items/refined-ingot.png){ .game-icon } | [Thỏi Tinh Luyện](refined-ingot.md) | 3 |
+| ![](../assets/icons/items/wood.png){ .game-icon } | [Gỗ](wood.md) | 10 |
+| ![](../assets/icons/items/stone.png){ .game-icon } | [Đá](stone.md) | 10 |
 
-Chế được tại: [[sphere-assembly-line-ii|Sphere Assembly Line II]],
-[[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]],
-[[ancient-workbench|Ancient Workbench]].
+**Chế được tại**
+
+|  | Trạm |
+|:----:|------|
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .game-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .game-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
 
 ## Chỉ số
 

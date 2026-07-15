@@ -73,7 +73,7 @@ Mức thưởng tăng theo cấp kỹ năng:
 
 ## Công việc & dùng ở base
 
-| Icon | Công việc | Cấp độ |
+|  | Công việc | Cấp độ |
 |:----:|------|:--:|
 | ![](../assets/icons/work/handiwork.png){ .game-icon } | [Handiwork](../mechanics/work/handiwork.md) | 1 |
 | ![](../assets/icons/work/gathering.png){ .game-icon } | [Gathering](../mechanics/work/gathering.md) | 1 |
@@ -96,7 +96,7 @@ CombiRank 2760. Chưa ghi nhận cặp bố mẹ nào cho ra Cattiva.
 
 Khi bắt hoặc hạ:
 
-| Icon | Vật phẩm | SL | Tỉ lệ |
+|  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
 | ![](../assets/icons/items/red-berries.png){ .game-icon } | [Red Berries](../items/red-berries.md) | ×1 | 100% |
 

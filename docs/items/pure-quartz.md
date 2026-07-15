@@ -25,8 +25,8 @@ tags: [item, material]
 ## Obtain
 
 - Mined in snowy fields and similar cold areas.
-- Dropped by [[pierdon-cryst|Pierdon Cryst]] (×4–5, 100%) — including its Lv.70
-  variant.
+- Guaranteed drop when you capture or defeat [[pierdon-cryst|Pierdon Cryst]]
+  (×4–5) — including its Lv.70 variant.
 
 ## Use
 

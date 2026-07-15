@@ -73,7 +73,7 @@ counts). The bonus scales with the skill level:
 
 ## Work & base use
 
-| Icon | Work | Lv |
+|  | Work | Lv |
 |:----:|------|:--:|
 | ![](../assets/icons/work/handiwork.png){ .game-icon } | [Handiwork](../mechanics/work/handiwork.md) | 1 |
 | ![](../assets/icons/work/gathering.png){ .game-icon } | [Gathering](../mechanics/work/gathering.md) | 1 |
@@ -96,7 +96,7 @@ CombiRank 2760. Documented parent combos: none recorded yet.
 
 On capture or defeat:
 
-| Icon | Item | Qty | Chance |
+|  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/red-berries.png){ .game-icon } | [Red Berries](../items/red-berries.md) | ×1 | 100% |
 
