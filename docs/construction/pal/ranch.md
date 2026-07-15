@@ -36,6 +36,7 @@ skill's item.
 | Pal | Produces | Via |
 |-----|----------|-----|
 | [Lamball](../../pals/lamball.md) | [Wool](../../items/materials/wool.md) | Fluffy Shield |
+| [Cremis](../../pals/cremis.md) | [Wool](../../items/materials/wool.md) | Fluffy Wool |
 | [Chikipi](../../pals/chikipi.md) | [Egg](../../items/food/egg.md) | Egg Layer |
 | [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Gold, Arrows, Bone | Dig Here! |
 

@@ -26,6 +26,10 @@ capture_rate_correct: 1.3
 male_probability: 50
 egg: Common Egg
 gold_coin: 407
+level_80:
+  health: [3700, 4540]
+  attack: [520, 646]
+  defense: [470, 596]
 drops:
   - item: [[leather]]
     qty: "1"
@@ -140,7 +144,8 @@ farm.
 
 [[elements|Neutral]] element — weak to Dark, strong against nothing. Uniformly
 low combat stats (Health/Attack/Defense 70); not a fighter. Its standout stat is
-Support 140.
+Support 140. At level 80 it reaches Health 3700–4540, Attack 520–646, Defense
+470–596.
 
 ## Breeding
 

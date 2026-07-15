@@ -13,4 +13,18 @@ Một trong 12 loại [[work-suitability|Khả năng lao động]] · thứ tự
 
 ## Scaling
 
-Chưa ghi nhận giá trị scaling theo cấp.
+Giá trị công việc theo cấp khả năng — Pal có Generating Electricity phát điện
+mạnh hơn:
+
+| Cấp độ | Giá trị công việc |
+|:--:|:----------:|
+| 1 | 250 |
+| 2 | 325 |
+| 3 | 400 |
+| 4 | 500 |
+| 5 | 750 |
+| 6 | 1000 |
+| 7 | 1500 |
+| 8 | 2000 |
+| 9 | 3000 |
+| 10 | 4000 |

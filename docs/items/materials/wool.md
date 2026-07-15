@@ -8,6 +8,7 @@ sources:
   - ranch
 dropped_by:
   - [[lamball]]
+  - [[cremis]]
 tags: [item, material]
 ---
 
@@ -18,8 +19,9 @@ tags: [item, material]
 ## Obtain
 
 - Guaranteed drop when you capture or defeat [[lamball|Lamball]] (×1–3).
-- Produced by [[lamball|Lamball]] on a [[ranch|Ranch]] via its **Fluffy Shield** partner skill
-  (amount scales with skill level).
+- Guaranteed drop when you capture or defeat [[cremis|Cremis]] (×1–2).
+- Produced by [[lamball|Lamball]] (Fluffy Shield) or [[cremis|Cremis]] (Fluffy Wool) on a
+  [[ranch|Ranch]] (amount scales with skill level).
 
 ## Use
 

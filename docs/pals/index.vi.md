@@ -17,6 +17,10 @@ title: Pals
 | ![](../assets/icons/pals/flambelle.png){ .pal-avatar } | [Flambelle](flambelle.md) | — | — |
 | ![](../assets/icons/pals/vixy.png){ .pal-avatar } | [Vixy](vixy.md) | <span class="el el-neutral">Neutral</span> | XS |
 | ![](../assets/icons/pals/celaray.png){ .pal-avatar } | [Celaray](celaray.md) | <span class="el el-water">Water</span> | M |
+| ![](../assets/icons/pals/celaray-lux.png){ .pal-avatar } | [Celaray Lux](celaray-lux.md) | <span class="el el-water">Water</span> <span class="el el-electric">Electric</span> | M |
+| ![](../assets/icons/pals/univolt.png){ .pal-avatar } | [Univolt](univolt.md) | — | — |
+| ![](../assets/icons/pals/cremis.png){ .pal-avatar } | [Cremis](cremis.md) | <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/croajiro.png){ .pal-avatar } | [Croajiro](croajiro.md) | <span class="el el-water">Water</span> | XS |
 | ![](../assets/icons/pals/xenolord.png){ .pal-avatar } | [Xenolord](xenolord.md) | — | — |
 | ![](../assets/icons/pals/xenovader.png){ .pal-avatar } | [Xenovader](xenovader.md) | — | — |
 | ![](../assets/icons/pals/hangyu.png){ .pal-avatar } | [Hangyu](hangyu.md) | — | — |

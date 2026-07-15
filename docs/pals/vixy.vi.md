@@ -26,6 +26,10 @@ capture_rate_correct: 1.3
 male_probability: 50
 egg: Common Egg
 gold_coin: 407
+level_80:
+  health: [3700, 4540]
+  attack: [520, 646]
+  defense: [470, 596]
 drops:
   - item: [[leather]]
     qty: "1"
@@ -140,7 +144,7 @@ mạnh từ sớm.
 
 Hệ [[elements|Neutral]] — yếu trước Dark, không mạnh trước hệ nào. Chỉ số chiến
 đấu đều thấp (Health/Attack/Defense 70); không phải Pal đánh nhau. Điểm nổi bật
-là Support 140.
+là Support 140. Ở cấp 80 đạt Health 3700–4540, Attack 520–646, Defense 470–596.
 
 ## Nhân giống
 

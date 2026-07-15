@@ -13,6 +13,8 @@ dropped_by:
   - [[fuack]]
   - [[fuack-ignis]]
   - [[celaray]]
+  - [[celaray-lux]]
+  - [[croajiro]]
 tags: [item, material]
 ---
 
@@ -27,7 +29,7 @@ các công thức kết dính và làm mát như [[cement|Xi Măng]] và
 ## Nguồn
 
 Rơi từ các Pal hệ Nước khi bắt hoặc hạ gục — ví dụ [[fuack|Fuack]],
-[[fuack-ignis|Fuack Ignis]] và [[celaray|Celaray]].
+[[fuack-ignis|Fuack Ignis]], [[celaray|Celaray]], [[celaray-lux|Celaray Lux]] và [[croajiro|Croajiro]].
 
 ## Dùng trong
 
