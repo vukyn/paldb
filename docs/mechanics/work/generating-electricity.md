@@ -13,4 +13,18 @@ One of the 12 [[work-suitability|Work Suitability]] jobs · task order in
 
 ## Scaling
 
-Level-scaling values not recorded yet.
+Work value by suitability level — a Pal with higher Generating Electricity
+powers generators harder:
+
+| Lv | Work value |
+|:--:|:----------:|
+| 1 | 250 |
+| 2 | 325 |
+| 3 | 400 |
+| 4 | 500 |
+| 5 | 750 |
+| 6 | 1000 |
+| 7 | 1500 |
+| 8 | 2000 |
+| 9 | 3000 |
+| 10 | 4000 |

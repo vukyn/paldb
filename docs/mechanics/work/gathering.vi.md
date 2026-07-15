@@ -13,4 +13,18 @@ Một trong 12 loại [[work-suitability|Khả năng lao động]] · thứ tự
 
 ## Scaling
 
-Chưa ghi nhận giá trị scaling theo cấp.
+Giá trị công việc theo cấp khả năng, kèm hệ số nhân số lượng rơi (Gathering càng
+cao thu càng nhiều vật phẩm mỗi điểm thu hoạch):
+
+| Cấp độ | Giá trị công việc | Nhân SL rơi |
+|:--:|:----------:|:----------:|
+| 1 | 50 | ×1 |
+| 2 | 70 | ×1.5 |
+| 3 | 100 | ×2 |
+| 4 | 140 | ×2.5 |
+| 5 | 190 | ×3 |
+| 6 | 260 | ×3.5 |
+| 7 | 370 | ×4 |
+| 8 | 510 | ×4.5 |
+| 9 | 720 | ×5 |
+| 10 | 1000 | ×5.5 |

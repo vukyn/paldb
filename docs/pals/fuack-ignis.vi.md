@@ -28,6 +28,10 @@ capture_rate_correct: 1.1
 male_probability: 50
 egg: Damp Egg
 gold_coin: 463
+level_80:
+  health: [3300, 4020]
+  attack: [610, 763]
+  defense: [410, 518]
 drops:
   - item: [[leather]]
     qty: "1"
@@ -92,7 +96,8 @@ và Transporting cho việc vặt.
 
 Hệ đôi [[elements|Water]]/[[elements|Fire]] — yếu trước Electric (do Water) và
 Water (do Fire). Tấn công cận chiến mạnh (MeleeAttack 100, Attack 85) nhưng
-Health và Defense thấp hơn (60).
+Health và Defense thấp hơn (60). Ở cấp 80 đạt Health 3300–4020, Attack 610–763,
+Defense 410–518.
 
 ## Nhân giống
 

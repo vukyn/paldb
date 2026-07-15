@@ -14,6 +14,8 @@ crafted_from:
   - item: [[wool]]
     qty: 2
 crafted_at: [[primitive-workbench]]
+dropped_by:
+  - [[croajiro]]
 tags: [item, structure-material]
 ---
 
@@ -23,7 +25,8 @@ tags: [item, structure-material]
 
 A basic textile woven from [[wool|Wool]]. Required to create armor and used in
 several structures. Unlocked at Technology Lv 4 and craftable from the
-[[primitive-workbench|Primitive Workbench]] onward.
+[[primitive-workbench|Primitive Workbench]] onward. Also drops from
+[[croajiro|Croajiro]] (×1–2, 25%).
 
 ## Craft
 

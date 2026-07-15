@@ -13,4 +13,18 @@ Một trong 12 loại [[work-suitability|Khả năng lao động]] · thứ tự
 
 ## Scaling
 
-Chưa ghi nhận giá trị scaling theo cấp.
+Giá trị công việc theo cấp khả năng — Pal có Watering cao hơn đóng góp nhiều hơn
+mỗi nhịp:
+
+| Cấp độ | Giá trị công việc |
+|:--:|:----------:|
+| 1 | 50 |
+| 2 | 70 |
+| 3 | 100 |
+| 4 | 140 |
+| 5 | 190 |
+| 6 | 260 |
+| 7 | 370 |
+| 8 | 510 |
+| 9 | 720 |
+| 10 | 1000 |

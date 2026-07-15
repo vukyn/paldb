@@ -13,4 +13,18 @@ One of the 12 [[work-suitability|Work Suitability]] jobs · task order in
 
 ## Scaling
 
-Level-scaling values not recorded yet.
+Unlike other jobs, Transporting scales as **carry capacity** — how many item
+pieces a Pal hauls per trip:
+
+| Lv | Carry (pieces) |
+|:--:|:--------------:|
+| 1 | 2 |
+| 2 | 5 |
+| 3 | 10 |
+| 4 | 20 |
+| 5 | 40 |
+| 6 | 70 |
+| 7 | 120 |
+| 8 | 200 |
+| 9 | 320 |
+| 10 | 500 |

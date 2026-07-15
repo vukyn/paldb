@@ -28,6 +28,10 @@ capture_rate_correct: 1.1
 male_probability: 50
 egg: Damp Egg
 gold_coin: 463
+level_80:
+  health: [3300, 4020]
+  attack: [610, 763]
+  defense: [410, 518]
 drops:
   - item: [[leather]]
     qty: "1"
@@ -92,7 +96,8 @@ watering, plus Handiwork and Transporting for general chores.
 
 [[elements|Water]]/[[elements|Fire]] dual type — weak to Electric (Water) and
 Water (Fire). Strong melee (MeleeAttack 100, Attack 85) with lower Health and
-Defense (60).
+Defense (60). At level 80 it reaches Health 3300–4020, Attack 610–763, Defense
+410–518.
 
 ## Breeding
 

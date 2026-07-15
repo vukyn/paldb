@@ -8,6 +8,7 @@ sources:
   - ranch
 dropped_by:
   - [[lamball]]
+  - [[cremis]]
 tags: [item, material]
 ---
 
@@ -17,8 +18,9 @@ tags: [item, material]
 
 ## Cách lấy
 
-- Chắc chắn rơi khi bắt hoặc hạ [[lamball|Lamball]] (×1–3).
-- Thả [[lamball|Lamball]] vào [[ranch|Trang trại]], nó sẽ đều đặn cho Len qua kỹ năng **Fluffy Shield**
+- Chắc chắn rơi khi bắt hoặc hạ [[lamball|Lamball]] (×1–3) hoặc [[cremis|Cremis]] (×1–2).
+- Thả [[lamball|Lamball]] (Fluffy Shield) hoặc [[cremis|Cremis]] (Fluffy Wool) vào
+  [[ranch|Trang trại]], chúng sẽ đều đặn cho Len
   (cấp càng cao càng nhiều).
 
 ## Công dụng

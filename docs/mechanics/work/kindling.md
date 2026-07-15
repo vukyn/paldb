@@ -13,4 +13,18 @@ One of the 12 [[work-suitability|Work Suitability]] jobs · task order in
 
 ## Scaling
 
-Level-scaling values not recorded yet.
+Work value by suitability level — a Pal with higher Kindling contributes more
+per tick (roughly ×108 from Lv 1 to Lv 10):
+
+| Lv | Work value |
+|:--:|:----------:|
+| 1 | 50 |
+| 2 | 80 |
+| 3 | 140 |
+| 4 | 240 |
+| 5 | 400 |
+| 6 | 680 |
+| 7 | 1100 |
+| 8 | 1900 |
+| 9 | 3200 |
+| 10 | 5400 |
