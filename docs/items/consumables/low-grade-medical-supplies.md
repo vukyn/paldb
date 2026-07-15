@@ -32,7 +32,8 @@ tags: [item, consumable, medicine]
 > Health, though.
 
 The entry-tier medicine, for the player and for treating base Pals. Cures the
-common ailments but restores no HP.
+common ailments but restores no HP. See [[sanity|Sanity]] for the
+status conditions medicine treats.
 
 ## Craft
 
