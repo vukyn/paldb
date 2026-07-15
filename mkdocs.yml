@@ -1,6 +1,9 @@
 site_name: PalDB
 site_description: Palworld knowledge base — human lookup + LLM reference
 site_author: vukyn
+# GitHub Pages project site (subpath /paldb/). Needed for the i18n language
+# switcher, sitemap, and canonical URLs. Change if a custom domain is added.
+site_url: https://vukyn.github.io/paldb/
 # Palworld game database. Markdown entities with frontmatter stats + [[wikilinks]].
 
 # Dev server on :10000 (avoid the crowded :8000 range).

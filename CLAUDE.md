@@ -126,7 +126,10 @@ contain`).
 
 ## Platform notes
 
-- Deploy target TBD (static host — fly.io/pages/R2). No backend.
+- **Deployed on GitHub Pages** (project site, subpath `/paldb/`) via
+  `.github/workflows/deploy.yml` — builds `mkdocs build` + publishes on every
+  push to `main`. `site_url` in mkdocs.yml points at
+  `https://vukyn.github.io/paldb/`. No backend. No custom domain yet.
 - `site/` and `.venv/` are gitignored — never commit the build output.
 - `.code-review-graph/` is a local artifact — never commit (it is Tree-sitter
   for code; largely N/A for a markdown repo, but ignored regardless).
