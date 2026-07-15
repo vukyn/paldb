@@ -9,6 +9,8 @@ gold_coin: 300
 weight: 0.5
 stack: 9999
 code: FireOrgan
+dropped_by:
+  - [[fuack-ignis]]
 tags: [item, material]
 ---
 
@@ -21,7 +23,7 @@ it fuels every furnace tier and crafts fire gear such as the [[fire-arrow|Fire A
 
 ## Obtain
 
-Dropped by Fire-element Pals on capture or defeat.
+Dropped by Fire-element Pals on capture or defeat — e.g. [[fuack-ignis|Fuack Ignis]] (×1–2, 50%).
 
 ## Used to build
 

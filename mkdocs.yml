@@ -91,6 +91,7 @@ plugins:
             Production: Sản xuất
             Pal: Pal
             Defenses: Phòng thủ
+            Infrastructure: Cơ sở hạ tầng
             Technology: Công nghệ
             Elements: Nguyên tố
             Work Suitability: Khả năng lao động
@@ -138,6 +139,7 @@ nav:
     - Pal: construction/pal/index.md
     - Defenses: construction/defenses/index.md
     - Food: construction/food/index.md
+    - Infrastructure: construction/infrastructure/index.md
   - Technology:
     - mechanics/index.md
     - Elements: mechanics/elements.md

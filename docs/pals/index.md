@@ -12,6 +12,11 @@ title: Pals
 | ![](../assets/icons/pals/cattiva.png){ .pal-avatar } | [Cattiva](cattiva.md) | <span class="el el-neutral">Neutral</span> | XS |
 | ![](../assets/icons/pals/chikipi.png){ .pal-avatar } | [Chikipi](chikipi.md) | <span class="el el-neutral">Neutral</span> | XS |
 | ![](../assets/icons/pals/lifmunk.png){ .pal-avatar } | [Lifmunk](lifmunk.md) | <span class="el el-grass">Grass</span> | XS |
+| ![](../assets/icons/pals/fuack.png){ .pal-avatar } | [Fuack](fuack.md) | <span class="el el-water">Water</span> | XS |
+| ![](../assets/icons/pals/fuack-ignis.png){ .pal-avatar } | [Fuack Ignis](fuack-ignis.md) | <span class="el el-water">Water</span> <span class="el el-fire">Fire</span> | XS |
+| ![](../assets/icons/pals/flambelle.png){ .pal-avatar } | [Flambelle](flambelle.md) | — | — |
+| ![](../assets/icons/pals/vixy.png){ .pal-avatar } | [Vixy](vixy.md) | <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/celaray.png){ .pal-avatar } | [Celaray](celaray.md) | <span class="el el-water">Water</span> | M |
 | ![](../assets/icons/pals/xenolord.png){ .pal-avatar } | [Xenolord](xenolord.md) | — | — |
 | ![](../assets/icons/pals/xenovader.png){ .pal-avatar } | [Xenovader](xenovader.md) | — | — |
 | ![](../assets/icons/pals/hangyu.png){ .pal-avatar } | [Hangyu](hangyu.md) | — | — |

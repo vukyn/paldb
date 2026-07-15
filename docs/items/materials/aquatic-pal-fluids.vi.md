@@ -9,6 +9,10 @@ gold_coin: 300
 weight: 0.2
 stack: 9999
 code: PalFluid
+dropped_by:
+  - [[fuack]]
+  - [[fuack-ignis]]
+  - [[celaray]]
 tags: [item, material]
 ---
 
@@ -22,7 +26,8 @@ các công thức kết dính và làm mát như [[cement|Xi Măng]] và
 
 ## Nguồn
 
-Rơi từ các Pal hệ Nước khi bắt hoặc hạ gục.
+Rơi từ các Pal hệ Nước khi bắt hoặc hạ gục — ví dụ [[fuack|Fuack]],
+[[fuack-ignis|Fuack Ignis]] và [[celaray|Celaray]].
 
 ## Dùng trong
 

@@ -37,6 +37,7 @@ kỹ năng đó.
 |-----|--------|-----------|
 | [Lamball](../../pals/lamball.md) | [Len](../../items/materials/wool.md) | Fluffy Shield |
 | [Chikipi](../../pals/chikipi.md) | [Trứng](../../items/food/egg.md) | Egg Layer |
+| [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Đồng Vàng, Mũi Tên, Bone | Dig Here! |
 
 ## Chế tạo
 

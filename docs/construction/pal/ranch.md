@@ -37,6 +37,7 @@ skill's item.
 |-----|----------|-----|
 | [Lamball](../../pals/lamball.md) | [Wool](../../items/materials/wool.md) | Fluffy Shield |
 | [Chikipi](../../pals/chikipi.md) | [Egg](../../items/food/egg.md) | Egg Layer |
+| [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Gold, Arrows, Bone | Dig Here! |
 
 ## Build
 
