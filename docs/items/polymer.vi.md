@@ -1,0 +1,48 @@
+---
+entity: item
+name: Polymer
+slug: polymer
+category: material
+rarity: common
+rank: 3
+gold_coin: 1080
+weight: 0.5
+stack: 9999
+code: Polymer
+tech_level: 33
+crafted_from:
+  - item: [[high-quality-pal-oil]]
+    qty: 2
+  - item: [[sulfur]]
+    qty: 1
+tags: [item, material]
+---
+
+# Polymer
+
+> Polymer làm từ dầu tinh luyện. Cần cho các món cao cấp như súng. Chế tại
+> Production Assembly Line.
+
+## Chế tạo
+
+Mở khoá ở **Technology Lv 33**.
+
+| Nguyên liệu | SL |
+|-------------|:--:|
+| [Dầu Pal Cao Cấp](high-quality-pal-oil.md) | 2 |
+| [Lưu Huỳnh](sulfur.md) | 1 |
+
+Chế được tại: [[production-assembly-line|Production Assembly Line]],
+[[production-assembly-line-ii|Production Assembly Line II]],
+[[advanced-workshop|Advanced Workshop]], [[ancient-workbench|Ancient Workbench]].
+
+## Công dụng
+
+Linh kiện chế tạo cao cấp — súng, [[circuit-board|Bảng Mạch]], và đồ công nghệ
+cao khác.
+
+## Chỉ số
+
+| Độ hiếm | Khối lượng | Xếp chồng | Bán |
+|:-------:|:----------:|:---------:|:---:|
+| Common (rank 3) | 0.5 | 9999 | 1080 Gold |
