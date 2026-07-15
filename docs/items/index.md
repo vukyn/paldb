@@ -30,10 +30,11 @@ title: Items
 | ![](../assets/icons/items/refined-ingot.png){ .item-icon } | [Refined Ingot](refined-ingot.md) | material | refine Ore + Coal |
 | ![](../assets/icons/items/pal-metal-ingot.png){ .item-icon } | [Pal Metal Ingot](pal-metal-ingot.md) | material | refine Ore + Quartz + Paldium |
 | ![](../assets/icons/items/hardwood.png){ .item-icon } | [Hardwood](hardwood.md) | material | gather (harsh biomes) |
-| ![](../assets/icons/items/coal.png){ .item-icon } | [Coal](coal.md) | material | stub |
+| ![](../assets/icons/items/coal.png){ .item-icon } | [Coal](coal.md) | material | mine (cave) / Blazamut·Pierdon |
 | ![](../assets/icons/items/pure-quartz.png){ .item-icon } | [Pure Quartz](pure-quartz.md) | material | mine (snow) / Pierdon Cryst |
 | ![](../assets/icons/items/circuit-board.png){ .item-icon } | [Circuit Board](circuit-board.md) | material | craft (Quartz + Polymer) |
 | ![](../assets/icons/items/polymer.png){ .item-icon } | [Polymer](polymer.md) | material | craft (Pal Oil + Sulfur) |
-| ![](../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [High Quality Pal Oil](high-quality-pal-oil.md) | material | stub |
+| ![](../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [High Quality Pal Oil](high-quality-pal-oil.md) | material | Pal drop |
 | ![](../assets/icons/items/sulfur.png){ .item-icon } | [Sulfur](sulfur.md) | material | mine (volcano) / Pierdon |
-| ![](../assets/icons/items/gunpowder.png){ .item-icon } | [Gunpowder](gunpowder.md) | material | stub |
+| ![](../assets/icons/items/gunpowder.png){ .item-icon } | [Gunpowder](gunpowder.md) | material | craft (Charcoal + Sulfur) |
+| ![](../assets/icons/items/charcoal.png){ .item-icon } | [Charcoal](charcoal.md) | material | stub |

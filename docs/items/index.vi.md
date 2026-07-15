@@ -30,10 +30,11 @@ title: Vật phẩm
 | ![](../assets/icons/items/refined-ingot.png){ .item-icon } | [Thỏi Tinh Luyện](refined-ingot.md) | nguyên liệu | luyện Quặng + Than |
 | ![](../assets/icons/items/pal-metal-ingot.png){ .item-icon } | [Thỏi Pal Metal](pal-metal-ingot.md) | nguyên liệu | luyện Quặng + Thạch Anh + Paldium |
 | ![](../assets/icons/items/hardwood.png){ .item-icon } | [Gỗ Cứng](hardwood.md) | nguyên liệu | nhặt (biome khắc nghiệt) |
-| ![](../assets/icons/items/coal.png){ .item-icon } | [Than](coal.md) | nguyên liệu | stub |
+| ![](../assets/icons/items/coal.png){ .item-icon } | [Than](coal.md) | nguyên liệu | đào (hang) / Blazamut·Pierdon |
 | ![](../assets/icons/items/pure-quartz.png){ .item-icon } | [Thạch Anh Tinh Khiết](pure-quartz.md) | nguyên liệu | đào (tuyết) / Pierdon Cryst |
 | ![](../assets/icons/items/circuit-board.png){ .item-icon } | [Bảng Mạch](circuit-board.md) | nguyên liệu | chế (Quartz + Polymer) |
 | ![](../assets/icons/items/polymer.png){ .item-icon } | [Polymer](polymer.md) | nguyên liệu | chế (Dầu Pal + Lưu Huỳnh) |
-| ![](../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [Dầu Pal Cao Cấp](high-quality-pal-oil.md) | nguyên liệu | stub |
+| ![](../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [Dầu Pal Cao Cấp](high-quality-pal-oil.md) | nguyên liệu | Pal rơi |
 | ![](../assets/icons/items/sulfur.png){ .item-icon } | [Lưu Huỳnh](sulfur.md) | nguyên liệu | đào (núi lửa) / Pierdon |
-| ![](../assets/icons/items/gunpowder.png){ .item-icon } | [Thuốc Súng](gunpowder.md) | nguyên liệu | stub |
+| ![](../assets/icons/items/gunpowder.png){ .item-icon } | [Thuốc Súng](gunpowder.md) | nguyên liệu | chế (Than Củi + Lưu Huỳnh) |
+| ![](../assets/icons/items/charcoal.png){ .item-icon } | [Than Củi](charcoal.md) | nguyên liệu | stub |
