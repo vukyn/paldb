@@ -22,7 +22,8 @@ tags: [item, material]
 
 ## Obtain
 
-Refine [[ore|Ore]] ×2 in a furnace → 1 Ingot.
+Refine [[ore|Ore]] ×2 in a [[primitive-furnace|Primitive Furnace]] (or any
+higher furnace / the [[ancient-furnace|Ancient Furnace]]) → 1 Ingot.
 
 ## Use
 

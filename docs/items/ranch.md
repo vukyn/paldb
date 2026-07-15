@@ -42,8 +42,8 @@ skill's item.
 
 Unlocked at **Technology Lv 5**. Build workload: 15000 ([[handiwork|Handiwork]]).
 
-| Material | Qty |
-|----------|:---:|
-| [Wood](wood.md) | 30 |
-| [Stone](stone.md) | 20 |
-| [Fiber](fiber.md) | 30 |
+|  | Material | Qty |
+|:--:|----------|:---:|
+| ![](../assets/icons/items/wood.png){ .game-icon } | [Wood](wood.md) | 30 |
+| ![](../assets/icons/items/stone.png){ .game-icon } | [Stone](stone.md) | 20 |
+| ![](../assets/icons/items/fiber.png){ .game-icon } | [Fiber](fiber.md) | 30 |

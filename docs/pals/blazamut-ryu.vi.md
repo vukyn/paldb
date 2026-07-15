@@ -15,6 +15,6 @@ tags: [pal]
 
 ## Vật phẩm rơi
 
-| Icon | Vật phẩm | SL | Tỉ lệ |
+|  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
 | ![](../assets/icons/items/coal.png){ .game-icon } | [Than](../items/coal.md) | ×10 | 100% |

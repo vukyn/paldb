@@ -1,0 +1,34 @@
+---
+entity: item
+name: Bone
+slug: bone
+category: material
+rarity: common
+rank: 1
+gold_coin: 200
+weight: 1
+stack: 9999
+code: Bone
+tags: [item, material]
+---
+
+# Bone
+
+> Xương thu từ Pal — nguồn canxi cao cấp dồi dào.
+
+Rơi từ Pal khi bắt hoặc hạ gục. Vật liệu chế tạo giai đoạn đầu, dùng trong các
+công thức như [[cement|Xi Măng]].
+
+## Nguồn
+
+Rơi từ Pal khi bắt hoặc hạ gục.
+
+## Dùng trong
+
+- [[cement|Xi Măng]] (×1)
+
+## Chỉ số
+
+| Độ hiếm | Bậc | Khối lượng | Xếp chồng | Bán |
+|:-------:|:---:|:----------:|:---------:|:---:|
+| Common | 1 | 1 | 9999 | 200 Vàng |

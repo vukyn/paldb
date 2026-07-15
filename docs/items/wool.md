@@ -17,7 +17,7 @@ tags: [item, material]
 
 ## Obtain
 
-- Dropped by [[lamball|Lamball]] (×1–3, 100%) on capture/defeat.
+- Guaranteed drop when you capture or defeat [[lamball|Lamball]] (×1–3).
 - Produced by [[lamball|Lamball]] on a [[ranch|Ranch]] via its **Fluffy Shield** partner skill
   (amount scales with skill level).
 

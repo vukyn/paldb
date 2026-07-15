@@ -16,7 +16,7 @@ tags: [item, food]
 
 ## Obtain
 
-Dropped by [[lamball|Lamball]] (×1, 100%) on capture/defeat.
+Guaranteed drop when you capture or defeat [[lamball|Lamball]] (×1).
 
 ## Use
 

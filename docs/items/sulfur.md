@@ -24,7 +24,7 @@ tags: [item, material]
 ## Obtain
 
 - Mined in volcanic areas.
-- Dropped by [[pierdon|Pierdon]] (×4–5, 100%).
+- Guaranteed drop when you capture or defeat [[pierdon|Pierdon]] (×4–5).
 
 ## Use
 

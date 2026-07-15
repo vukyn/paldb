@@ -25,7 +25,7 @@ tags: [item, material]
 ## Cách lấy
 
 - Đào ở đồng tuyết và các vùng lạnh tương tự.
-- Rơi từ [[pierdon-cryst|Pierdon Cryst]] (×4–5, 100%) — kể cả biến thể Lv.70.
+- Chắc chắn rơi khi bắt hoặc hạ gục [[pierdon-cryst|Pierdon Cryst]] (×4–5) — kể cả biến thể Lv.70.
 
 ## Công dụng
 

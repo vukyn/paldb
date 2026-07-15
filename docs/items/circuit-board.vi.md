@@ -26,14 +26,19 @@ tags: [item, material]
 
 Mở khoá ở **Technology Lv 35**.
 
-| Nguyên liệu | SL |
-|-------------|:--:|
-| [Thạch Anh Tinh Khiết](pure-quartz.md) | 2 |
-| [Polymer](polymer.md) | 1 |
+|  | Nguyên liệu | SL |
+|:--:|-------------|:--:|
+| ![](../assets/icons/items/pure-quartz.png){ .game-icon } | [Thạch Anh Tinh Khiết](pure-quartz.md) | 2 |
+| ![](../assets/icons/items/polymer.png){ .game-icon } | [Polymer](polymer.md) | 1 |
 
-Chế được tại: [[production-assembly-line|Production Assembly Line]],
-[[production-assembly-line-ii|Production Assembly Line II]],
-[[advanced-workshop|Advanced Workshop]], [[ancient-workbench|Ancient Workbench]].
+**Chế được tại**
+
+|  | Trạm |
+|:----:|------|
+| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Production Assembly Line](production-assembly-line.md) |
+| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Production Assembly Line II](production-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Advanced Workshop](advanced-workshop.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
 
 ## Công dụng
 

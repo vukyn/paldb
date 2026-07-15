@@ -37,4 +37,39 @@ title: Items
 | ![](../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [High Quality Pal Oil](high-quality-pal-oil.md) | material | Pal drop |
 | ![](../assets/icons/items/sulfur.png){ .item-icon } | [Sulfur](sulfur.md) | material | mine (volcano) / Pierdon |
 | ![](../assets/icons/items/gunpowder.png){ .item-icon } | [Gunpowder](gunpowder.md) | material | craft (Charcoal + Sulfur) |
-| ![](../assets/icons/items/charcoal.png){ .item-icon } | [Charcoal](charcoal.md) | material | stub |
+| ![](../assets/icons/items/charcoal.png){ .item-icon } | [Charcoal](charcoal.md) | material | craft (Wood) |
+| ![](../assets/icons/items/nail.png){ .item-icon } | [Nail](nail.md) | material | craft (Ingot) |
+| ![](../assets/icons/items/wooden-board.png){ .item-icon } | [Wooden Board](wooden-board.md) | material | stub |
+| ![](../assets/icons/items/cement.png){ .item-icon } | [Cement](cement.md) | material | craft (HQ Workbench) |
+| ![](../assets/icons/items/corrosive-solvent.png){ .item-icon } | [Corrosive Solvent](corrosive-solvent.md) | material | stub |
+| ![](../assets/icons/items/primitive-workbench.png){ .item-icon } | [Primitive Workbench](primitive-workbench.md) | structure | craft (Tech Lv 1) |
+| ![](../assets/icons/items/high-quality-workbench.png){ .item-icon } | [High Quality Workbench](high-quality-workbench.md) | structure | craft (Tech Lv 11) |
+| ![](../assets/icons/items/production-assembly-line.png){ .item-icon } | [Production Assembly Line](production-assembly-line.md) | structure | craft (Tech Lv 29) |
+| ![](../assets/icons/items/production-assembly-line-ii.png){ .item-icon } | [Production Assembly Line II](production-assembly-line-ii.md) | structure | craft (Tech Lv 42) |
+| ![](../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | material | stub |
+| ![](../assets/icons/items/hexolite.png){ .item-icon } | [Hexolite](hexolite.md) | material | stub |
+| ![](../assets/icons/items/computer.png){ .item-icon } | [Computer](computer.md) | material | stub |
+| ![](../assets/icons/items/bio-battery.png){ .item-icon } | [Bio Battery](bio-battery.md) | material | stub |
+| ![](../assets/icons/items/soralite-ingot.png){ .item-icon } | [Soralite Ingot](soralite-ingot.md) | material | stub |
+| ![](../assets/icons/items/ai-core.png){ .item-icon } | [AI Core](ai-core.md) | material | stub |
+| ![](../assets/icons/items/plasteel.png){ .item-icon } | [Plasteel](plasteel.md) | material | stub |
+| ![](../assets/icons/items/advanced-workshop.png){ .item-icon } | [Advanced Workshop](advanced-workshop.md) | structure | craft (Tech Lv 62) |
+| ![](../assets/icons/items/ancient-workbench.png){ .item-icon } | [Ancient Workbench](ancient-workbench.md) | structure | craft (Tech Lv 67) |
+| ![](../assets/icons/items/sphere-workbench.png){ .item-icon } | [Sphere Workbench](sphere-workbench.md) | structure | craft (Tech Lv 14) |
+| ![](../assets/icons/items/sphere-assembly-line.png){ .item-icon } | [Sphere Assembly Line](sphere-assembly-line.md) | structure | craft (Tech Lv 27) |
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .item-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) | structure | craft (Tech Lv 35) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .item-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) | structure | craft (Tech Lv 58) |
+| ![](../assets/icons/items/flame-organ.png){ .item-icon } | [Flame Organ](flame-organ.md) | material | Fire Pal drop |
+| ![](../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | material | Pal drop |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .item-icon } | [Aquatic Pal Fluids](aquatic-pal-fluids.md) | material | Water Pal drop |
+| ![](../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | material | Ice Pal drop |
+| ![](../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | material | craft (Assembly Line) |
+| ![](../assets/icons/items/thermal-core.png){ .item-icon } | [Thermal Core](thermal-core.md) | material | stub |
+| ![](../assets/icons/items/ancient-civilization-core.png){ .item-icon } | [Ancient Civilization Core](ancient-civilization-core.md) | material | rare find (ruins) |
+| ![](../assets/icons/items/ancient-civilization-parts.png){ .item-icon } | [Ancient Civilization Parts](ancient-civilization-parts.md) | material | boss / ruins |
+| ![](../assets/icons/items/ice-mine.png){ .item-icon } | [Ice Mine](ice-mine.md) | structure | craft (Tech Lv 38) |
+| ![](../assets/icons/items/primitive-furnace.png){ .item-icon } | [Primitive Furnace](primitive-furnace.md) | structure | craft (Tech Lv 10) |
+| ![](../assets/icons/items/improved-furnace.png){ .item-icon } | [Improved Furnace](improved-furnace.md) | structure | craft (Tech Lv 34) |
+| ![](../assets/icons/items/electric-furnace.png){ .item-icon } | [Electric Furnace](electric-furnace.md) | structure | craft (Tech Lv 44) |
+| ![](../assets/icons/items/gigantic-furnace.png){ .item-icon } | [Gigantic Furnace](gigantic-furnace.md) | structure | craft (Tech Lv 58) |
+| ![](../assets/icons/items/ancient-furnace.png){ .item-icon } | [Ancient Furnace](ancient-furnace.md) | structure | craft (Tech Lv 66) |

@@ -15,6 +15,6 @@ tags: [pal]
 
 ## Vật phẩm rơi
 
-| Icon | Vật phẩm | SL | Tỉ lệ |
+|  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
 | ![](../assets/icons/items/pure-quartz.png){ .game-icon } | [Thạch Anh Tinh Khiết](../items/pure-quartz.md) | ×4–5 | 100% |

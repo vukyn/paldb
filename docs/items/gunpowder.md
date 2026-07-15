@@ -26,15 +26,20 @@ tags: [item, material]
 
 Unlocked at **Technology Lv 21**.
 
-| Material | Qty |
-|----------|:---:|
-| [Charcoal](charcoal.md) | 2 |
-| [Sulfur](sulfur.md) | 1 |
+|  | Material | Qty |
+|:--:|----------|:---:|
+| ![](../assets/icons/items/charcoal.png){ .game-icon } | [Charcoal](charcoal.md) | 2 |
+| ![](../assets/icons/items/sulfur.png){ .game-icon } | [Sulfur](sulfur.md) | 1 |
 
-Craftable at: [[high-quality-workbench|High Quality Workbench]],
-[[production-assembly-line|Production Assembly Line]],
-[[production-assembly-line-ii|Production Assembly Line II]],
-[[advanced-workshop|Advanced Workshop]], [[ancient-workbench|Ancient Workbench]].
+**Craftable at**
+
+|  | Station |
+|:----:|---------|
+| ![](../assets/icons/items/high-quality-workbench.png){ .game-icon } | [High Quality Workbench](high-quality-workbench.md) |
+| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Production Assembly Line](production-assembly-line.md) |
+| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Production Assembly Line II](production-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Advanced Workshop](advanced-workshop.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
 
 ## Use
 

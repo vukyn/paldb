@@ -32,16 +32,20 @@ sphere.
 
 ## Craft
 
-| Material | Qty |
-|----------|:---:|
-| [Paldium Fragment](paldium-fragment.md) | 5 |
-| [Pal Metal Ingot](pal-metal-ingot.md) | 3 |
-| [Hardwood](hardwood.md) | 3 |
-| [Stone](stone.md) | 20 |
+|  | Material | Qty |
+|:--:|----------|:---:|
+| ![](../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](paldium-fragment.md) | 5 |
+| ![](../assets/icons/items/pal-metal-ingot.png){ .game-icon } | [Pal Metal Ingot](pal-metal-ingot.md) | 3 |
+| ![](../assets/icons/items/hardwood.png){ .game-icon } | [Hardwood](hardwood.md) | 3 |
+| ![](../assets/icons/items/stone.png){ .game-icon } | [Stone](stone.md) | 20 |
 
-Craftable at: [[sphere-assembly-line-ii|Sphere Assembly Line II]],
-[[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]],
-[[ancient-workbench|Ancient Workbench]].
+**Craftable at**
+
+|  | Station |
+|:----:|---------|
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .game-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .game-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
 
 ## Stats
 

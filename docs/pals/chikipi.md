@@ -79,7 +79,7 @@ number of eggs scales with the skill level:
 
 ## Work & base use
 
-| Icon | Work | Lv |
+|  | Work | Lv |
 |:----:|------|:--:|
 | ![](../assets/icons/work/gathering.png){ .game-icon } | [Gathering](../mechanics/work/gathering.md) | 1 |
 | ![](../assets/icons/work/farming.png){ .game-icon } | [Farming](../mechanics/work/farming.md) | 1 |
@@ -101,7 +101,7 @@ CombiRank 3080. Documented parent combos: none recorded yet.
 
 On capture or defeat:
 
-| Icon | Item | Qty | Chance |
+|  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/egg.png){ .game-icon } | [Egg](../items/egg.md) | ×1 | 100% |
 | ![](../assets/icons/items/chikipi-poultry.png){ .game-icon } | [Chikipi Poultry](../items/chikipi-poultry.md) | ×1 | 100% |

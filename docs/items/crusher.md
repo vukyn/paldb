@@ -39,8 +39,8 @@ Crush raw materials into [[paldium-fragment|Paldium Fragment]] — from
 
 Unlocked at **Technology Lv 8**. Build workload: 8000 ([[handiwork|Handiwork]]).
 
-| Material | Qty |
-|----------|:---:|
-| [Wood](wood.md) | 50 |
-| [Stone](stone.md) | 20 |
-| [Paldium Fragment](paldium-fragment.md) | 10 |
+|  | Material | Qty |
+|:--:|----------|:---:|
+| ![](../assets/icons/items/wood.png){ .game-icon } | [Wood](wood.md) | 50 |
+| ![](../assets/icons/items/stone.png){ .game-icon } | [Stone](stone.md) | 20 |
+| ![](../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](paldium-fragment.md) | 10 |

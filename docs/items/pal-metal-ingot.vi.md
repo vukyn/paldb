@@ -26,7 +26,8 @@ tags: [item, material]
 ## Cách lấy
 
 Luyện [[ore|Quặng Đồng]] ×4 + [[pure-quartz|Thạch Anh Tinh Khiết]] ×1 +
-[[paldium-fragment|Mảnh Paldium]] ×2 trong lò.
+[[paldium-fragment|Mảnh Paldium]] ×2 trong
+[[electric-furnace|Electric Furnace]] (hoặc [[ancient-furnace|Ancient Furnace]]).
 
 ## Công dụng
 

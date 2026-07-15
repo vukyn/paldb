@@ -42,8 +42,8 @@ kỹ năng đó.
 
 Mở khoá ở **Technology Lv 5**. Công sức xây: 15000 ([[handiwork|Handiwork]]).
 
-| Nguyên liệu | SL |
-|-------------|:--:|
-| [Gỗ](wood.md) | 30 |
-| [Đá](stone.md) | 20 |
-| [Sợi thực vật](fiber.md) | 30 |
+|  | Nguyên liệu | SL |
+|:--:|-------------|:--:|
+| ![](../assets/icons/items/wood.png){ .game-icon } | [Gỗ](wood.md) | 30 |
+| ![](../assets/icons/items/stone.png){ .game-icon } | [Đá](stone.md) | 20 |
+| ![](../assets/icons/items/fiber.png){ .game-icon } | [Sợi thực vật](fiber.md) | 30 |

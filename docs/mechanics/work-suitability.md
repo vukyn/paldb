@@ -15,7 +15,7 @@ The order Pals pick these jobs is [[work-priority|Work Priority]].
 
 ## The 12 work types
 
-| Icon | Work | What the Pal does |
+|  | Work | What the Pal does |
 |:----:|------|-------------------|
 | ![](../assets/icons/work/kindling.png){ .game-icon } | [Kindling](work/kindling.md) | Lights furnaces, forges and cooking fires (smelting, cooking). |
 | ![](../assets/icons/work/watering.png){ .game-icon } | [Watering](work/watering.md) | Waters crops at plantations, fills water needs, puts out fires. |

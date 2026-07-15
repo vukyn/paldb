@@ -27,17 +27,21 @@ Capture Power **27** · unlocked at Technology Lv **27** · Uncommon.
 
 ## Craft
 
-| Material | Qty |
-|----------|:---:|
-| [Paldium Fragment](paldium-fragment.md) | 3 |
-| [Ingot](ingot.md) | 3 |
-| [Wood](wood.md) | 8 |
-| [Stone](stone.md) | 8 |
+|  | Material | Qty |
+|:--:|----------|:---:|
+| ![](../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](paldium-fragment.md) | 3 |
+| ![](../assets/icons/items/ingot.png){ .game-icon } | [Ingot](ingot.md) | 3 |
+| ![](../assets/icons/items/wood.png){ .game-icon } | [Wood](wood.md) | 8 |
+| ![](../assets/icons/items/stone.png){ .game-icon } | [Stone](stone.md) | 8 |
 
-Craftable at: [[sphere-assembly-line|Sphere Assembly Line]],
-[[sphere-assembly-line-ii|Sphere Assembly Line II]],
-[[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]],
-[[ancient-workbench|Ancient Workbench]].
+**Craftable at**
+
+|  | Station |
+|:----:|---------|
+| ![](../assets/icons/items/sphere-assembly-line.png){ .game-icon } | [Sphere Assembly Line](sphere-assembly-line.md) |
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .game-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .game-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
 
 ## Stats
 

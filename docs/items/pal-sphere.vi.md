@@ -25,15 +25,20 @@ Capture Power **7** · mở khoá ở Technology Lv **2**. Cầu bắt cấp kh�
 
 ## Chế tạo
 
-| Nguyên liệu | SL |
-|-------------|:--:|
-| [Mảnh Paldium](paldium-fragment.md) | 1 |
+|  | Nguyên liệu | SL |
+|:--:|-------------|:--:|
+| ![](../assets/icons/items/paldium-fragment.png){ .game-icon } | [Mảnh Paldium](paldium-fragment.md) | 1 |
 
-Chế được tại: [[primitive-workbench|Primitive Workbench]],
-[[sphere-workbench|Sphere Workbench]], [[sphere-assembly-line|Sphere Assembly Line]],
-[[sphere-assembly-line-ii|Sphere Assembly Line II]],
-[[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]],
-[[ancient-workbench|Ancient Workbench]].
+**Chế được tại**
+
+|  | Trạm |
+|:----:|------|
+| ![](../assets/icons/items/primitive-workbench.png){ .game-icon } | [Primitive Workbench](primitive-workbench.md) |
+| ![](../assets/icons/items/sphere-workbench.png){ .game-icon } | [Sphere Workbench](sphere-workbench.md) |
+| ![](../assets/icons/items/sphere-assembly-line.png){ .game-icon } | [Sphere Assembly Line](sphere-assembly-line.md) |
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .game-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .game-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
 
 ## Chỉ số
 

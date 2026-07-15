@@ -24,7 +24,8 @@ tags: [item, material]
 
 ## Cách lấy
 
-Luyện [[ore|Quặng Đồng]] ×2 + [[coal|Than]] ×2 trong lò.
+Luyện [[ore|Quặng Đồng]] ×2 + [[coal|Than]] ×2 trong
+[[improved-furnace|Improved Furnace]] (hoặc [[ancient-furnace|Ancient Furnace]]).
 
 ## Công dụng
 

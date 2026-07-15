@@ -15,6 +15,6 @@ tags: [pal]
 
 ## Drops
 
-| Icon | Item | Qty | Chance |
+|  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/meteorite-fragment.png){ .game-icon } | [Meteorite Fragment](../items/meteorite-fragment.md) | ×5–12 | 100% |
