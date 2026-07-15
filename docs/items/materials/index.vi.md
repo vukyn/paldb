@@ -48,4 +48,4 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/wood.png){ .item-icon } | [Gỗ](wood.md) | thu thập |
 | ![](../../assets/icons/items/wooden-board.png){ .item-icon } | [Ván Gỗ](wooden-board.md) | stub |
 | ![](../../assets/icons/items/wool.png){ .item-icon } | [Len](wool.md) | [Lamball](../../pals/lamball.md) rơi / trang trại |
-| ![](../../assets/icons/items/wheat.png){ .item-icon } | [Lúa Mì](wheat.md) | trồng (Hạt Lúa Mì) |
+| ![](../../assets/icons/items/horn.png){ .item-icon } | [Sừng](horn.md) | Pal rơi |

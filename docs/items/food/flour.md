@@ -32,7 +32,7 @@ Milled at the [[mill|Mill]].
 
 |  | Material | Qty |
 |:--:|----------|:---:|
-| ![](../../assets/icons/items/wheat.png){ .game-icon } | [Wheat](../materials/wheat.md) | 3 |
+| ![](../../assets/icons/items/wheat.png){ .game-icon } | [Wheat](wheat.md) | 3 |
 
 ## Used in
 

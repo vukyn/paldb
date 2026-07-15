@@ -7,7 +7,7 @@ code: Carbunclo
 element: [grass]
 rarity: 1
 size: xs
-food_consumption: 3
+food_consumption: 1
 work_suitability:
   planting: 1
   handiwork: 1
@@ -59,9 +59,9 @@ gun partner skill.
 
 ## Food
 
-<span class="food-meter" data-value="3" data-max="10"></span>
+<span class="food-meter" data-value="1" data-max="10"></span>
 
-Consumption **3 / 10** — low, cheap to keep fed.
+Consumption **1 / 10** — low, cheap to keep fed.
 
 ## Partner skill
 

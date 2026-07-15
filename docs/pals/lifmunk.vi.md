@@ -7,7 +7,7 @@ code: Carbunclo
 element: [grass]
 rarity: 1
 size: xs
-food_consumption: 3
+food_consumption: 1
 work_suitability:
   planting: 1
   handiwork: 1
@@ -59,9 +59,9 @@ dùng súng.
 
 ## Thức ăn
 
-<span class="food-meter" data-value="3" data-max="10"></span>
+<span class="food-meter" data-value="1" data-max="10"></span>
 
-Tiêu thụ **3 / 10** — thấp, nuôi rẻ.
+Tiêu thụ **1 / 10** — thấp, nuôi rẻ.
 
 ## Kỹ năng đồng hành
 

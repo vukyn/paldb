@@ -32,7 +32,7 @@ Xay tại [[mill|Cối xay]].
 
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|
-| ![](../../assets/icons/items/wheat.png){ .game-icon } | [Lúa Mì](../materials/wheat.md) | 3 |
+| ![](../../assets/icons/items/wheat.png){ .game-icon } | [Lúa Mì](wheat.md) | 3 |
 
 ## Dùng trong
 
