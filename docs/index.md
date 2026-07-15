@@ -14,7 +14,7 @@ Palworld knowledge base. Two audiences, one source:
 | Section | What lives here |
 |---------|-----------------|
 | [Pals](pals/index.md) | Creatures — stats, work suitability, breeding, spawns |
-| [Items](items/index.md) | Materials, gear, consumables, recipes |
+| [Items](items/materials/index.md) | Materials, gear, consumables, recipes |
 | [Mechanics](mechanics/index.md) | Systems: breeding, capture, base work, combat |
 | [Locations](locations/index.md) | Regions, biomes, spawn maps |
 | [Guides](guides/index.md) | Walkthroughs, tier lists, strategies |

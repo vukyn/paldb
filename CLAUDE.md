@@ -22,14 +22,19 @@ One entity = one markdown file = **frontmatter (structured, machine-parseable)**
 
 | Type | Folder | Schema |
 |------|--------|--------|
-| Pal | `docs/pals/` | `templates/pal.md` |
-| Item | `docs/items/` | `templates/item.md` |
-| Location | `docs/locations/` | `templates/location.md` |
+| Pal | `docs/pals/<slug>.md` (flat) | `templates/pal.md` |
+| Item | `docs/items/<sub>/<slug>.md` — `<sub>` = materials·food·spheres·ammo·consumables | `templates/item.md` |
+| Structure | `docs/construction/<sub>/<slug>.md` — `<sub>` = production·pal·defenses (from `build.category`) | `templates/item.md` |
+| Location | `docs/locations/<slug>.md` | `templates/location.md` |
 | Mechanic (prose) | `docs/mechanics/` | free-form, no schema |
 | Guide (prose) | `docs/guides/` | free-form, no schema |
 
+- **Entities are nested by category** so the URL mirrors the nav
+  (`/construction/production/mill/`, `/items/materials/wood/`). Each category
+  folder has an `index.md` = its filtered listing table; add a new entity's row
+  there (EN+VI). No global all-items page.
 - **slug** = lowercase-kebab of the name, and = the filename. `Pal Sphere` →
-  `docs/items/pal-sphere.md`.
+  `docs/items/spheres/pal-sphere.md`. `Glob` by slug — files are nested.
 - **Cross-links** use `[[slug]]` or `[[slug|label]]` — the `roamlinks` plugin
   resolves them to real page paths at build. A bare `[[slug]]` that has no file
   yet is a **stub marker**: it names something worth ingesting later, not an
@@ -109,13 +114,15 @@ Embed with a **markdown image + attr_list class**, path **source-relative**:
 ![](../assets/icons/<cat>/<name>.png){ .game-icon }
 ```
 
-From any `docs/<section>/<page>.md` the prefix is `../assets/icons/...` (one up
-to the docs root). MkDocs rewrites it to the correct output URL **per page**, so
-it resolves for both the EN page and the `/vi/` mirror (which sits one level
-deeper). **Do NOT use a raw `<img>` with a fixed `../../assets/…` path** — that
-hardcodes the depth and 404s on the `/vi/` tree (VI pages are one level deeper
-and assets live only at the site root, not under `/vi/assets/`). `.game-icon`
-(in `stylesheets/entity.css`) fixes the size (24×24, `object-fit: contain`).
+The prefix has **enough `../` to reach the docs root**, then `assets/icons/...`.
+Entities are nested by category, so depth-2 pages
+(`items/<sub>/<slug>.md`, `construction/<sub>/<slug>.md`, and each folder's
+`index.md`) use `../../assets/icons/...`; depth-1 pages (`pals/<slug>.md`,
+`mechanics/*.md`) use `../assets/...`. MkDocs rewrites the relative path to the
+correct output URL **per page**, and it resolves on the `/vi/` mirror too.
+**Use a markdown image, never a raw `<img>` with a hardcoded absolute-ish path.**
+`.game-icon` (in `stylesheets/entity.css`) fixes the size (24×24, `object-fit:
+contain`).
 
 ## Platform notes
 

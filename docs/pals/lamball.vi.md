@@ -116,8 +116,8 @@ Khi bắt hoặc hạ:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
-| ![](../assets/icons/items/wool.png){ .game-icon } | [Len](../items/wool.md) | ×1–3 | 100% |
-| ![](../assets/icons/items/lamball-mutton.png){ .game-icon } | [Thịt cừu Lamball](../items/lamball-mutton.md) | ×1 | 100% |
+| ![](../assets/icons/items/wool.png){ .game-icon } | [Len](../items/materials/wool.md) | ×1–3 | 100% |
+| ![](../assets/icons/items/lamball-mutton.png){ .game-icon } | [Thịt cừu Lamball](../items/food/lamball-mutton.md) | ×1 | 100% |
 
 ## Nơi tìm
 

@@ -103,8 +103,8 @@ On capture or defeat:
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/egg.png){ .game-icon } | [Egg](../items/egg.md) | ×1 | 100% |
-| ![](../assets/icons/items/chikipi-poultry.png){ .game-icon } | [Chikipi Poultry](../items/chikipi-poultry.md) | ×1 | 100% |
+| ![](../assets/icons/items/egg.png){ .game-icon } | [Egg](../items/food/egg.md) | ×1 | 100% |
+| ![](../assets/icons/items/chikipi-poultry.png){ .game-icon } | [Chikipi Poultry](../items/food/chikipi-poultry.md) | ×1 | 100% |
 
 ## Where to find
 

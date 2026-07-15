@@ -17,4 +17,4 @@ tags: [pal]
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
-| ![](../assets/icons/items/coal.png){ .game-icon } | [Than](../items/coal.md) | ×10 | 100% |
+| ![](../assets/icons/items/coal.png){ .game-icon } | [Than](../items/materials/coal.md) | ×10 | 100% |

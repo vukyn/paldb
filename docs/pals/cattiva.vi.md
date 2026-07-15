@@ -98,7 +98,7 @@ Khi bắt hoặc hạ:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
-| ![](../assets/icons/items/red-berries.png){ .game-icon } | [Red Berries](../items/red-berries.md) | ×1 | 100% |
+| ![](../assets/icons/items/red-berries.png){ .game-icon } | [Red Berries](../items/food/red-berries.md) | ×1 | 100% |
 
 ## Nơi tìm
 

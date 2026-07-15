@@ -17,4 +17,4 @@ tags: [pal]
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/pure-quartz.png){ .game-icon } | [Pure Quartz](../items/pure-quartz.md) | ×4–5 | 100% |
+| ![](../assets/icons/items/pure-quartz.png){ .game-icon } | [Pure Quartz](../items/materials/pure-quartz.md) | ×4–5 | 100% |

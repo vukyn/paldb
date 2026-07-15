@@ -106,8 +106,8 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:--:|:------:|
-| ![](../assets/icons/items/wheat-seeds.png){ .game-icon } | [Hạt Lúa Mì](../items/wheat-seeds.md) | ×1 | 100% |
-| ![](../assets/icons/items/low-grade-medical-supplies.png){ .game-icon } | [Vật tư Y tế cấp thấp](../items/low-grade-medical-supplies.md) | ×1 | 20% |
+| ![](../assets/icons/items/wheat-seeds.png){ .game-icon } | [Hạt Lúa Mì](../items/materials/wheat-seeds.md) | ×1 | 100% |
+| ![](../assets/icons/items/low-grade-medical-supplies.png){ .game-icon } | [Vật tư Y tế cấp thấp](../items/consumables/low-grade-medical-supplies.md) | ×1 | 20% |
 
 ## Tìm ở đâu
 

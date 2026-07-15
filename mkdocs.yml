@@ -82,6 +82,7 @@ plugins:
             Materials: Nguyên liệu
             Food: Thức ăn
             Spheres: Sphere
+            Ammo: Đạn dược
             Consumables: Vật phẩm tiêu hao
             Construction: Xây dựng
             Production: Sản xuất
@@ -111,6 +112,8 @@ extra_javascript:
   - javascripts/type-chart.js
   - javascripts/food-meter.js
   - javascripts/table-filter.js
+  # Cmd/Ctrl+K opens the global search box.
+  - javascripts/search-shortcut.js
 
 # Nav mirrors Palworld's own organization: Paldeck (Pals) · Items (Materials /
 # Food / Spheres / Consumables) · Construction (structures by build category:
@@ -121,15 +124,15 @@ nav:
   - Home: index.md
   - Paldeck: pals/index.md
   - Items:
-    - items/index.md
-    - Materials: items/materials.md
-    - Food: items/food.md
-    - Spheres: items/spheres.md
-    - Consumables: items/consumables.md
+    - Materials: items/materials/index.md
+    - Food: items/food/index.md
+    - Spheres: items/spheres/index.md
+    - Ammo: items/ammo/index.md
+    - Consumables: items/consumables/index.md
   - Construction:
-    - Production: construction/production.md
-    - Pal: construction/pal.md
-    - Defenses: construction/defenses.md
+    - Production: construction/production/index.md
+    - Pal: construction/pal/index.md
+    - Defenses: construction/defenses/index.md
   - Technology:
     - mechanics/index.md
     - Elements: mechanics/elements.md

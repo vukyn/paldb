@@ -14,7 +14,7 @@ Cơ sở dữ liệu Palworld. Hai đối tượng, một nguồn:
 | Mục | Nội dung |
 |-----|----------|
 | [Pals](pals/index.md) | Sinh vật — chỉ số, khả năng lao động, nhân giống, nơi xuất hiện |
-| [Vật phẩm](items/index.md) | Nguyên liệu, trang bị, đồ tiêu hao, công thức |
+| [Vật phẩm](items/materials/index.md) | Nguyên liệu, trang bị, đồ tiêu hao, công thức |
 | [Cơ chế](mechanics/index.md) | Hệ thống: nhân giống, bắt, làm việc ở base, chiến đấu |
 | [Địa điểm](locations/index.md) | Vùng, biome, bản đồ spawn |
 | [Hướng dẫn](guides/index.md) | Walkthrough, tier list, chiến thuật |
