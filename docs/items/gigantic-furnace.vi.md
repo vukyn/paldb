@@ -26,7 +26,7 @@ defense: 5
 tags: [item, structure]
 ---
 
-# Gigantic Furnace
+# Lò nung khổng lồ (Gigantic Furnace)
 
 > Lò nung khổng lồ — luyện [[hexolite|Hexolite]]. Kích thước lớn cho nhiều Pal
 > cùng luyện một lúc. Cần một Pal hệ lửa để nhóm lửa.

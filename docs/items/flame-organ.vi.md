@@ -25,9 +25,9 @@ Rơi từ các Pal hệ Lửa khi bắt hoặc hạ gục.
 
 ## Dùng để xây
 
-- [[primitive-furnace|Primitive Furnace]] (×3)
-- [[improved-furnace|Improved Furnace]] (×15)
-- [[gigantic-furnace|Gigantic Furnace]] (×200)
+- [[primitive-furnace|Lò nung sơ khai]] (×3)
+- [[improved-furnace|Lò nung cải tiến]] (×15)
+- [[gigantic-furnace|Lò nung khổng lồ]] (×200)
 
 ## Chỉ số
 

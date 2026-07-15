@@ -42,34 +42,38 @@ title: Vật phẩm
 | ![](../assets/icons/items/wooden-board.png){ .item-icon } | [Ván Gỗ](wooden-board.md) | nguyên liệu | stub |
 | ![](../assets/icons/items/cement.png){ .item-icon } | [Xi Măng](cement.md) | nguyên liệu | chế (HQ Workbench) |
 | ![](../assets/icons/items/corrosive-solvent.png){ .item-icon } | [Dung Môi Ăn Mòn](corrosive-solvent.md) | nguyên liệu | stub |
-| ![](../assets/icons/items/primitive-workbench.png){ .item-icon } | [Primitive Workbench](primitive-workbench.md) | công trình | chế (Công nghệ Cấp 1) |
-| ![](../assets/icons/items/high-quality-workbench.png){ .item-icon } | [High Quality Workbench](high-quality-workbench.md) | công trình | chế (Công nghệ Cấp 11) |
-| ![](../assets/icons/items/production-assembly-line.png){ .item-icon } | [Production Assembly Line](production-assembly-line.md) | công trình | chế (Công nghệ Cấp 29) |
-| ![](../assets/icons/items/production-assembly-line-ii.png){ .item-icon } | [Production Assembly Line II](production-assembly-line-ii.md) | công trình | chế (Công nghệ Cấp 42) |
+| ![](../assets/icons/items/primitive-workbench.png){ .item-icon } | [Bàn chế tạo sơ khai](primitive-workbench.md) | công trình | chế (Công nghệ Cấp 1) |
+| ![](../assets/icons/items/high-quality-workbench.png){ .item-icon } | [Bàn chế tạo cao cấp](high-quality-workbench.md) | công trình | chế (Công nghệ Cấp 11) |
+| ![](../assets/icons/items/production-assembly-line.png){ .item-icon } | [Dây chuyền sản xuất](production-assembly-line.md) | công trình | chế (Công nghệ Cấp 29) |
+| ![](../assets/icons/items/production-assembly-line-ii.png){ .item-icon } | [Dây chuyền sản xuất II](production-assembly-line-ii.md) | công trình | chế (Công nghệ Cấp 42) |
 | ![](../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | nguyên liệu | stub |
 | ![](../assets/icons/items/hexolite.png){ .item-icon } | [Hexolite](hexolite.md) | nguyên liệu | stub |
 | ![](../assets/icons/items/computer.png){ .item-icon } | [Máy Tính](computer.md) | nguyên liệu | stub |
-| ![](../assets/icons/items/bio-battery.png){ .item-icon } | [Pin Sinh Học](bio-battery.md) | nguyên liệu | stub |
+| ![](../assets/icons/items/bio-battery.png){ .item-icon } | [Pin Sinh Học](bio-battery.md) | nguyên liệu | chế (Dây chuyền sản xuất II) |
+| ![](../assets/icons/items/electric-organ.png){ .item-icon } | [Electric Organ](electric-organ.md) | nguyên liệu | Pal Điện rơi |
+| ![](../assets/icons/items/carbon-fiber.png){ .item-icon } | [Carbon Fiber](carbon-fiber.md) | nguyên liệu | stub |
 | ![](../assets/icons/items/soralite-ingot.png){ .item-icon } | [Soralite Ingot](soralite-ingot.md) | nguyên liệu | stub |
 | ![](../assets/icons/items/ai-core.png){ .item-icon } | [Lõi AI](ai-core.md) | nguyên liệu | stub |
 | ![](../assets/icons/items/plasteel.png){ .item-icon } | [Plasteel](plasteel.md) | nguyên liệu | stub |
-| ![](../assets/icons/items/advanced-workshop.png){ .item-icon } | [Advanced Workshop](advanced-workshop.md) | công trình | chế (Công nghệ Cấp 62) |
-| ![](../assets/icons/items/ancient-workbench.png){ .item-icon } | [Ancient Workbench](ancient-workbench.md) | công trình | chế (Công nghệ Cấp 67) |
-| ![](../assets/icons/items/sphere-workbench.png){ .item-icon } | [Sphere Workbench](sphere-workbench.md) | công trình | chế (Công nghệ Cấp 14) |
-| ![](../assets/icons/items/sphere-assembly-line.png){ .item-icon } | [Sphere Assembly Line](sphere-assembly-line.md) | công trình | chế (Công nghệ Cấp 27) |
-| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .item-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) | công trình | chế (Công nghệ Cấp 35) |
-| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .item-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) | công trình | chế (Công nghệ Cấp 58) |
+| ![](../assets/icons/items/advanced-workshop.png){ .item-icon } | [Xưởng nâng cao](advanced-workshop.md) | công trình | chế (Công nghệ Cấp 62) |
+| ![](../assets/icons/items/ancient-workbench.png){ .item-icon } | [Bàn chế tạo cổ đại](ancient-workbench.md) | công trình | chế (Công nghệ Cấp 67) |
+| ![](../assets/icons/items/sphere-workbench.png){ .item-icon } | [Bàn chế tạo Sphere](sphere-workbench.md) | công trình | chế (Công nghệ Cấp 14) |
+| ![](../assets/icons/items/sphere-assembly-line.png){ .item-icon } | [Dây chuyền Sphere](sphere-assembly-line.md) | công trình | chế (Công nghệ Cấp 27) |
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .item-icon } | [Dây chuyền Sphere II](sphere-assembly-line-ii.md) | công trình | chế (Công nghệ Cấp 35) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .item-icon } | [Dây chuyền Sphere nâng cao](advanced-sphere-assembly-line.md) | công trình | chế (Công nghệ Cấp 58) |
 | ![](../assets/icons/items/flame-organ.png){ .item-icon } | [Flame Organ](flame-organ.md) | nguyên liệu | Pal Lửa rơi |
 | ![](../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | nguyên liệu | Pal rơi |
 | ![](../assets/icons/items/aquatic-pal-fluids.png){ .item-icon } | [Aquatic Pal Fluids](aquatic-pal-fluids.md) | nguyên liệu | Pal Nước rơi |
 | ![](../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | nguyên liệu | Pal Băng rơi |
-| ![](../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | nguyên liệu | chế (Assembly Line) |
+| ![](../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Dung Dịch Làm Lạnh](cryogenic-coolant.md) | nguyên liệu | chế (Assembly Line) |
 | ![](../assets/icons/items/thermal-core.png){ .item-icon } | [Thermal Core](thermal-core.md) | nguyên liệu | stub |
 | ![](../assets/icons/items/ancient-civilization-core.png){ .item-icon } | [Ancient Civilization Core](ancient-civilization-core.md) | nguyên liệu | hiếm (tàn tích) |
 | ![](../assets/icons/items/ancient-civilization-parts.png){ .item-icon } | [Ancient Civilization Parts](ancient-civilization-parts.md) | nguyên liệu | boss / tàn tích |
-| ![](../assets/icons/items/ice-mine.png){ .item-icon } | [Ice Mine](ice-mine.md) | công trình | chế (Công nghệ Cấp 38) |
-| ![](../assets/icons/items/primitive-furnace.png){ .item-icon } | [Primitive Furnace](primitive-furnace.md) | công trình | chế (Công nghệ Cấp 10) |
-| ![](../assets/icons/items/improved-furnace.png){ .item-icon } | [Improved Furnace](improved-furnace.md) | công trình | chế (Công nghệ Cấp 34) |
-| ![](../assets/icons/items/electric-furnace.png){ .item-icon } | [Electric Furnace](electric-furnace.md) | công trình | chế (Công nghệ Cấp 44) |
-| ![](../assets/icons/items/gigantic-furnace.png){ .item-icon } | [Gigantic Furnace](gigantic-furnace.md) | công trình | chế (Công nghệ Cấp 58) |
-| ![](../assets/icons/items/ancient-furnace.png){ .item-icon } | [Ancient Furnace](ancient-furnace.md) | công trình | chế (Công nghệ Cấp 66) |
+| ![](../assets/icons/items/ice-mine.png){ .item-icon } | [Bẫy Băng](ice-mine.md) | công trình | chế (Công nghệ Cấp 38) |
+| ![](../assets/icons/items/primitive-furnace.png){ .item-icon } | [Lò nung sơ khai](primitive-furnace.md) | công trình | chế (Công nghệ Cấp 10) |
+| ![](../assets/icons/items/improved-furnace.png){ .item-icon } | [Lò nung cải tiến](improved-furnace.md) | công trình | chế (Công nghệ Cấp 34) |
+| ![](../assets/icons/items/electric-furnace.png){ .item-icon } | [Lò nung điện](electric-furnace.md) | công trình | chế (Công nghệ Cấp 44) |
+| ![](../assets/icons/items/gigantic-furnace.png){ .item-icon } | [Lò nung khổng lồ](gigantic-furnace.md) | công trình | chế (Công nghệ Cấp 58) |
+| ![](../assets/icons/items/ancient-furnace.png){ .item-icon } | [Lò nung cổ đại](ancient-furnace.md) | công trình | chế (Công nghệ Cấp 66) |
+| ![](../assets/icons/items/wheat-seeds.png){ .item-icon } | [Hạt Lúa Mì](wheat-seeds.md) | nguyên liệu | Lifmunk rơi |
+| ![](../assets/icons/items/low-grade-medical-supplies.png){ .item-icon } | [Vật tư Y tế cấp thấp](low-grade-medical-supplies.md) | tiêu hao | Lifmunk rơi |

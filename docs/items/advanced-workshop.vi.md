@@ -25,13 +25,13 @@ defense: 5
 tags: [item, structure]
 ---
 
-# Advanced Workshop
+# Xưởng nâng cao (Advanced Workshop)
 
 > Dây chuyền chế tạo vật phẩm cuối game — máy móc tối tân đẩy tốc độ lên rất cao.
 > Ngốn điện nặng.
 
 Trạm [[handiwork|Handiwork]] tổng hợp mạnh nhất, trên cả
-[[production-assembly-line-ii|Production Assembly Line II]]. Nó tiêu 1000
+[[production-assembly-line-ii|Dây chuyền sản xuất II]]. Nó tiêu 1000
 điện/giây cho sản lượng đỉnh cao. Hao tinh thần (SAN −0.2); phòng thủ 5.
 
 ## Chế tạo tiêu biểu

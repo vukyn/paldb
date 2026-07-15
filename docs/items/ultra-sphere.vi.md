@@ -42,9 +42,9 @@ Capture Power **33** · mở khoá ở Technology Lv **35**.
 
 |  | Trạm |
 |:----:|------|
-| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .game-icon } | [Sphere Assembly Line II](sphere-assembly-line-ii.md) |
-| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .game-icon } | [Advanced Sphere Assembly Line](advanced-sphere-assembly-line.md) |
-| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
+| ![](../assets/icons/items/sphere-assembly-line-ii.png){ .game-icon } | [Dây chuyền Sphere II](sphere-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-sphere-assembly-line.png){ .game-icon } | [Dây chuyền Sphere nâng cao](advanced-sphere-assembly-line.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Bàn chế tạo cổ đại](ancient-workbench.md) |
 
 ## Chỉ số
 

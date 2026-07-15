@@ -19,13 +19,13 @@ crafted_at: [[production-assembly-line]]
 tags: [item, material]
 ---
 
-# Cryogenic Coolant
+# Dung Dịch Làm Lạnh (Cryogenic Coolant)
 
 > Chất làm mát hiệu suất cao từ linh kiện lấy từ Pal, giữ cho thiết bị công suất
-> lớn không quá nhiệt. Chế tại Production Assembly Line.
+> lớn không quá nhiệt. Chế tại Dây chuyền sản xuất.
 
 Chất làm mát giai đoạn cuối, cần để xây các lò nung cao cấp. Mở ở Công nghệ Cấp
-31 và chế tại [[production-assembly-line|Production Assembly Line]].
+31 và chế tại [[production-assembly-line|Dây chuyền sản xuất]].
 
 ## Chế tạo
 
@@ -38,15 +38,15 @@ Chất làm mát giai đoạn cuối, cần để xây các lò nung cao cấp. 
 
 |  | Trạm |
 |:----:|------|
-| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Production Assembly Line](production-assembly-line.md) |
-| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Production Assembly Line II](production-assembly-line-ii.md) |
-| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Advanced Workshop](advanced-workshop.md) |
-| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
+| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Dây chuyền sản xuất](production-assembly-line.md) |
+| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Dây chuyền sản xuất II](production-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Xưởng nâng cao](advanced-workshop.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Bàn chế tạo cổ đại](ancient-workbench.md) |
 
 ## Dùng để xây
 
-- [[improved-furnace|Improved Furnace]] (×5)
-- [[electric-furnace|Electric Furnace]] (×10)
+- [[improved-furnace|Lò nung cải tiến]] (×5)
+- [[electric-furnace|Lò nung điện]] (×10)
 
 ## Chỉ số
 

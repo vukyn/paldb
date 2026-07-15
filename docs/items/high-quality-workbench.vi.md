@@ -21,13 +21,13 @@ defense: 2
 tags: [item, structure]
 ---
 
-# High Quality Workbench
+# Bàn chế tạo cao cấp (High Quality Workbench)
 
 > Dây chuyền chế tạo nhỏ gọn cho vật phẩm và trang bị. Không gian chật khiến tốc
 > độ bị giới hạn, nhưng mở ra những công thức mà bàn sơ khai không làm được.
 
 Trạm [[handiwork|Handiwork]] giai đoạn giữa — nâng cấp so với
-[[primitive-workbench|Primitive Workbench]], mở thêm nhiều công thức nâng cao.
+[[primitive-workbench|Bàn chế tạo sơ khai]], mở thêm nhiều công thức nâng cao.
 Bàn chật nên sản lượng bị hạn chế. Hao một chút tinh thần (SAN −0.11); phòng thủ 2.
 
 ## Chế tạo tiêu biểu

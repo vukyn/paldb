@@ -26,7 +26,7 @@ Rất hiếm gặp trên quần đảo Palpagos (tàn tích cổ / nguồn cao c
 
 ## Dùng để xây
 
-- [[ancient-furnace|Ancient Furnace]] (×10)
+- [[ancient-furnace|Lò nung cổ đại]] (×10)
 
 ## Chỉ số
 

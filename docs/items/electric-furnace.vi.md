@@ -26,7 +26,7 @@ defense: 4
 tags: [item, structure]
 ---
 
-# Electric Furnace
+# Lò nung điện (Electric Furnace)
 
 > Lò nung chạy điện — luyện [[pal-metal-ingot|Pal Metal Ingot]]. Cần điện nhưng
 > xử lý nhanh hơn nhiều. Vẫn cần một Pal hệ lửa để nhóm lửa.
@@ -49,4 +49,4 @@ Cần nguồn điện để hoạt động.
 | ![](../assets/icons/items/refined-ingot.png){ .game-icon } | [Refined Ingot](refined-ingot.md) | 50 |
 | ![](../assets/icons/items/bio-battery.png){ .game-icon } | [Bio Battery](bio-battery.md) | 4 |
 | ![](../assets/icons/items/polymer.png){ .game-icon } | [Polymer](polymer.md) | 20 |
-| ![](../assets/icons/items/cryogenic-coolant.png){ .game-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | 10 |
+| ![](../assets/icons/items/cryogenic-coolant.png){ .game-icon } | [Dung Dịch Làm Lạnh](cryogenic-coolant.md) | 10 |

@@ -49,7 +49,9 @@ title: Items
 | ![](../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | material | stub |
 | ![](../assets/icons/items/hexolite.png){ .item-icon } | [Hexolite](hexolite.md) | material | stub |
 | ![](../assets/icons/items/computer.png){ .item-icon } | [Computer](computer.md) | material | stub |
-| ![](../assets/icons/items/bio-battery.png){ .item-icon } | [Bio Battery](bio-battery.md) | material | stub |
+| ![](../assets/icons/items/bio-battery.png){ .item-icon } | [Bio Battery](bio-battery.md) | material | craft (Assembly Line II) |
+| ![](../assets/icons/items/electric-organ.png){ .item-icon } | [Electric Organ](electric-organ.md) | material | Electric Pal drop |
+| ![](../assets/icons/items/carbon-fiber.png){ .item-icon } | [Carbon Fiber](carbon-fiber.md) | material | stub |
 | ![](../assets/icons/items/soralite-ingot.png){ .item-icon } | [Soralite Ingot](soralite-ingot.md) | material | stub |
 | ![](../assets/icons/items/ai-core.png){ .item-icon } | [AI Core](ai-core.md) | material | stub |
 | ![](../assets/icons/items/plasteel.png){ .item-icon } | [Plasteel](plasteel.md) | material | stub |
@@ -73,3 +75,5 @@ title: Items
 | ![](../assets/icons/items/electric-furnace.png){ .item-icon } | [Electric Furnace](electric-furnace.md) | structure | craft (Tech Lv 44) |
 | ![](../assets/icons/items/gigantic-furnace.png){ .item-icon } | [Gigantic Furnace](gigantic-furnace.md) | structure | craft (Tech Lv 58) |
 | ![](../assets/icons/items/ancient-furnace.png){ .item-icon } | [Ancient Furnace](ancient-furnace.md) | structure | craft (Tech Lv 66) |
+| ![](../assets/icons/items/wheat-seeds.png){ .item-icon } | [Wheat Seeds](wheat-seeds.md) | material | Lifmunk drop |
+| ![](../assets/icons/items/low-grade-medical-supplies.png){ .item-icon } | [Low Grade Medical Supplies](low-grade-medical-supplies.md) | consumable | Lifmunk drop |

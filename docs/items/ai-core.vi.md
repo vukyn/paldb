@@ -12,4 +12,4 @@ tags: [item, structure-material]
 
 ## Dùng để xây
 
-- [[ancient-workbench|Ancient Workbench]] (×5)
+- [[ancient-workbench|Bàn chế tạo cổ đại]] (×5)

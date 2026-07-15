@@ -26,7 +26,7 @@ defense: 4
 tags: [item, structure]
 ---
 
-# Ancient Furnace
+# Lò nung cổ đại (Ancient Furnace)
 
 > Lò nung công nghệ cổ đặc biệt, luyện mọi loại thỏi tại một chỗ — nung bằng lửa
 > rồi làm nguội nhanh bằng băng. Cần Kindling và Cooling cấp cao.

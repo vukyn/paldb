@@ -12,4 +12,4 @@ tags: [item, structure-material]
 
 ## Dùng để xây
 
-- [[production-assembly-line-ii|Production Assembly Line II]] (×5)
+- [[production-assembly-line-ii|Dây chuyền sản xuất II]] (×5)

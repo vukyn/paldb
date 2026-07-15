@@ -12,5 +12,5 @@ tags: [item, structure-material]
 
 ## Dùng để xây
 
-- [[production-assembly-line|Production Assembly Line]] (×5)
-- [[sphere-assembly-line|Sphere Assembly Line]] (×5)
+- [[production-assembly-line|Dây chuyền sản xuất]] (×5)
+- [[sphere-assembly-line|Dây chuyền Sphere]] (×5)

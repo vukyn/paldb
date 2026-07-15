@@ -25,10 +25,10 @@ defense: 3
 tags: [item, structure]
 ---
 
-# Sphere Assembly Line
+# Dây chuyền Sphere (Sphere Assembly Line)
 
 > Dây chuyền làm cầu chạy điện — chia Pal thành nhiều tổ để sản xuất vượt
-> [[sphere-workbench|Sphere Workbench]]. Cần nguồn điện.
+> [[sphere-workbench|Bàn chế tạo Sphere]]. Cần nguồn điện.
 
 Trạm cầu bậc giữa. Nó tiêu điện (200 điện/giây) và cho nhiều Pal làm song song,
 nên sản lượng cầu tăng vượt xa bàn. Hao một chút tinh thần (SAN −0.15); phòng

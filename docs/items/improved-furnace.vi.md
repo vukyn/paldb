@@ -24,12 +24,12 @@ defense: 3
 tags: [item, structure]
 ---
 
-# Improved Furnace
+# Lò nung cải tiến (Improved Furnace)
 
 > Lò nung tốt hơn — luyện [[refined-ingot|Refined Ingot]]. Chất lượng cao hơn lò
 > sơ khai nhưng vẫn chậm. Cần một Pal hệ lửa để nhóm lửa.
 
-Lò nung bậc giữa, nâng cấp từ [[primitive-furnace|Primitive Furnace]], mở khả
+Lò nung bậc giữa, nâng cấp từ [[primitive-furnace|Lò nung sơ khai]], mở khả
 năng luyện [[refined-ingot|Refined Ingot]]. Chất lượng tăng nhưng sản lượng vẫn
 vừa phải. Cần kỹ năng [[kindling|Kindling]]. Hao một chút tinh thần (SAN −0.15);
 phòng thủ 3.
@@ -47,4 +47,4 @@ Mở tại **Công nghệ Cấp 34**. Công sức xây: 30000 ([[handiwork|Handi
 | ![](../assets/icons/items/stone.png){ .game-icon } | [Đá](stone.md) | 100 |
 | ![](../assets/icons/items/cement.png){ .game-icon } | [Xi Măng](cement.md) | 30 |
 | ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](flame-organ.md) | 15 |
-| ![](../assets/icons/items/cryogenic-coolant.png){ .game-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | 5 |
+| ![](../assets/icons/items/cryogenic-coolant.png){ .game-icon } | [Dung Dịch Làm Lạnh](cryogenic-coolant.md) | 5 |

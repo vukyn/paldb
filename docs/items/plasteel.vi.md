@@ -12,5 +12,5 @@ tags: [item, structure-material]
 
 ## Dùng để xây
 
-- [[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]] (×50)
-- [[gigantic-furnace|Gigantic Furnace]] (×150)
+- [[advanced-sphere-assembly-line|Dây chuyền Sphere nâng cao]] (×50)
+- [[gigantic-furnace|Lò nung khổng lồ]] (×150)

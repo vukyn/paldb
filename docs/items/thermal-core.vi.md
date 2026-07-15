@@ -12,4 +12,4 @@ tags: [item, material]
 
 ## Dùng để xây
 
-- [[ancient-furnace|Ancient Furnace]] (×20)
+- [[ancient-furnace|Lò nung cổ đại]] (×20)
