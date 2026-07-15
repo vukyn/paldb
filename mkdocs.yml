@@ -95,6 +95,7 @@ plugins:
             Elements: Nguyên tố
             Work Suitability: Khả năng lao động
             Work Priority: Ưu tiên công việc
+            Sanity: Tinh thần
             Locations: Địa điểm
             Guides: Hướng dẫn
   # [[wikilinks]] and [[target|label]] resolved to real page paths.
@@ -142,5 +143,6 @@ nav:
     - Elements: mechanics/elements.md
     - Work Suitability: mechanics/work-suitability.md
     - Work Priority: mechanics/work-priority.md
+    - Sanity: mechanics/sanity.md
   - Locations: locations/index.md
   - Guides: guides/index.md

@@ -31,7 +31,8 @@ tags: [item, consumable, medicine]
 > Thuốc cơ bản chữa **Ốm**, **Bong gân** và **Quá no** — nhưng không hồi Máu khi dùng.
 
 Thuốc men nhập môn, dùng cho người chơi và chữa cho Pal ở base. Chữa các bệnh
-thường gặp nhưng không hồi HP.
+thường gặp nhưng không hồi HP. Xem [[sanity|Tinh thần]] để biết các
+trạng thái mà thuốc chữa.
 
 ## Chế tạo
 
