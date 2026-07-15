@@ -38,7 +38,11 @@ Production stations, grouped by function.
 
 ## Medicine Production
 
-*None yet — to be added.*
+|  | Item | Source |
+|:--:|------|------|
+| ![](../../assets/icons/items/medieval-medicine-workbench.png){ .item-icon } | [Medieval Medicine Workbench](medieval-medicine-workbench.md) | craft |
+| ![](../../assets/icons/items/electric-medicine-workbench.png){ .item-icon } | [Electric Medicine Workbench](electric-medicine-workbench.md) | craft |
+| ![](../../assets/icons/items/advanced-medicine-workbench.png){ .item-icon } | [Advanced Medicine Workbench](advanced-medicine-workbench.md) | craft |
 
 ## Lumbering / Mining
 

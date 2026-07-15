@@ -18,6 +18,10 @@ title: Pals
 | ![](../assets/icons/pals/herbil.png){ .pal-avatar } | [Herbil](herbil.md) | — | — |
 | ![](../assets/icons/pals/souffline.png){ .pal-avatar } | [Souffline](souffline.md) | — | — |
 | ![](../assets/icons/pals/shadowbeak.png){ .pal-avatar } | [Shadowbeak](shadowbeak.md) | <span class="el el-dark">Dark</span> | — |
+| ![](../assets/icons/pals/flopie.png){ .pal-avatar } | [Flopie](flopie.md) | — | — |
+| ![](../assets/icons/pals/vaelet.png){ .pal-avatar } | [Vaelet](vaelet.md) | — | — |
+| ![](../assets/icons/pals/prunelia.png){ .pal-avatar } | [Prunelia](prunelia.md) | — | — |
+| ![](../assets/icons/pals/rampaging-flopie.png){ .pal-avatar } | [Rampaging Flopie](rampaging-flopie.md) | — | — |
 | ![](../assets/icons/pals/xenogard.png){ .pal-avatar } | [Xenogard](xenogard.md) | — | — |
 | ![](../assets/icons/pals/pierdon-cryst.png){ .pal-avatar } | [Pierdon Cryst](pierdon-cryst.md) | — | — |
 | ![](../assets/icons/pals/pierdon.png){ .pal-avatar } | [Pierdon](pierdon.md) | — | — |

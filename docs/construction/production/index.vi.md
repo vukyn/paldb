@@ -38,7 +38,11 @@ Các trạm sản xuất, chia theo chức năng.
 
 ## Medicine Production
 
-*Chưa có mục nào — sẽ bổ sung.*
+|  | Vật phẩm | Nguồn |
+|:--:|------|------|
+| ![](../../assets/icons/items/medieval-medicine-workbench.png){ .item-icon } | [Bàn chế thuốc trung cổ](medieval-medicine-workbench.md) | chế |
+| ![](../../assets/icons/items/electric-medicine-workbench.png){ .item-icon } | [Bàn chế thuốc điện](electric-medicine-workbench.md) | chế |
+| ![](../../assets/icons/items/advanced-medicine-workbench.png){ .item-icon } | [Bàn chế thuốc nâng cao](advanced-medicine-workbench.md) | chế |
 
 ## Lumbering / Mining
 

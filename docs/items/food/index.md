@@ -12,3 +12,4 @@ title: Food
 | ![](../../assets/icons/items/red-berries.png){ .item-icon } | [Red Berries](red-berries.md) | [Cattiva](../../pals/cattiva.md) drop |
 | ![](../../assets/icons/items/flour.png){ .item-icon } | [Flour](flour.md) | mill (Wheat) |
 | ![](../../assets/icons/items/bread.png){ .item-icon } | [Bread](bread.md) | cook (Flour) |
+| ![](../../assets/icons/items/wheat.png){ .item-icon } | [Wheat](wheat.md) | grow (Wheat Seeds) |

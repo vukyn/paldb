@@ -48,4 +48,4 @@ title: Materials
 | ![](../../assets/icons/items/wood.png){ .item-icon } | [Wood](wood.md) | gather |
 | ![](../../assets/icons/items/wooden-board.png){ .item-icon } | [Wooden Board](wooden-board.md) | stub |
 | ![](../../assets/icons/items/wool.png){ .item-icon } | [Wool](wool.md) | [Lamball](../../pals/lamball.md) drop / ranch |
-| ![](../../assets/icons/items/wheat.png){ .item-icon } | [Wheat](wheat.md) | grow (Wheat Seeds) |
+| ![](../../assets/icons/items/horn.png){ .item-icon } | [Horn](horn.md) | Pal drop |

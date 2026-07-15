@@ -133,6 +133,7 @@ nav:
     - Production: construction/production/index.md
     - Pal: construction/pal/index.md
     - Defenses: construction/defenses/index.md
+    - Food: construction/food/index.md
   - Technology:
     - mechanics/index.md
     - Elements: mechanics/elements.md

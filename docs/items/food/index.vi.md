@@ -12,3 +12,4 @@ title: Thức ăn
 | ![](../../assets/icons/items/red-berries.png){ .item-icon } | [Red Berries](red-berries.md) | [Cattiva](../../pals/cattiva.md) rơi |
 | ![](../../assets/icons/items/flour.png){ .item-icon } | [Bột Mì](flour.md) | xay (Lúa Mì) |
 | ![](../../assets/icons/items/bread.png){ .item-icon } | [Bánh Mì](bread.md) | nấu (Bột Mì) |
+| ![](../../assets/icons/items/wheat.png){ .item-icon } | [Lúa Mì](wheat.md) | trồng (Hạt Lúa Mì) |
