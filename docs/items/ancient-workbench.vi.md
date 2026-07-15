@@ -24,7 +24,7 @@ defense: 4
 tags: [item, structure]
 ---
 
-# Ancient Workbench
+# Bàn chế tạo cổ đại (Ancient Workbench)
 
 > Bàn chế tạo chỉ dành cho Pal, làm được mọi vật phẩm tại một chỗ — người chơi
 > không dùng được. Tốc độ như bàn thường, nhưng giải phóng hoàn toàn đôi tay bạn.

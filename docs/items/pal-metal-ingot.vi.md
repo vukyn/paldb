@@ -27,7 +27,7 @@ tags: [item, material]
 
 Luyện [[ore|Quặng Đồng]] ×4 + [[pure-quartz|Thạch Anh Tinh Khiết]] ×1 +
 [[paldium-fragment|Mảnh Paldium]] ×2 trong
-[[electric-furnace|Electric Furnace]] (hoặc [[ancient-furnace|Ancient Furnace]]).
+[[electric-furnace|Lò nung điện]] (hoặc [[ancient-furnace|Lò nung cổ đại]]).
 
 ## Công dụng
 

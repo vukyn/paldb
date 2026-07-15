@@ -17,8 +17,8 @@ tags: [item, material]
 > Vật liệu thu từ các Pal hệ Băng. Dùng cho đồ làm mát và các công thức băng.
 
 Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục. Dùng trong các công thức làm mát như
-[[cryogenic-coolant|Cryogenic Coolant]] và để chế đồ hệ băng như
-[[ice-mine|Ice Mine]].
+[[cryogenic-coolant|Dung Dịch Làm Lạnh]] và để chế đồ hệ băng như
+[[ice-mine|Bẫy Băng]].
 
 ## Nguồn
 
@@ -26,8 +26,8 @@ Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục.
 
 ## Dùng trong
 
-- [[cryogenic-coolant|Cryogenic Coolant]] (×1)
-- [[ice-mine|Ice Mine]] (×2)
+- [[cryogenic-coolant|Dung Dịch Làm Lạnh]] (×1)
+- [[ice-mine|Bẫy Băng]] (×2)
 
 ## Chỉ số
 

@@ -25,10 +25,10 @@ defense: 4
 tags: [item, structure]
 ---
 
-# Sphere Assembly Line II
+# Dây chuyền Sphere II (Sphere Assembly Line II)
 
 > Dây chuyền làm cầu nâng cấp — quản lý chặt chẽ đẩy sản lượng cầu vượt xa
-> [[sphere-assembly-line|Sphere Assembly Line]] đời đầu.
+> [[sphere-assembly-line|Dây chuyền Sphere]] đời đầu.
 
 Trạm cầu bậc cao. Nó tiêu điện gấp đôi (400 điện/giây) cho sản lượng cầu cao hơn
 hẳn. Hao một chút tinh thần (SAN −0.15); phòng thủ 4.

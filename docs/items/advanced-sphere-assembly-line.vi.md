@@ -25,13 +25,13 @@ defense: 5
 tags: [item, structure]
 ---
 
-# Advanced Sphere Assembly Line
+# Dây chuyền Sphere nâng cao (Advanced Sphere Assembly Line)
 
 > Dây chuyền làm cầu cuối game — máy móc tối tân sản xuất cầu ở tốc độ rất cao.
 > Ngốn điện nặng.
 
 Trạm cầu mạnh nhất, trên cả
-[[sphere-assembly-line-ii|Sphere Assembly Line II]]. Nó tiêu 1000 điện/giây cho
+[[sphere-assembly-line-ii|Dây chuyền Sphere II]]. Nó tiêu 1000 điện/giây cho
 sản lượng cầu cao nhất. Hao một chút tinh thần (SAN −0.15); phòng thủ 5.
 
 ## Chế tạo tiêu biểu

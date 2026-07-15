@@ -21,7 +21,7 @@ tags: [item, material]
 # Polymer
 
 > Polymer làm từ dầu tinh luyện. Cần cho các món cao cấp như súng. Chế tại
-> Production Assembly Line.
+> Dây chuyền sản xuất.
 
 ## Chế tạo
 
@@ -36,10 +36,10 @@ Mở khoá ở **Technology Lv 33**.
 
 |  | Trạm |
 |:----:|------|
-| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Production Assembly Line](production-assembly-line.md) |
-| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Production Assembly Line II](production-assembly-line-ii.md) |
-| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Advanced Workshop](advanced-workshop.md) |
-| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
+| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Dây chuyền sản xuất](production-assembly-line.md) |
+| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Dây chuyền sản xuất II](production-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Xưởng nâng cao](advanced-workshop.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Bàn chế tạo cổ đại](ancient-workbench.md) |
 
 ## Công dụng
 

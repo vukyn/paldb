@@ -12,5 +12,5 @@ tags: [item, structure-material]
 
 ## Dùng để xây
 
-- [[advanced-workshop|Advanced Workshop]] (×50)
-- [[ancient-furnace|Ancient Furnace]] (×100)
+- [[advanced-workshop|Xưởng nâng cao]] (×50)
+- [[ancient-furnace|Lò nung cổ đại]] (×100)

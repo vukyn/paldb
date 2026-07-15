@@ -18,7 +18,7 @@ tags: [item, material]
 
 Rơi từ các Pal hệ Nước khi bắt hoặc hạ gục. Độ nhớt cao khiến nó hữu ích trong
 các công thức kết dính và làm mát như [[cement|Xi Măng]] và
-[[cryogenic-coolant|Cryogenic Coolant]].
+[[cryogenic-coolant|Dung Dịch Làm Lạnh]].
 
 ## Nguồn
 
@@ -27,7 +27,7 @@ Rơi từ các Pal hệ Nước khi bắt hoặc hạ gục.
 ## Dùng trong
 
 - [[cement|Xi Măng]] (×1)
-- [[cryogenic-coolant|Cryogenic Coolant]] (×1)
+- [[cryogenic-coolant|Dung Dịch Làm Lạnh]] (×1)
 
 ## Chỉ số
 

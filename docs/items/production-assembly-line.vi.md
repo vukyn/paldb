@@ -25,7 +25,7 @@ defense: 3
 tags: [item, structure]
 ---
 
-# Production Assembly Line
+# Dây chuyền sản xuất (Production Assembly Line)
 
 > Dây chuyền chạy điện — chia Pal thành nhiều tổ để sản xuất vượt xa các bàn chế
 > tạo. Cần nguồn điện.
@@ -36,7 +36,7 @@ chút tinh thần (SAN −0.11); phòng thủ 3.
 
 ## Chế tạo tiêu biểu
 
-Sản xuất hàng loạt [[gunpowder|Thuốc súng]], [[cryogenic-coolant|Cryogenic Coolant]]
+Sản xuất hàng loạt [[gunpowder|Thuốc súng]], [[cryogenic-coolant|Dung Dịch Làm Lạnh]]
 và các vật liệu giai đoạn giữa/cuối.
 
 ## Xây dựng

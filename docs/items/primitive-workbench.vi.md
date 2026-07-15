@@ -17,7 +17,7 @@ defense: 2
 tags: [item, structure]
 ---
 
-# Primitive Workbench
+# Bàn chế tạo sơ khai (Primitive Workbench)
 
 > Bàn chế tạo đầu tiên — làm thủ công các vật phẩm sơ khai. Cần một Pal có kỹ
 > năng [[handiwork|Handiwork]], hoặc bạn tự chế tại đây.

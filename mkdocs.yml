@@ -77,9 +77,17 @@ plugins:
           # (Pals, element names) stay English.
           nav_translations:
             Home: Trang chủ
-            Pals: Pals
+            Paldeck: Paldeck
             Items: Vật phẩm
-            Mechanics: Cơ chế
+            Materials: Nguyên liệu
+            Food: Thức ăn
+            Spheres: Sphere
+            Consumables: Vật phẩm tiêu hao
+            Construction: Xây dựng
+            Production: Sản xuất
+            Pal: Pal
+            Defenses: Phòng thủ
+            Technology: Công nghệ
             Elements: Nguyên tố
             Work Suitability: Khả năng lao động
             Work Priority: Ưu tiên công việc
@@ -104,13 +112,25 @@ extra_javascript:
   - javascripts/food-meter.js
   - javascripts/table-filter.js
 
-# Nav is intentionally minimal — folder index pages drive discovery,
-# search + [[wikilinks]] are the primary navigation for a growing DB.
+# Nav mirrors Palworld's own organization: Paldeck (Pals) · Items (Materials /
+# Food / Spheres / Consumables) · Construction (structures by build category:
+# Production / Pal / Defenses …) · Technology (mechanics). Each entity page is
+# listed so the tree is browsable; index pages stay as filtered overviews.
+# Category header VI names live in plugins.i18n.nav_translations above.
 nav:
   - Home: index.md
-  - Pals: pals/index.md
-  - Items: items/index.md
-  - Mechanics:
+  - Paldeck: pals/index.md
+  - Items:
+    - items/index.md
+    - Materials: items/materials.md
+    - Food: items/food.md
+    - Spheres: items/spheres.md
+    - Consumables: items/consumables.md
+  - Construction:
+    - Production: construction/production.md
+    - Pal: construction/pal.md
+    - Defenses: construction/defenses.md
+  - Technology:
     - mechanics/index.md
     - Elements: mechanics/elements.md
     - Work Suitability: mechanics/work-suitability.md

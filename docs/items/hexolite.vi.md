@@ -12,5 +12,5 @@ tags: [item, structure-material]
 
 ## Dùng để xây
 
-- [[advanced-workshop|Advanced Workshop]] (×50)
-- [[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]] (×50)
+- [[advanced-workshop|Xưởng nâng cao]] (×50)
+- [[advanced-sphere-assembly-line|Dây chuyền Sphere nâng cao]] (×50)

@@ -16,7 +16,7 @@ defense: 1
 tags: [item, structure, trap]
 ---
 
-# Ice Mine
+# Bẫy Băng (Ice Mine)
 
 > Bẫy sàn làm đóng băng Pal giẫm phải. Pal bị đóng băng dễ bắt hơn hẳn.
 

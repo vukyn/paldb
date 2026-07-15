@@ -25,13 +25,13 @@ defense: 4
 tags: [item, structure]
 ---
 
-# Production Assembly Line II
+# Dây chuyền sản xuất II (Production Assembly Line II)
 
 > Dây chuyền cao cấp nhất — quản lý chặt chẽ đẩy tốc độ sản xuất vượt xa dây
 > chuyền đời đầu. Ngốn điện lớn.
 
 Trạm [[handiwork|Handiwork]] mạnh nhất game, bản nâng cấp của
-[[production-assembly-line|Production Assembly Line]]. Nó tiêu điện gấp đôi (400
+[[production-assembly-line|Dây chuyền sản xuất]]. Nó tiêu điện gấp đôi (400
 điện/giây) để đạt sản lượng cao nhất. Hao tinh thần nhiều hơn (SAN −0.2); phòng
 thủ 4.
 

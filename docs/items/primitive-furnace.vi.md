@@ -22,7 +22,7 @@ defense: 2
 tags: [item, structure]
 ---
 
-# Primitive Furnace
+# Lò nung sơ khai (Primitive Furnace)
 
 > Lò nung đầu tiên — luyện [[ingot|Thỏi Đồng]] từ quặng. Chậm và chất lượng thấp,
 > cần một Pal hệ lửa để nhóm lửa.

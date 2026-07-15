@@ -21,8 +21,8 @@ tags: [item, material]
 
 ## Cách lấy
 
-Nung [[ore|Quặng Đồng]] ×2 trong [[primitive-furnace|Primitive Furnace]] (hoặc
-lò cao hơn / [[ancient-furnace|Ancient Furnace]]) → 1 Thỏi Đồng.
+Nung [[ore|Quặng Đồng]] ×2 trong [[primitive-furnace|Lò nung sơ khai]] (hoặc
+lò cao hơn / [[ancient-furnace|Lò nung cổ đại]]) → 1 Thỏi Đồng.
 
 ## Công dụng
 

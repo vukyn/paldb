@@ -23,11 +23,11 @@ tags: [item, structure-material]
 
 # Xi Măng (Cement)
 
-> Vật liệu xây dựng cho các công trình nâng cao. Chế tại High Quality Workbench
+> Vật liệu xây dựng cho các công trình nâng cao. Chế tại Bàn chế tạo cao cấp
 > từ Đá, Bone và Aquatic Pal Fluids.
 
 Vật liệu xây dựng chủ chốt cho công trình giai đoạn giữa/cuối. Mở ở Công nghệ
-Cấp 19, chế được khi đã có [[high-quality-workbench|High Quality Workbench]].
+Cấp 19, chế được khi đã có [[high-quality-workbench|Bàn chế tạo cao cấp]].
 
 ## Chế tạo
 
@@ -41,17 +41,17 @@ Cấp 19, chế được khi đã có [[high-quality-workbench|High Quality Work
 
 |  | Trạm |
 |:----:|------|
-| ![](../assets/icons/items/high-quality-workbench.png){ .game-icon } | [High Quality Workbench](high-quality-workbench.md) |
-| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Production Assembly Line](production-assembly-line.md) |
-| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Production Assembly Line II](production-assembly-line-ii.md) |
-| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Advanced Workshop](advanced-workshop.md) |
-| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Ancient Workbench](ancient-workbench.md) |
+| ![](../assets/icons/items/high-quality-workbench.png){ .game-icon } | [Bàn chế tạo cao cấp](high-quality-workbench.md) |
+| ![](../assets/icons/items/production-assembly-line.png){ .game-icon } | [Dây chuyền sản xuất](production-assembly-line.md) |
+| ![](../assets/icons/items/production-assembly-line-ii.png){ .game-icon } | [Dây chuyền sản xuất II](production-assembly-line-ii.md) |
+| ![](../assets/icons/items/advanced-workshop.png){ .game-icon } | [Xưởng nâng cao](advanced-workshop.md) |
+| ![](../assets/icons/items/ancient-workbench.png){ .game-icon } | [Bàn chế tạo cổ đại](ancient-workbench.md) |
 
 ## Dùng để xây
 
-- [[production-assembly-line|Production Assembly Line]] (×10)
-- [[production-assembly-line-ii|Production Assembly Line II]] (×30)
-- [[improved-furnace|Improved Furnace]] (×30)
+- [[production-assembly-line|Dây chuyền sản xuất]] (×10)
+- [[production-assembly-line-ii|Dây chuyền sản xuất II]] (×30)
+- [[improved-furnace|Lò nung cải tiến]] (×30)
 
 ## Chỉ số
 

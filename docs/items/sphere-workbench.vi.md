@@ -23,7 +23,7 @@ defense: 2
 tags: [item, structure]
 ---
 
-# Sphere Workbench
+# Bàn chế tạo Sphere (Sphere Workbench)
 
 > Trạm khởi đầu chuyên làm cầu bắt Pal. Nhỏ và chậm, nhưng là nơi đầu tiên bạn
 > có thể sản xuất hàng loạt [[pal-sphere|Pal Sphere]] của riêng mình.

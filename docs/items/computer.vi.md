@@ -12,7 +12,7 @@ tags: [item, structure-material]
 
 ## Dùng để xây
 
-- [[advanced-workshop|Advanced Workshop]] (×30)
-- [[advanced-sphere-assembly-line|Advanced Sphere Assembly Line]] (×10)
-- [[gigantic-furnace|Gigantic Furnace]] (×12)
-- [[ancient-furnace|Ancient Furnace]] (×30)
+- [[advanced-workshop|Xưởng nâng cao]] (×30)
+- [[advanced-sphere-assembly-line|Dây chuyền Sphere nâng cao]] (×10)
+- [[gigantic-furnace|Lò nung khổng lồ]] (×12)
+- [[ancient-furnace|Lò nung cổ đại]] (×30)
