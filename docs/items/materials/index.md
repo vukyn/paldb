@@ -10,12 +10,14 @@ title: Materials
 | ![](../../assets/icons/items/ancient-civilization-core.png){ .item-icon } | [Ancient Civilization Core](ancient-civilization-core.md) | rare find (ruins) |
 | ![](../../assets/icons/items/ancient-civilization-parts.png){ .item-icon } | [Ancient Civilization Parts](ancient-civilization-parts.md) | boss / ruins |
 | ![](../../assets/icons/items/aquatic-pal-fluids.png){ .item-icon } | [Aquatic Pal Fluids](aquatic-pal-fluids.md) | Water Pal drop |
+| ![](../../assets/icons/items/beautiful-flower.png){ .item-icon } | [Beautiful Flower](beautiful-flower.md) | stub |
 | ![](../../assets/icons/items/bio-battery.png){ .item-icon } | [Bio Battery](bio-battery.md) | craft (Assembly Line II) |
 | ![](../../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | Pal drop |
 | ![](../../assets/icons/items/carbon-fiber.png){ .item-icon } | [Carbon Fiber](carbon-fiber.md) | stub |
 | ![](../../assets/icons/items/cement.png){ .item-icon } | [Cement](cement.md) | craft (HQ Workbench) |
 | ![](../../assets/icons/items/charcoal.png){ .item-icon } | [Charcoal](charcoal.md) | craft (Wood) |
 | ![](../../assets/icons/items/circuit-board.png){ .item-icon } | [Circuit Board](circuit-board.md) | craft (Quartz + Polymer) |
+| ![](../../assets/icons/items/cloth.png){ .item-icon } | [Cloth](cloth.md) | craft (Primitive Workbench) |
 | ![](../../assets/icons/items/coal.png){ .item-icon } | [Coal](coal.md) | mine (cave) / Blazamut·Pierdon |
 | ![](../../assets/icons/items/computer.png){ .item-icon } | [Computer](computer.md) | stub |
 | ![](../../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | stub |
@@ -28,10 +30,13 @@ title: Materials
 | ![](../../assets/icons/items/gunpowder.png){ .item-icon } | [Gunpowder](gunpowder.md) | craft (Charcoal + Sulfur) |
 | ![](../../assets/icons/items/hardwood.png){ .item-icon } | [Hardwood](hardwood.md) | gather (harsh biomes) |
 | ![](../../assets/icons/items/hexolite.png){ .item-icon } | [Hexolite](hexolite.md) | stub |
+| ![](../../assets/icons/items/high-quality-cloth.png){ .item-icon } | [High Quality Cloth](high-quality-cloth.md) | craft (HQ Workbench) |
 | ![](../../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [High Quality Pal Oil](high-quality-pal-oil.md) | Pal drop |
 | ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | Ice Pal drop |
 | ![](../../assets/icons/items/ingot.png){ .item-icon } | [Ingot](ingot.md) | refine from Ore |
+| ![](../../assets/icons/items/leather.png){ .item-icon } | [Leather](leather.md) | Pal drop |
 | ![](../../assets/icons/items/meteorite-fragment.png){ .item-icon } | [Meteorite Fragment](meteorite-fragment.md) | gather → Crusher → Paldium |
+| ![](../../assets/icons/items/mythical-wood.png){ .item-icon } | [Mythical Wood](mythical-wood.md) | stub |
 | ![](../../assets/icons/items/nail.png){ .item-icon } | [Nail](nail.md) | craft (Ingot) |
 | ![](../../assets/icons/items/ore.png){ .item-icon } | [Ore](ore.md) | mine |
 | ![](../../assets/icons/items/pal-metal-ingot.png){ .item-icon } | [Pal Metal Ingot](pal-metal-ingot.md) | refine Ore + Quartz + Paldium |
@@ -48,4 +53,5 @@ title: Materials
 | ![](../../assets/icons/items/wood.png){ .item-icon } | [Wood](wood.md) | gather |
 | ![](../../assets/icons/items/wooden-board.png){ .item-icon } | [Wooden Board](wooden-board.md) | stub |
 | ![](../../assets/icons/items/wool.png){ .item-icon } | [Wool](wool.md) | [Lamball](../../pals/lamball.md) drop / ranch |
+| ![](../../assets/icons/items/world-tree-holy-water.png){ .item-icon } | [World Tree Holy Water](world-tree-holy-water.md) | stub |
 | ![](../../assets/icons/items/horn.png){ .item-icon } | [Horn](horn.md) | Pal drop |

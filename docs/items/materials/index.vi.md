@@ -10,12 +10,14 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/ancient-civilization-core.png){ .item-icon } | [Ancient Civilization Core](ancient-civilization-core.md) | hiếm (tàn tích) |
 | ![](../../assets/icons/items/ancient-civilization-parts.png){ .item-icon } | [Ancient Civilization Parts](ancient-civilization-parts.md) | boss / tàn tích |
 | ![](../../assets/icons/items/aquatic-pal-fluids.png){ .item-icon } | [Aquatic Pal Fluids](aquatic-pal-fluids.md) | Pal Nước rơi |
+| ![](../../assets/icons/items/beautiful-flower.png){ .item-icon } | [Hoa đẹp](beautiful-flower.md) | stub |
 | ![](../../assets/icons/items/bio-battery.png){ .item-icon } | [Pin Sinh Học](bio-battery.md) | chế (Dây chuyền sản xuất II) |
 | ![](../../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | Pal rơi |
 | ![](../../assets/icons/items/carbon-fiber.png){ .item-icon } | [Carbon Fiber](carbon-fiber.md) | stub |
 | ![](../../assets/icons/items/cement.png){ .item-icon } | [Xi Măng](cement.md) | chế (HQ Workbench) |
 | ![](../../assets/icons/items/charcoal.png){ .item-icon } | [Than Củi](charcoal.md) | chế (Gỗ) |
 | ![](../../assets/icons/items/circuit-board.png){ .item-icon } | [Bảng Mạch](circuit-board.md) | chế (Quartz + Polymer) |
+| ![](../../assets/icons/items/cloth.png){ .item-icon } | [Vải](cloth.md) | chế (Bàn chế tạo sơ khai) |
 | ![](../../assets/icons/items/coal.png){ .item-icon } | [Than](coal.md) | đào (hang) / Blazamut·Pierdon |
 | ![](../../assets/icons/items/computer.png){ .item-icon } | [Máy Tính](computer.md) | stub |
 | ![](../../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | stub |
@@ -28,10 +30,13 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/gunpowder.png){ .item-icon } | [Thuốc Súng](gunpowder.md) | chế (Than Củi + Lưu Huỳnh) |
 | ![](../../assets/icons/items/hardwood.png){ .item-icon } | [Gỗ Cứng](hardwood.md) | nhặt (biome khắc nghiệt) |
 | ![](../../assets/icons/items/hexolite.png){ .item-icon } | [Hexolite](hexolite.md) | stub |
+| ![](../../assets/icons/items/high-quality-cloth.png){ .item-icon } | [Vải cao cấp](high-quality-cloth.md) | chế (Bàn chế tạo cao cấp) |
 | ![](../../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [Dầu Pal Cao Cấp](high-quality-pal-oil.md) | Pal rơi |
 | ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | Pal Băng rơi |
 | ![](../../assets/icons/items/ingot.png){ .item-icon } | [Thỏi Đồng](ingot.md) | nung từ Quặng Đồng |
+| ![](../../assets/icons/items/leather.png){ .item-icon } | [Leather](leather.md) | Pal rơi |
 | ![](../../assets/icons/items/meteorite-fragment.png){ .item-icon } | [Mảnh Thiên Thạch](meteorite-fragment.md) | nhặt → Crusher → Paldium |
+| ![](../../assets/icons/items/mythical-wood.png){ .item-icon } | [Mythical Wood](mythical-wood.md) | stub |
 | ![](../../assets/icons/items/nail.png){ .item-icon } | [Đinh](nail.md) | chế (Thỏi Đồng) |
 | ![](../../assets/icons/items/ore.png){ .item-icon } | [Quặng Đồng](ore.md) | đào |
 | ![](../../assets/icons/items/pal-metal-ingot.png){ .item-icon } | [Thỏi Pal Metal](pal-metal-ingot.md) | luyện Quặng + Thạch Anh + Paldium |
@@ -48,4 +53,5 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/wood.png){ .item-icon } | [Gỗ](wood.md) | thu thập |
 | ![](../../assets/icons/items/wooden-board.png){ .item-icon } | [Ván Gỗ](wooden-board.md) | stub |
 | ![](../../assets/icons/items/wool.png){ .item-icon } | [Len](wool.md) | [Lamball](../../pals/lamball.md) rơi / trang trại |
+| ![](../../assets/icons/items/world-tree-holy-water.png){ .item-icon } | [World Tree Holy Water](world-tree-holy-water.md) | stub |
 | ![](../../assets/icons/items/horn.png){ .item-icon } | [Sừng](horn.md) | Pal rơi |

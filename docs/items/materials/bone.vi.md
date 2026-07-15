@@ -9,6 +9,8 @@ gold_coin: 200
 weight: 1
 stack: 9999
 code: Bone
+dropped_by:
+  - [[vixy]]
 tags: [item, material]
 ---
 
@@ -21,7 +23,8 @@ công thức như [[cement|Xi Măng]].
 
 ## Nguồn
 
-Rơi từ Pal khi bắt hoặc hạ gục.
+Rơi từ Pal khi bắt hoặc hạ gục — ví dụ [[vixy|Vixy]] (×1, 100%). Cũng có thể đào
+được từ [[vixy|Vixy]] qua **Dig Here!** trên [[ranch|Ranch]].
 
 ## Dùng trong
 

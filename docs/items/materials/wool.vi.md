@@ -23,4 +23,6 @@ tags: [item, material]
 
 ## Công dụng
 
-Nguyên liệu làm vải và đồ chế tạo giai đoạn đầu. Chưa ghi nhận công thức cụ thể.
+Nguyên liệu dệt vải giai đoạn đầu. Dệt thành [[cloth|Vải]] (×2 → 1) tại
+[[primitive-workbench|Bàn chế tạo sơ khai]], và thành [[high-quality-cloth|Vải
+cao cấp]] (×10 + Leather → 1) tại [[high-quality-workbench|Bàn chế tạo cao cấp]].

@@ -23,4 +23,7 @@ tags: [item, material]
 
 ## Use
 
-Early-game cloth/material. Recipes not recorded yet.
+Early-game textile material. Woven into [[cloth|Cloth]] (×2 → 1) at a
+[[primitive-workbench|Primitive Workbench]], and into [[high-quality-cloth|High
+Quality Cloth]] (×10 + Leather → 1) at a [[high-quality-workbench|High Quality
+Workbench]].

@@ -9,6 +9,10 @@ gold_coin: 300
 weight: 0.2
 stack: 9999
 code: PalFluid
+dropped_by:
+  - [[fuack]]
+  - [[fuack-ignis]]
+  - [[celaray]]
 tags: [item, material]
 ---
 
@@ -22,7 +26,8 @@ useful in binding and cooling recipes like [[cement|Cement]] and
 
 ## Obtain
 
-Dropped by Water-element Pals on capture or defeat.
+Dropped by Water-element Pals on capture or defeat — e.g. [[fuack|Fuack]],
+[[fuack-ignis|Fuack Ignis]], and [[celaray|Celaray]].
 
 ## Used in
 

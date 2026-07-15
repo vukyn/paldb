@@ -9,6 +9,8 @@ gold_coin: 300
 weight: 0.5
 stack: 9999
 code: FireOrgan
+dropped_by:
+  - [[fuack-ignis]]
 tags: [item, material]
 ---
 
@@ -21,7 +23,7 @@ nó nuôi lửa cho mọi bậc lò nung và chế đồ hệ lửa như [[fire-
 
 ## Nguồn
 
-Rơi từ các Pal hệ Lửa khi bắt hoặc hạ gục.
+Rơi từ các Pal hệ Lửa khi bắt hoặc hạ gục — ví dụ [[fuack-ignis|Fuack Ignis]] (×1–2, 50%).
 
 ## Dùng để xây
 

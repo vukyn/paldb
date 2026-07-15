@@ -9,6 +9,8 @@ gold_coin: 200
 weight: 1
 stack: 9999
 code: Bone
+dropped_by:
+  - [[vixy]]
 tags: [item, material]
 ---
 
@@ -21,7 +23,8 @@ recipes such as [[cement|Cement]].
 
 ## Obtain
 
-Dropped by Pals on capture or defeat.
+Dropped by Pals on capture or defeat — e.g. [[vixy|Vixy]] (×1, 100%). Also dug up
+by [[vixy|Vixy]] via **Dig Here!** on a [[ranch|Ranch]].
 
 ## Used in
 
