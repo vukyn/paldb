@@ -17,4 +17,4 @@ tags: [pal]
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/meteorite-fragment.png){ .game-icon } | [Meteorite Fragment](../items/meteorite-fragment.md) | ×3–10 | 100% |
+| ![](../assets/icons/items/meteorite-fragment.png){ .game-icon } | [Meteorite Fragment](../items/materials/meteorite-fragment.md) | ×3–10 | 100% |

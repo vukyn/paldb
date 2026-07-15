@@ -114,8 +114,8 @@ On capture or defeat:
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/wool.png){ .game-icon } | [Wool](../items/wool.md) | ×1–3 | 100% |
-| ![](../assets/icons/items/lamball-mutton.png){ .game-icon } | [Lamball Mutton](../items/lamball-mutton.md) | ×1 | 100% |
+| ![](../assets/icons/items/wool.png){ .game-icon } | [Wool](../items/materials/wool.md) | ×1–3 | 100% |
+| ![](../assets/icons/items/lamball-mutton.png){ .game-icon } | [Lamball Mutton](../items/food/lamball-mutton.md) | ×1 | 100% |
 
 ## Where to find
 

@@ -102,8 +102,8 @@ Khi bắt hoặc hạ:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
-| ![](../assets/icons/items/egg.png){ .game-icon } | [Trứng](../items/egg.md) | ×1 | 100% |
-| ![](../assets/icons/items/chikipi-poultry.png){ .game-icon } | [Thịt gà Chikipi](../items/chikipi-poultry.md) | ×1 | 100% |
+| ![](../assets/icons/items/egg.png){ .game-icon } | [Trứng](../items/food/egg.md) | ×1 | 100% |
+| ![](../assets/icons/items/chikipi-poultry.png){ .game-icon } | [Thịt gà Chikipi](../items/food/chikipi-poultry.md) | ×1 | 100% |
 
 ## Nơi tìm
 

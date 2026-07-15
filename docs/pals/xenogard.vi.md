@@ -17,4 +17,4 @@ tags: [pal]
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|----------|:--:|:-----:|
-| ![](../assets/icons/items/meteorite-fragment.png){ .game-icon } | [Mảnh Thiên Thạch](../items/meteorite-fragment.md) | ×5–12 | 100% |
+| ![](../assets/icons/items/meteorite-fragment.png){ .game-icon } | [Mảnh Thiên Thạch](../items/materials/meteorite-fragment.md) | ×5–12 | 100% |

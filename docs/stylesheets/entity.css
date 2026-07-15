@@ -136,3 +136,35 @@
   font-weight: 800 !important;
   text-shadow: 0 1px 2px rgba(0,0,0,.6), 0 0 1px rgba(0,0,0,.6);
 }
+
+/* ── Search shortcut hint badge (⌘K / Ctrl K) ─────────────────────── */
+.md-search__form { position: relative; }
+.md-search__shortcut {
+  position: absolute;
+  right: 0.6rem;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  gap: 0.2rem;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.75;
+}
+.md-search__shortcut kbd {
+  font-family: var(--md-code-font-family, monospace);
+  font-size: 0.62rem;
+  line-height: 1.5;
+  padding: 0 0.4em;
+  border-radius: 0.2rem;
+  color: var(--md-primary-bg-color, #fff);
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  box-shadow: none;
+}
+/* Hide the hint once the search is active or the box is focused. */
+[data-md-toggle="search"]:checked ~ .md-header .md-search__shortcut,
+.md-search__input:focus ~ .md-search__shortcut { display: none; }
+/* Search collapses behind an icon on small screens — no room for the hint. */
+@media screen and (max-width: 76.1875em) {
+  .md-search__shortcut { display: none; }
+}

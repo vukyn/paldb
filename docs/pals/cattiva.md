@@ -98,7 +98,7 @@ On capture or defeat:
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/red-berries.png){ .game-icon } | [Red Berries](../items/red-berries.md) | ×1 | 100% |
+| ![](../assets/icons/items/red-berries.png){ .game-icon } | [Red Berries](../items/food/red-berries.md) | ×1 | 100% |
 
 ## Where to find
 

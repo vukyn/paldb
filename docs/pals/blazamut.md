@@ -17,4 +17,4 @@ tags: [pal]
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/coal.png){ .game-icon } | [Coal](../items/coal.md) | ×10 | 100% |
+| ![](../assets/icons/items/coal.png){ .game-icon } | [Coal](../items/materials/coal.md) | ×10 | 100% |

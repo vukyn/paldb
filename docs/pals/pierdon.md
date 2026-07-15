@@ -21,5 +21,5 @@ tags: [pal]
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/sulfur.png){ .game-icon } | [Sulfur](../items/sulfur.md) | ×4–5 | 100% |
-| ![](../assets/icons/items/coal.png){ .game-icon } | [Coal](../items/coal.md) | ×4–5 | 100% |
+| ![](../assets/icons/items/sulfur.png){ .game-icon } | [Sulfur](../items/materials/sulfur.md) | ×4–5 | 100% |
+| ![](../assets/icons/items/coal.png){ .game-icon } | [Coal](../items/materials/coal.md) | ×4–5 | 100% |

@@ -108,8 +108,8 @@ On capture or defeat:
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/wheat-seeds.png){ .game-icon } | [Wheat Seeds](../items/wheat-seeds.md) | ×1 | 100% |
-| ![](../assets/icons/items/low-grade-medical-supplies.png){ .game-icon } | [Low Grade Medical Supplies](../items/low-grade-medical-supplies.md) | ×1 | 20% |
+| ![](../assets/icons/items/wheat-seeds.png){ .game-icon } | [Wheat Seeds](../items/materials/wheat-seeds.md) | ×1 | 100% |
+| ![](../assets/icons/items/low-grade-medical-supplies.png){ .game-icon } | [Low Grade Medical Supplies](../items/consumables/low-grade-medical-supplies.md) | ×1 | 20% |
 
 ## Where to find
 
