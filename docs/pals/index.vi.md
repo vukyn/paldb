@@ -16,5 +16,7 @@ title: Pals
 | ![](../assets/icons/pals/xenogard.png){ .pal-avatar } | [Xenogard](xenogard.md) | — | — |
 | ![](../assets/icons/pals/pierdon-cryst.png){ .pal-avatar } | [Pierdon Cryst](pierdon-cryst.md) | — | — |
 | ![](../assets/icons/pals/pierdon.png){ .pal-avatar } | [Pierdon](pierdon.md) | — | — |
+| ![](../assets/icons/pals/blazamut.png){ .pal-avatar } | [Blazamut](blazamut.md) | — | — |
+| ![](../assets/icons/pals/blazamut-ryu.png){ .pal-avatar } | [Blazamut Ryu](blazamut-ryu.md) | — | — |
 
 </div>
