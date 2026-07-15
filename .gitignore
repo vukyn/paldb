@@ -15,5 +15,7 @@ __pycache__/
 # Code knowledge graph (platform local artifact — never commit)
 .code-review-graph/
 
-# Agent / tooling internal state — never commit into the repo
-.claude/
+# Agent / tooling internal state — never commit into the repo …
+.claude/*
+# … except the shareable slash-commands (portable across machines with the repo)
+!.claude/commands/
