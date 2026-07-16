@@ -98,36 +98,79 @@
 .el-neutral { background: #8a8f98; }
 
 /* ── Interactive element type-effectiveness widget (#type-chart) ── */
-.type-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin: 0.5rem 0;
-}
-.type-el {
-  cursor: pointer;
-  border: 3px solid transparent;
-  border-radius: 0.6em;
-  padding: 0.45em 0.9em;
-  font-weight: 700;
-  font-size: 0.8rem;
-  color: #fff;
-  opacity: 0.55;
-  transition: opacity .12s, transform .12s, border-color .12s, box-shadow .12s;
-}
-.type-el:hover { transform: translateY(-2px); }
-/* Highlight states — green = this element is strong vs it, red = weak to it. */
-.type-el.active { opacity: 1; border-color: #fff; box-shadow: 0 0 0 2px rgba(255,255,255,.35); }
-.type-el.strong { opacity: 1; border-color: #2ecc71; box-shadow: 0 0 10px rgba(46,204,113,.6); }
-.type-el.weak   { opacity: 1; border-color: #e74c3c; box-shadow: 0 0 10px rgba(231,76,60,.6); }
+/* Per-element accent, exposed as --el for chips, result tags and names. */
+.tc-neutral  { --el: #8a8f98; }
+.tc-fire     { --el: #e25822; }
+.tc-water    { --el: #3b8ede; }
+.tc-electric { --el: #d8a800; }
+.tc-grass    { --el: #3fa34d; }
+.tc-ground   { --el: #c07a44; }
+.tc-ice      { --el: #4ec3d9; }
+.tc-dragon   { --el: #a877e0; }
+.tc-dark     { --el: #7d55ad; }
 
-.type-caption {
-  margin-top: 0.25rem;
+.tc-title { font-size: 1.15rem; font-weight: 700; margin: 0.2rem 0 0.15rem; }
+.tc-sub {
+  color: var(--md-default-fg-color--light);
   font-size: 0.85rem;
-  min-height: 1.4em;
+  margin-bottom: 0.9rem;
 }
-.type-caption .c-strong { color: #2ecc71; font-weight: 600; }
-.type-caption .c-weak { color: #e74c3c; font-weight: 600; }
+
+.tc-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.1rem; }
+
+/* Chips (buttons) + result tags share one outlined element look. */
+.tc-el {
+  display: inline-block;
+  border: 1.5px solid var(--el);
+  border-radius: 0.55em;
+  padding: 0.4em 0.85em;
+  font-weight: 600;
+  font-size: 0.82rem;
+  line-height: 1.15;
+  color: var(--el);
+  background: color-mix(in srgb, var(--el) 14%, transparent);
+}
+button.tc-el {
+  cursor: pointer;
+  transition: transform .1s ease, box-shadow .12s ease, background .12s ease;
+}
+button.tc-el:hover { transform: translateY(-1px); }
+button.tc-el.sel {
+  background: color-mix(in srgb, var(--el) 80%, #fff);
+  color: #10131a;
+  border-color: transparent;
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--el) 45%, transparent);
+}
+
+.tc-panels { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+@media (max-width: 44em) { .tc-panels { grid-template-columns: 1fr; } }
+
+.tc-panel {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.7em;
+  padding: 1rem 1.1rem;
+}
+/* Left = defensive counters → green tint. Right = offensive 1.5× → neutral. */
+.tc-counter {
+  border-color: color-mix(in srgb, #2ecc71 42%, transparent);
+  background: radial-gradient(120% 100% at 0% 0%, rgba(46,204,113,.10), transparent 62%);
+}
+.tc-phead {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  margin-bottom: 0.85rem;
+}
+.tc-counter .tc-phead > svg { color: #2ecc71; }
+.tc-deal .tc-phead > svg { color: var(--md-default-fg-color--light); }
+.tc-name { font-weight: 700; color: var(--el); }
+.tc-pbody { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.tc-empty {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.85rem;
+  font-style: italic;
+}
 
 /* Mermaid node labels — bold + dark shadow so white text stays readable on
    light element fills (ice, electric). */
