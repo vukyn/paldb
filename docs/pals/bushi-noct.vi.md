@@ -7,7 +7,7 @@ code: Ronin_Dark
 element: [fire, dark]
 rarity: 7
 size: medium
-food_consumption: 6
+food_consumption: 5
 work_suitability:
   kindling: 2
   handiwork: 2
@@ -57,16 +57,16 @@ tags: [pal, fire, dark]
 > thừa hưởng thanh kiếm ấy có tâm trí yếu đuối, tiếng vọng của người chết sẽ khiến
 > nó phát điên. Cơn điên biến nó thành Bushi Noct lang thang bất tận.
 
-Biến thể hệ đôi [[elements|Fire]]/[[elements|Dark]] của [[bushi|Bushi]] — Paldeck
-#85B, cỡ M, độ hiếm 7. Một sát thủ cận chiến đánh mạnh và là thợ
+Biến thể hệ đôi [[elements|Fire]]/[[elements|Dark]] của [[bushi|Bushi]] — Paldeck #85B,
+cỡ M, độ hiếm 7. Một sát thủ cận chiến đánh mạnh và là thợ
 [[lumbering|Lumbering]] hàng đầu. Kết quả **nhân giống độc nhất**, không bắt được
 ngoài tự nhiên.
 
 ## Thức ăn
 
-<span class="food-meter" data-value="6" data-max="10"></span>
+<span class="food-meter" data-value="5" data-max="10"></span>
 
-Mức ăn **6 / 10** — ăn khoẻ (Food 380).
+Mức ăn **5 / 10** — ăn khá nhiều (Food 380).
 
 ## Partner skill
 

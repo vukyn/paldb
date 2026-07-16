@@ -40,6 +40,7 @@ kỹ năng đó.
 | [Chikipi](../../pals/chikipi.md) | [Trứng](../../items/food/egg.md) | Egg Layer |
 | [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Đồng Vàng, Mũi Tên, Bone | Dig Here! |
 | [Sootseer](../../pals/sootseer.md) | [Bone](../../items/materials/bone.md) | Grave Robber |
+| [Depresso](../../pals/depresso.md) | [Venom Gland](../../items/materials/venom-gland.md) | Caffeine Inoculation |
 
 ## Chế tạo
 

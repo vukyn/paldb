@@ -11,6 +11,7 @@ title: Materials
 | ![](../../assets/icons/items/ancient-civilization-parts.png){ .item-icon } | [Ancient Civilization Parts](ancient-civilization-parts.md) | boss / ruins |
 | ![](../../assets/icons/items/aquatic-pal-fluids.png){ .item-icon } | [Aquatic Pal Fluids](aquatic-pal-fluids.md) | Water Pal drop |
 | ![](../../assets/icons/items/beautiful-flower.png){ .item-icon } | [Beautiful Flower](beautiful-flower.md) | stub |
+| ![](../../assets/icons/items/berry-seeds.png){ .item-icon } | [Berry Seeds](berry-seeds.md) | Pal drop / merchant |
 | ![](../../assets/icons/items/bio-battery.png){ .item-icon } | [Bio Battery](bio-battery.md) | craft (Assembly Line II) |
 | ![](../../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | Pal drop |
 | ![](../../assets/icons/items/carbon-fiber.png){ .item-icon } | [Carbon Fiber](carbon-fiber.md) | stub |
@@ -19,16 +20,19 @@ title: Materials
 | ![](../../assets/icons/items/circuit-board.png){ .item-icon } | [Circuit Board](circuit-board.md) | craft (Quartz + Polymer) |
 | ![](../../assets/icons/items/cloth.png){ .item-icon } | [Cloth](cloth.md) | craft (Primitive Workbench) |
 | ![](../../assets/icons/items/coal.png){ .item-icon } | [Coal](coal.md) | mine (cave) / Blazamut·Pierdon |
+| ![](../../assets/icons/items/common-egg.png){ .item-icon } | [Common Egg](common-egg.md) | nest / breeding (Neutral) |
 | ![](../../assets/icons/items/computer.png){ .item-icon } | [Computer](computer.md) | stub |
 | ![](../../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | stub |
 | ![](../../assets/icons/items/corrosive-solvent.png){ .item-icon } | [Corrosive Solvent](corrosive-solvent.md) | stub |
 | ![](../../assets/icons/items/crude-oil.png){ .item-icon } | [Crude Oil](crude-oil.md) | Crude Oil Extractor / Pal drop |
 | ![](../../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | craft (Assembly Line) |
+| ![](../../assets/icons/items/dark-egg.png){ .item-icon } | [Dark Egg](dark-egg.md) | nest / breeding (Dark) |
 | ![](../../assets/icons/items/electric-organ.png){ .item-icon } | [Electric Organ](electric-organ.md) | Electric Pal drop |
 | ![](../../assets/icons/items/fiber.png){ .item-icon } | [Fiber](fiber.md) | gather (trees) |
 | ![](../../assets/icons/items/flame-organ.png){ .item-icon } | [Flame Organ](flame-organ.md) | Fire Pal drop |
 | ![](../../assets/icons/items/giant-pal-soul.png){ .item-icon } | [Giant Pal Soul](giant-pal-soul.md) | Crusher (Large ×2) / Pal drop |
 | ![](../../assets/icons/items/gold-coin.png){ .item-icon } | [Gold Coin](gold-coin.md) | craft from Ingot / sell |
+| ![](../../assets/icons/items/gumoss-leaf.png){ .item-icon } | [Gumoss Leaf](gumoss-leaf.md) | [Gumoss](../../pals/gumoss.md) drop |
 | ![](../../assets/icons/items/gunpowder.png){ .item-icon } | [Gunpowder](gunpowder.md) | craft (Charcoal + Sulfur) |
 | ![](../../assets/icons/items/hardwood.png){ .item-icon } | [Hardwood](hardwood.md) | gather (harsh biomes) |
 | ![](../../assets/icons/items/hexolite.png){ .item-icon } | [Hexolite](hexolite.md) | stub |
@@ -49,12 +53,15 @@ title: Materials
 | ![](../../assets/icons/items/polymer.png){ .item-icon } | [Polymer](polymer.md) | craft (Pal Oil + Sulfur) |
 | ![](../../assets/icons/items/pure-quartz.png){ .item-icon } | [Pure Quartz](pure-quartz.md) | mine (snow) / Pierdon Cryst |
 | ![](../../assets/icons/items/refined-ingot.png){ .item-icon } | [Refined Ingot](refined-ingot.md) | refine Ore + Coal |
+| ![](../../assets/icons/items/ribbuny-ribbon.png){ .item-icon } | [Ribbuny Ribbon](ribbuny-ribbon.md) | [Ribbuny](../../pals/ribbuny.md) drop |
+| ![](../../assets/icons/items/rocky-egg.png){ .item-icon } | [Rocky Egg](rocky-egg.md) | nest / breeding (Ground) |
 | ![](../../assets/icons/items/small-pal-soul.png){ .item-icon } | [Small Pal Soul](small-pal-soul.md) | Crusher / Pal drop |
 | ![](../../assets/icons/items/soralite-ingot.png){ .item-icon } | [Soralite Ingot](soralite-ingot.md) | stub |
 | ![](../../assets/icons/items/stone.png){ .item-icon } | [Stone](stone.md) | gather |
 | ![](../../assets/icons/items/sulfur.png){ .item-icon } | [Sulfur](sulfur.md) | mine (volcano) / Pierdon |
 | ![](../../assets/icons/items/thermal-core.png){ .item-icon } | [Thermal Core](thermal-core.md) | stub |
-| ![](../../assets/icons/items/venom-gland.png){ .item-icon } | [Venom Gland](venom-gland.md) | stub |
+| ![](../../assets/icons/items/venom-gland.png){ .item-icon } | [Venom Gland](venom-gland.md) | Pal drop (poison) |
+| ![](../../assets/icons/items/verdant-egg.png){ .item-icon } | [Verdant Egg](verdant-egg.md) | nest / breeding (Grass) |
 | ![](../../assets/icons/items/wheat-seeds.png){ .item-icon } | [Wheat Seeds](wheat-seeds.md) | Lifmunk drop |
 | ![](../../assets/icons/items/wood.png){ .item-icon } | [Wood](wood.md) | gather |
 | ![](../../assets/icons/items/wooden-board.png){ .item-icon } | [Wooden Board](wooden-board.md) | stub |

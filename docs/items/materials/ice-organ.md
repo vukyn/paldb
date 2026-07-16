@@ -9,6 +9,9 @@ gold_coin: 300
 weight: 0.5
 stack: 9999
 code: IceOrgan
+dropped_by:
+  - [[jolthog-cryst]]
+  - [[pengullet]]
 tags: [item, material]
 ---
 
@@ -22,7 +25,8 @@ Dropped by Ice-element Pals on capture or defeat. Used in cooling recipes such a
 
 ## Obtain
 
-Dropped by Ice-element Pals on capture or defeat.
+Dropped by Ice-element Pals on capture or defeat — e.g. [[jolthog-cryst|Jolthog Cryst]]
+(×1) or [[pengullet|Pengullet]] (×1–2), both 100%.
 
 ## Used in
 
