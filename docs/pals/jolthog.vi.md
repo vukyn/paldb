@@ -57,9 +57,9 @@ Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 
 ## Partner skill
 
-**Jolt Bomb** — khi kích hoạt, Jolthog gắn vào người chơi thành vật ném; quăng nó
-vào kẻ địch để tạo **vụ nổ** hệ [[elements|Electric]] khi trúng. Giá trị vụ nổ
-tăng theo cấp kỹ năng, kèm thưởng sát thương Awakening từ Lv 2:
+**Jolt Bomb** — khi kích hoạt, người chơi cầm chính Jolthog ném thẳng vào kẻ địch
+như một quả bom, **nổ tung** ra sát thương hệ [[elements|Electric]] khi trúng.
+Sức nổ tăng theo cấp kỹ năng, kèm thưởng sát thương Awakening từ Lv 2:
 
 | Lv | Value | Awakening |
 |:--:|:-----:|-----------|

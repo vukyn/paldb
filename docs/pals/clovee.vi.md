@@ -43,7 +43,7 @@ tags: [pal, grass, neutral]
 
 # Clovee <small>#14</small>
 
-> Xưa kia có những con mọc ba lá trở lên trên trán. Bị coi là biểu tượng may mắn,
+> Xưa kia có những con mọc ba lá trở lên trên trán. Được xem là biểu tượng may mắn nên
 > những con nhiều lá bị săn lùng dữ dội, khiến cả loài dần tiến hoá để mọc ít lá
 > hơn theo thời gian.
 
