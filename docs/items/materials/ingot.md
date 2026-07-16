@@ -12,6 +12,9 @@ code: CopperIngot
 crafted_from:
   - item: [[ore]]
     qty: 2
+dropped_by:
+  - [[bushi]]
+  - [[bushi-noct]]
 tags: [item, material]
 ---
 
@@ -23,7 +26,8 @@ tags: [item, material]
 ## Obtain
 
 Refine [[ore|Ore]] ×2 in a [[primitive-furnace|Primitive Furnace]] (or any
-higher furnace / the [[ancient-furnace|Ancient Furnace]]) → 1 Ingot.
+higher furnace / the [[ancient-furnace|Ancient Furnace]]) → 1 Ingot. Also drops
+from [[bushi|Bushi]] and [[bushi-noct|Bushi Noct]] (×2–3, 100%).
 
 ## Use
 

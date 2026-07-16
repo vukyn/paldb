@@ -22,10 +22,12 @@ title: Materials
 | ![](../../assets/icons/items/computer.png){ .item-icon } | [Computer](computer.md) | stub |
 | ![](../../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | stub |
 | ![](../../assets/icons/items/corrosive-solvent.png){ .item-icon } | [Corrosive Solvent](corrosive-solvent.md) | stub |
+| ![](../../assets/icons/items/crude-oil.png){ .item-icon } | [Crude Oil](crude-oil.md) | Crude Oil Extractor / Pal drop |
 | ![](../../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | craft (Assembly Line) |
 | ![](../../assets/icons/items/electric-organ.png){ .item-icon } | [Electric Organ](electric-organ.md) | Electric Pal drop |
 | ![](../../assets/icons/items/fiber.png){ .item-icon } | [Fiber](fiber.md) | gather (trees) |
 | ![](../../assets/icons/items/flame-organ.png){ .item-icon } | [Flame Organ](flame-organ.md) | Fire Pal drop |
+| ![](../../assets/icons/items/giant-pal-soul.png){ .item-icon } | [Giant Pal Soul](giant-pal-soul.md) | Crusher (Large ×2) / Pal drop |
 | ![](../../assets/icons/items/gold-coin.png){ .item-icon } | [Gold Coin](gold-coin.md) | craft from Ingot / sell |
 | ![](../../assets/icons/items/gunpowder.png){ .item-icon } | [Gunpowder](gunpowder.md) | craft (Charcoal + Sulfur) |
 | ![](../../assets/icons/items/hardwood.png){ .item-icon } | [Hardwood](hardwood.md) | gather (harsh biomes) |
@@ -34,7 +36,9 @@ title: Materials
 | ![](../../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [High Quality Pal Oil](high-quality-pal-oil.md) | Pal drop |
 | ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | Ice Pal drop |
 | ![](../../assets/icons/items/ingot.png){ .item-icon } | [Ingot](ingot.md) | refine from Ore |
+| ![](../../assets/icons/items/large-pal-soul.png){ .item-icon } | [Large Pal Soul](large-pal-soul.md) | Crusher (Medium ×2) / Pal drop |
 | ![](../../assets/icons/items/leather.png){ .item-icon } | [Leather](leather.md) | Pal drop |
+| ![](../../assets/icons/items/medium-pal-soul.png){ .item-icon } | [Medium Pal Soul](medium-pal-soul.md) | Crusher (Small ×2) / Pal drop |
 | ![](../../assets/icons/items/meteorite-fragment.png){ .item-icon } | [Meteorite Fragment](meteorite-fragment.md) | gather → Crusher → Paldium |
 | ![](../../assets/icons/items/mythical-wood.png){ .item-icon } | [Mythical Wood](mythical-wood.md) | stub |
 | ![](../../assets/icons/items/nail.png){ .item-icon } | [Nail](nail.md) | craft (Ingot) |
@@ -45,10 +49,12 @@ title: Materials
 | ![](../../assets/icons/items/polymer.png){ .item-icon } | [Polymer](polymer.md) | craft (Pal Oil + Sulfur) |
 | ![](../../assets/icons/items/pure-quartz.png){ .item-icon } | [Pure Quartz](pure-quartz.md) | mine (snow) / Pierdon Cryst |
 | ![](../../assets/icons/items/refined-ingot.png){ .item-icon } | [Refined Ingot](refined-ingot.md) | refine Ore + Coal |
+| ![](../../assets/icons/items/small-pal-soul.png){ .item-icon } | [Small Pal Soul](small-pal-soul.md) | Crusher / Pal drop |
 | ![](../../assets/icons/items/soralite-ingot.png){ .item-icon } | [Soralite Ingot](soralite-ingot.md) | stub |
 | ![](../../assets/icons/items/stone.png){ .item-icon } | [Stone](stone.md) | gather |
 | ![](../../assets/icons/items/sulfur.png){ .item-icon } | [Sulfur](sulfur.md) | mine (volcano) / Pierdon |
 | ![](../../assets/icons/items/thermal-core.png){ .item-icon } | [Thermal Core](thermal-core.md) | stub |
+| ![](../../assets/icons/items/venom-gland.png){ .item-icon } | [Venom Gland](venom-gland.md) | stub |
 | ![](../../assets/icons/items/wheat-seeds.png){ .item-icon } | [Wheat Seeds](wheat-seeds.md) | Lifmunk drop |
 | ![](../../assets/icons/items/wood.png){ .item-icon } | [Wood](wood.md) | gather |
 | ![](../../assets/icons/items/wooden-board.png){ .item-icon } | [Wooden Board](wooden-board.md) | stub |

@@ -11,6 +11,7 @@ stack: 9999
 code: FireOrgan
 dropped_by:
   - [[fuack-ignis]]
+  - [[bushi-noct]]
 tags: [item, material]
 ---
 
@@ -23,7 +24,8 @@ nó nuôi lửa cho mọi bậc lò nung và chế đồ hệ lửa như [[fire-
 
 ## Nguồn
 
-Rơi từ các Pal hệ Lửa khi bắt hoặc hạ gục — ví dụ [[fuack-ignis|Fuack Ignis]] (×1–2, 50%).
+Rơi từ các Pal hệ Lửa khi bắt hoặc hạ gục — ví dụ [[fuack-ignis|Fuack Ignis]]
+(×1–2, 50%) hoặc [[bushi-noct|Bushi Noct]] (×4–8, 100%).
 
 ## Dùng để xây
 

@@ -11,6 +11,8 @@ stack: 9999
 code: Bone
 dropped_by:
   - [[vixy]]
+  - [[bushi]]
+  - [[sootseer]]
 tags: [item, material]
 ---
 
@@ -23,8 +25,9 @@ công thức như [[cement|Xi Măng]].
 
 ## Nguồn
 
-Rơi từ Pal khi bắt hoặc hạ gục — ví dụ [[vixy|Vixy]] (×1, 100%). Cũng có thể đào
-được từ [[vixy|Vixy]] qua **Dig Here!** trên [[ranch|Ranch]].
+Rơi từ Pal khi bắt hoặc hạ gục — ví dụ [[vixy|Vixy]] (×1, 100%), [[bushi|Bushi]]
+hoặc [[sootseer|Sootseer]] (×1–2, 100%). Cũng có thể đào được ở [[ranch|Ranch]]
+bởi [[vixy|Vixy]] (**Dig Here!**) hoặc [[sootseer|Sootseer]] (**Grave Robber**).
 
 ## Dùng trong
 

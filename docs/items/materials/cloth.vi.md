@@ -16,6 +16,7 @@ crafted_from:
 crafted_at: [[primitive-workbench]]
 dropped_by:
   - [[croajiro]]
+  - [[croajiro-noct]]
 tags: [item, structure-material]
 ---
 
@@ -26,7 +27,7 @@ tags: [item, structure-material]
 Loại vải cơ bản dệt từ [[wool|Len]]. Cần thiết để chế giáp và dùng cho vài công
 trình. Mở khoá ở Technology Lv 4, chế được từ
 [[primitive-workbench|Bàn chế tạo sơ khai]] trở lên. Cũng rơi từ
-[[croajiro|Croajiro]] (×1–2, 25%).
+[[croajiro|Croajiro]] và [[croajiro-noct|Croajiro Noct]] (×1–2, 25%).
 
 ## Chế tạo
 

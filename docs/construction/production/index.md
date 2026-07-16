@@ -63,6 +63,7 @@ Production stations, grouped by function.
 |:--:|------|------|
 | ![](../../assets/icons/items/mill.png){ .item-icon } | [Mill](mill.md) | craft (Tech Lv 15) |
 | ![](../../assets/icons/items/crusher.png){ .item-icon } | [Crusher](crusher.md) | craft (Tech Lv 8) |
+| ![](../../assets/icons/items/refrigerated-crusher.png){ .item-icon } | [Refrigerated Crusher](refrigerated-crusher.md) | stub |
 
 ## Fishing Holes
 

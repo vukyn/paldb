@@ -30,6 +30,7 @@ Pal beds — where Pals sleep, heal HP, and recover [Sanity](../../mechanics/san
 | ![](../../assets/icons/items/feed-box.png){ .item-icon } | [Feed Box](feed-box.md) | craft (Tech Lv 4) |
 | ![](../../assets/icons/items/hot-spring.png){ .item-icon } | [Hot Spring](hot-spring.md) | craft (Tech Lv 9) — SAN recovery |
 | ![](../../assets/icons/items/high-quality-hot-spring.png){ .item-icon } | [High Quality Hot Spring](high-quality-hot-spring.md) | stub |
+| ![](../../assets/icons/items/statue-of-power.png){ .item-icon } | [Statue of Power](statue-of-power.md) | stub — Pal Soul enhance |
 
 ## Pal (Other)
 

@@ -30,6 +30,7 @@ Giường Pal — nơi Pal ngủ, hồi HP và phục hồi [Sanity](../../mecha
 | ![](../../assets/icons/items/feed-box.png){ .item-icon } | [Hộp thức ăn](feed-box.md) | chế (Tech Lv 4) |
 | ![](../../assets/icons/items/hot-spring.png){ .item-icon } | [Suối nước nóng](hot-spring.md) | chế (Tech Lv 9) — hồi SAN |
 | ![](../../assets/icons/items/high-quality-hot-spring.png){ .item-icon } | [Suối nước nóng cao cấp](high-quality-hot-spring.md) | stub |
+| ![](../../assets/icons/items/statue-of-power.png){ .item-icon } | [Statue of Power](statue-of-power.md) | stub — cường hoá Pal Soul |
 
 ## Pal (Khác)
 

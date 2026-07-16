@@ -12,6 +12,9 @@ code: CopperIngot
 crafted_from:
   - item: [[ore]]
     qty: 2
+dropped_by:
+  - [[bushi]]
+  - [[bushi-noct]]
 tags: [item, material]
 ---
 
@@ -22,7 +25,8 @@ tags: [item, material]
 ## Cách lấy
 
 Nung [[ore|Quặng Đồng]] ×2 trong [[primitive-furnace|Lò nung sơ khai]] (hoặc
-lò cao hơn / [[ancient-furnace|Lò nung cổ đại]]) → 1 Thỏi Đồng.
+lò cao hơn / [[ancient-furnace|Lò nung cổ đại]]) → 1 Thỏi Đồng. Cũng rơi từ
+[[bushi|Bushi]] và [[bushi-noct|Bushi Noct]] (×2–3, 100%).
 
 ## Công dụng
 
