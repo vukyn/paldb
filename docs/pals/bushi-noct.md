@@ -7,7 +7,7 @@ code: Ronin_Dark
 element: [fire, dark]
 rarity: 7
 size: medium
-food_consumption: 6
+food_consumption: 5
 work_suitability:
   kindling: 2
   handiwork: 2
@@ -64,9 +64,9 @@ wild.
 
 ## Food
 
-<span class="food-meter" data-value="6" data-max="10"></span>
+<span class="food-meter" data-value="5" data-max="10"></span>
 
-Consumption **6 / 10** — a heavy eater (Food 380).
+Consumption **5 / 10** — a fairly heavy eater (Food 380).
 
 ## Partner skill
 

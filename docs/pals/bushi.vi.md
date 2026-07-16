@@ -86,7 +86,7 @@ với hệ số sát thương **×1.1–2.5**. Hệ số này tăng theo cấp k
 | ![](../assets/icons/work/transporting.png){ .game-icon } | [Transporting](../mechanics/work/transporting.md) | 2 |
 | ![](../assets/icons/work/gathering.png){ .game-icon } | [Gathering](../mechanics/work/gathering.md) | 1 |
 
-Một thợ căn cứ toàn diện, nổi bật nhất là **[[lumbering|Lumbering]] Lv 3**, kèm
+Lo được nhiều việc ở căn cứ, nổi nhất là **[[lumbering|Lumbering]] Lv 3**, kèm
 Kindling / Handiwork / Transporting Lv 2.
 
 ## Chiến đấu

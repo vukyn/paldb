@@ -9,6 +9,8 @@ gold_coin: 300
 weight: 0.5
 stack: 9999
 code: ElectricOrgan
+dropped_by:
+  - [[jolthog]]
 tags: [item, material]
 ---
 
@@ -22,7 +24,7 @@ used to craft the [[bio-battery|Bio Battery]].
 
 ## Obtain
 
-Dropped by Electric-element Pals on capture or defeat.
+Dropped by Electric-element Pals on capture or defeat — e.g. [[jolthog|Jolthog]] (×1, 100%).
 
 ## Used in
 

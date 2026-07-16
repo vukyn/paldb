@@ -9,6 +9,8 @@ gold_coin: 300
 weight: 0.5
 stack: 9999
 code: ElectricOrgan
+dropped_by:
+  - [[jolthog]]
 tags: [item, material]
 ---
 
@@ -21,7 +23,7 @@ dùng để chế [[bio-battery|Pin Sinh Học]].
 
 ## Nguồn
 
-Rơi từ các Pal hệ Điện khi bắt hoặc hạ gục.
+Rơi từ các Pal hệ Điện khi bắt hoặc hạ gục — ví dụ [[jolthog|Jolthog]] (×1, 100%).
 
 ## Dùng trong
 

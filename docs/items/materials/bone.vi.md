@@ -13,6 +13,7 @@ dropped_by:
   - [[vixy]]
   - [[bushi]]
   - [[sootseer]]
+  - [[pupperai]]
 tags: [item, material]
 ---
 
@@ -26,7 +27,7 @@ công thức như [[cement|Xi Măng]].
 ## Nguồn
 
 Rơi từ Pal khi bắt hoặc hạ gục — ví dụ [[vixy|Vixy]] (×1, 100%), [[bushi|Bushi]]
-hoặc [[sootseer|Sootseer]] (×1–2, 100%). Cũng có thể đào được ở [[ranch|Ranch]]
+[[sootseer|Sootseer]] hoặc [[pupperai|Pupperai]] (×1–2, 100%). Cũng có thể đào được ở [[ranch|Ranch]]
 bởi [[vixy|Vixy]] (**Dig Here!**) hoặc [[sootseer|Sootseer]] (**Grave Robber**).
 
 ## Dùng trong

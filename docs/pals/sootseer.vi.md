@@ -57,7 +57,7 @@ tags: [pal, dark, fire]
 > trò đùa của Sootseer. Ít nhất là cho tới giờ.
 
 Một Pal hệ [[elements|Dark]]/[[elements|Fire]] — Paldeck #135, cỡ M, độ hiếm 7.
-Một thợ căn cứ đa năng mạnh, đồng thời tạo lá chắn giảm sát thương Neutral cho cả
+Vừa cày được nhiều việc ở căn cứ, vừa tạo lá chắn giảm sát thương Neutral cho cả
 đội. Lai với [[bushi|Bushi]] ra [[bushi-noct|Bushi Noct]].
 
 ## Thức ăn

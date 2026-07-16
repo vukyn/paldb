@@ -9,6 +9,9 @@ gold_coin: 300
 weight: 0.5
 stack: 9999
 code: IceOrgan
+dropped_by:
+  - [[jolthog-cryst]]
+  - [[pengullet]]
 tags: [item, material]
 ---
 
@@ -22,7 +25,8 @@ Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục. Dùng trong các côn
 
 ## Nguồn
 
-Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục.
+Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục — ví dụ [[jolthog-cryst|Jolthog Cryst]]
+(×1) hoặc [[pengullet|Pengullet]] (×1–2), đều 100%.
 
 ## Dùng trong
 

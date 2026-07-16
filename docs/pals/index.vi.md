@@ -21,6 +21,15 @@ title: Pals
 | ![](../assets/icons/pals/croajiro.png){ .pal-avatar } | [Croajiro](croajiro.md) | <span class="el el-water">Water</span> | XS |
 | ![](../assets/icons/pals/croajiro-noct.png){ .pal-avatar } | [Croajiro Noct](croajiro-noct.md) | <span class="el el-water">Water</span> <span class="el el-dark">Dark</span> | XS |
 | ![](../assets/icons/pals/herbil.png){ .pal-avatar } | [Herbil](herbil.md) | <span class="el el-grass">Grass</span> <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/teafant.png){ .pal-avatar } | [Teafant](teafant.md) | <span class="el el-water">Water</span> | M |
+| ![](../assets/icons/pals/gumoss.png){ .pal-avatar } | [Gumoss](gumoss.md) | <span class="el el-grass">Grass</span> <span class="el el-ground">Ground</span> | XS |
+| ![](../assets/icons/pals/pupperai.png){ .pal-avatar } | [Pupperai](pupperai.md) | <span class="el el-ground">Ground</span> | XS |
+| ![](../assets/icons/pals/clovee.png){ .pal-avatar } | [Clovee](clovee.md) | <span class="el el-grass">Grass</span> <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/jolthog.png){ .pal-avatar } | [Jolthog](jolthog.md) | <span class="el el-electric">Electric</span> | XS |
+| ![](../assets/icons/pals/jolthog-cryst.png){ .pal-avatar } | [Jolthog Cryst](jolthog-cryst.md) | <span class="el el-ice">Ice</span> | XS |
+| ![](../assets/icons/pals/depresso.png){ .pal-avatar } | [Depresso](depresso.md) | <span class="el el-dark">Dark</span> | XS |
+| ![](../assets/icons/pals/pengullet.png){ .pal-avatar } | [Pengullet](pengullet.md) | <span class="el el-water">Water</span> <span class="el el-ice">Ice</span> | XS |
+| ![](../assets/icons/pals/ribbuny.png){ .pal-avatar } | [Ribbuny](ribbuny.md) | <span class="el el-neutral">Neutral</span> | XS |
 | ![](../assets/icons/pals/bushi.png){ .pal-avatar } | [Bushi](bushi.md) | <span class="el el-fire">Fire</span> | M |
 | ![](../assets/icons/pals/bushi-noct.png){ .pal-avatar } | [Bushi Noct](bushi-noct.md) | <span class="el el-fire">Fire</span> <span class="el el-dark">Dark</span> | M |
 | ![](../assets/icons/pals/sootseer.png){ .pal-avatar } | [Sootseer](sootseer.md) | <span class="el el-dark">Dark</span> <span class="el el-fire">Fire</span> | M |
