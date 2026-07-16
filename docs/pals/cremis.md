@@ -26,6 +26,10 @@ capture_rate_correct: 1.3
 male_probability: 50
 egg: Common Egg
 gold_coin: 489
+level_80:
+  health: [3700, 4540]
+  attack: [520, 646]
+  defense: [500, 635]
 drops:
   - item: [[wool]]
     qty: "1-2"
@@ -95,7 +99,8 @@ pick for Neutral teams.
 ## Combat
 
 [[elements|Neutral]] element — weak to Dark, strong against nothing. Solid melee
-(MeleeAttack 100) but low Attack (70), Health 70, Defense 75.
+(MeleeAttack 100) but low Attack (70), Health 70, Defense 75. At level 80 it
+reaches Health 3700–4540, Attack 520–646, Defense 500–635.
 
 ## Breeding
 

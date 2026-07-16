@@ -27,6 +27,10 @@ capture_rate_correct: 1.1
 male_probability: 50
 egg: Damp Egg
 gold_coin: 658
+level_80:
+  health: [4100, 5060]
+  attack: [550, 685]
+  defense: [530, 674]
 drops:
   - item: [[aquatic-pal-fluids]]
     qty: "1-2"
@@ -34,7 +38,7 @@ drops:
 breeding:
   rank: 2380
   known_combos:
-    - [[celaray]] + [[univolt]]
+    - "[[celaray]] + [[univolt]]"
 spawns: []
 tags: [pal, water, electric]
 ---
@@ -86,15 +90,16 @@ Thông số dù theo cấp kỹ năng (dù mạnh hơn [[celaray|Celaray]] gốc
 | ![](../assets/icons/work/generating-electricity.png){ .game-icon } | [Generating Electricity](../mechanics/work/generating-electricity.md) | 2 |
 | ![](../assets/icons/work/transporting.png){ .game-icon } | [Transporting](../mechanics/work/transporting.md) | 1 |
 
-Mặt hệ Electric thêm [[generating-electricity|Generating Electricity]] Lv 2 —
-hữu ích ở máy phát điện — bên cạnh buff dù lượn dùng chung với [[celaray|Celaray]]
-gốc.
+Nhờ có thêm hệ Electric, nó có [[generating-electricity|Generating Electricity]]
+Lv 2 — rất hợp để nạp điện cho máy phát — ngoài khả năng buff dù lượn vốn giống
+[[celaray|Celaray]] gốc.
 
 ## Chiến đấu
 
 Hệ đôi [[elements|Water]]/[[elements|Electric]] — yếu trước Electric (do Water)
 và Ground (do Electric). Cận chiến khá (MeleeAttack 100) nhưng Attack thường
-(75), Health 80, Defense 80.
+(75), Health 80, Defense 80. Ở cấp 80 đạt Health 4100–5060, Attack 550–685,
+Defense 530–674.
 
 ## Nhân giống
 

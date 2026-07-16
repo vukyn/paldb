@@ -7,7 +7,7 @@ code: CuteFox
 element: [neutral]
 rarity: 2
 size: xs
-food_consumption: 2
+food_consumption: 1
 work_suitability:
   gathering: 1
   farming: 1
@@ -55,9 +55,9 @@ không phải chiến đấu.
 
 ## Thức ăn
 
-<span class="food-meter" data-value="2" data-max="10"></span>
+<span class="food-meter" data-value="1" data-max="10"></span>
 
-Mức ăn **2 / 10** — thấp, nuôi rẻ.
+Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 
 ## Partner skill
 

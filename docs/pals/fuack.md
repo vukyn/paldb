@@ -7,7 +7,7 @@ code: BluePlatypus
 element: [water]
 rarity: 1
 size: xs
-food_consumption: 2
+food_consumption: 1
 work_suitability:
   watering: 1
   handiwork: 1
@@ -54,9 +54,9 @@ An early [[elements|Water]] Pal — Paldeck #5, size XS, rarity 1.
 
 ## Food
 
-<span class="food-meter" data-value="2" data-max="10"></span>
+<span class="food-meter" data-value="1" data-max="10"></span>
 
-Consumption **2 / 10** — low, cheap to keep fed.
+Consumption **1 / 10** — very low, cheap to keep fed.
 
 ## Partner skill
 
