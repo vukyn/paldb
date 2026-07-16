@@ -11,9 +11,6 @@ extra damage (and the reverse: the target is *weak to* that element).
 
 ## Interactive chart
 
-Click an element (or hover) to see what it beats and what beats it — green =
-super-effective against, red = weak to.
-
 <div id="type-chart"></div>
 
 ## How to read it

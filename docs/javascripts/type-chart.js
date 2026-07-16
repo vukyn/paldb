@@ -1,6 +1,7 @@
 /* PalDB interactive element type-effectiveness chart.
    Self-contained (no external lib). Renders into #type-chart if present.
-   Click an element to lock its matchups; hover to preview. */
+   Pick an element (click to lock, hover to preview) → two panels show what
+   counters it and what it is super-effective (1.5×) against. */
 (function () {
   "use strict";
 
@@ -16,89 +17,111 @@
     dark: ["neutral"],
     neutral: []
   };
-  // Display order (cycle first, then the chain tail).
-  var ORDER = ["electric", "water", "fire", "grass", "ground", "ice", "dragon", "dark", "neutral"];
+  // Chip display order (matches the reference layout).
+  var ORDER = ["neutral", "fire", "water", "electric", "grass", "ground", "ice", "dragon", "dark"];
   var LABEL = {
     electric: "Electric", water: "Water", fire: "Fire", grass: "Grass",
     ground: "Ground", ice: "Ice", dragon: "Dragon", dark: "Dark", neutral: "Neutral"
   };
+  var DEFAULT = "fire";
 
-  // Localize the caption to the page language (i18n sets <html lang>; fall back
-  // to a /vi/ path prefix). Element names stay English in both.
+  // Localize captions to the page language (i18n sets <html lang>; fall back to
+  // a /vi/ path prefix). Element names stay English in both.
   function strings() {
     var lang = (document.documentElement.getAttribute("lang") || "").slice(0, 2);
     if (lang !== "vi" && /^\/vi(\/|$)/.test(location.pathname)) lang = "vi";
     if (lang === "vi") {
       return {
-        hint: "Chọn 1 element để xem khắc hệ (viền xanh = mạnh hơn, đỏ = yếu hơn).",
-        strong: "mạnh vs", weak: "yếu trước", none: "—"
+        title: "Nguyên tố nào khắc nguyên tố nào?",
+        sub: "Chọn nguyên tố của một Pal để xem gì khắc nó và nó mạnh trước gì.",
+        counter: function (n) { return "Khắc Pal hệ " + n + " bằng"; },
+        deal: function (n) { return n + " gây 1.5× lên"; },
+        none: "không có hệ nào"
       };
     }
     return {
-      hint: "Click an element to see its matchups (green = super-effective against, red = weak to).",
-      strong: "strong vs", weak: "weak to", none: "—"
+      title: "What beats each element?",
+      sub: "Pick a Pal's element to see what counters it and what it's strong against.",
+      counter: function (n) { return "Counter a " + n + " Pal with"; },
+      deal: function (n) { return n + " deals 1.5× to"; },
+      none: "nothing"
     };
   }
 
-  // Derive "weak to" as the strict inverse of STRONG.
+  // Derive "countered by" as the strict inverse of STRONG.
   var WEAK = {};
   ORDER.forEach(function (e) { WEAK[e] = []; });
   Object.keys(STRONG).forEach(function (att) {
     STRONG[att].forEach(function (def) { WEAK[def].push(att); });
   });
 
+  var SHIELD = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z"/></svg>';
+  var SWORDS = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4l9 9M14.5 12.5L20 18l-2 2-5.5-5.5M20 4l-6.5 6.5M4 20l4-4"/></svg>';
+
+  function chip(e) {
+    return '<span class="tc-el tc-' + e + '">' + LABEL[e] + '</span>';
+  }
+
   function render(root) {
-    var grid = document.createElement("div");
-    grid.className = "type-grid";
-
     var T = strings();
+    root.classList.add("tc");
 
-    var caption = document.createElement("div");
-    caption.className = "type-caption";
-    caption.textContent = T.hint;
+    root.innerHTML =
+      '<div class="tc-title">' + T.title + '</div>' +
+      '<div class="tc-sub">' + T.sub + '</div>' +
+      '<div class="tc-chips"></div>' +
+      '<div class="tc-panels">' +
+        '<div class="tc-panel tc-counter">' +
+          '<div class="tc-phead">' + SHIELD + '<span class="tc-phead-txt"></span></div>' +
+          '<div class="tc-pbody"></div>' +
+        '</div>' +
+        '<div class="tc-panel tc-deal">' +
+          '<div class="tc-phead">' + SWORDS + '<span class="tc-phead-txt"></span></div>' +
+          '<div class="tc-pbody"></div>' +
+        '</div>' +
+      '</div>';
+
+    var chips = root.querySelector(".tc-chips");
+    var counterHead = root.querySelector(".tc-counter .tc-phead-txt");
+    var dealHead = root.querySelector(".tc-deal .tc-phead-txt");
+    var counterBody = root.querySelector(".tc-counter .tc-pbody");
+    var dealBody = root.querySelector(".tc-deal .tc-pbody");
 
     var buttons = {};
     var locked = null;
 
-    function clear() {
-      ORDER.forEach(function (e) {
-        buttons[e].classList.remove("strong", "weak", "active");
-      });
+    function body(el, list) {
+      el.innerHTML = list.length
+        ? list.map(chip).join("")
+        : '<span class="tc-empty">' + T.none + '</span>';
     }
 
     function show(sel) {
-      clear();
-      if (!sel) {
-        caption.textContent = T.hint;
-        return;
-      }
-      buttons[sel].classList.add("active");
-      STRONG[sel].forEach(function (t) { buttons[t].classList.add("strong"); });
-      WEAK[sel].forEach(function (t) { buttons[t].classList.add("weak"); });
-      var strongTxt = STRONG[sel].length ? STRONG[sel].map(function (e) { return LABEL[e]; }).join(", ") : T.none;
-      var weakTxt = WEAK[sel].length ? WEAK[sel].map(function (e) { return LABEL[e]; }).join(", ") : T.none;
-      caption.innerHTML = "<strong>" + LABEL[sel] + "</strong> — " + T.strong + " <span class='c-strong'>" +
-        strongTxt + "</span> · " + T.weak + " <span class='c-weak'>" + weakTxt + "</span>";
+      ORDER.forEach(function (e) { buttons[e].classList.toggle("sel", e === sel); });
+      var nameHtml = '<span class="tc-name tc-' + sel + '">' + LABEL[sel] + '</span>';
+      counterHead.innerHTML = T.counter(nameHtml);
+      dealHead.innerHTML = T.deal(nameHtml);
+      body(counterBody, WEAK[sel]);
+      body(dealBody, STRONG[sel]);
     }
 
     ORDER.forEach(function (e) {
       var b = document.createElement("button");
       b.type = "button";
-      b.className = "type-el el-" + e;
+      b.className = "tc-el tc-" + e;
       b.textContent = LABEL[e];
-      b.setAttribute("aria-label", LABEL[e] + " matchups");
+      b.setAttribute("aria-label", LABEL[e]);
       b.addEventListener("mouseenter", function () { if (!locked) show(e); });
-      b.addEventListener("mouseleave", function () { if (!locked) show(null); });
+      b.addEventListener("mouseleave", function () { if (!locked) show(DEFAULT); });
       b.addEventListener("click", function () {
         locked = (locked === e) ? null : e;
-        show(locked);
+        show(locked || DEFAULT);
       });
       buttons[e] = b;
-      grid.appendChild(b);
+      chips.appendChild(b);
     });
 
-    root.appendChild(grid);
-    root.appendChild(caption);
+    show(DEFAULT);
   }
 
   function init() {
@@ -108,7 +131,6 @@
     render(root);
   }
 
-  // Material's instant navigation swaps content without a full reload.
   if (window.document$ && typeof window.document$.subscribe === "function") {
     window.document$.subscribe(init);
   } else {
