@@ -7,7 +7,7 @@ code: BluePlatypus
 element: [water]
 rarity: 1
 size: xs
-food_consumption: 2
+food_consumption: 1
 work_suitability:
   watering: 1
   handiwork: 1
@@ -55,9 +55,9 @@ Một Pal hệ [[elements|Water]] thời kỳ đầu — Paldeck #5, cỡ XS, đ
 
 ## Thức ăn
 
-<span class="food-meter" data-value="2" data-max="10"></span>
+<span class="food-meter" data-value="1" data-max="10"></span>
 
-Mức ăn **2 / 10** — thấp, nuôi rẻ.
+Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 
 ## Partner skill
 

@@ -1,13 +1,23 @@
 /* PalDB food-consumption meter. Renders <span class="food-meter" data-value="N"
    [data-max="10"]> into N filled + (max-N) empty pip images.
-   Asset path prefix is computed from the page depth, so it resolves on both the
-   EN tree and the deeper /vi/ tree (assets live only at the site root). */
+   The asset base is derived from this script's own URL so it resolves under any
+   deploy path — the site root locally AND the /paldb/ subpath on GitHub Pages —
+   on both the EN tree and the deeper /vi/ tree. */
 (function () {
   "use strict";
 
+  // Captured at load time while document.currentScript is still valid (it is
+  // null later when Material's instant-loading re-runs init).
+  var SCRIPT_SRC =
+    (document.currentScript && document.currentScript.src) || "";
+
   function assetPrefix() {
-    // Directory-URL page (e.g. /pals/lamball/ or /vi/pals/lamball/): count path
-    // segments → that many "../" reaches the site root.
+    // e.g. https://vukyn.github.io/paldb/javascripts/food-meter.js?123
+    //   → https://vukyn.github.io/paldb/  (site base, ends in "/")
+    if (SCRIPT_SRC) {
+      return SCRIPT_SRC.replace(/javascripts\/food-meter\.js.*$/, "");
+    }
+    // Fallback: count path segments → that many "../" reaches the site root.
     var segs = location.pathname.replace(/^\/+|\/+$/g, "").split("/").filter(Boolean);
     return segs.length ? "../".repeat(segs.length) : "./";
   }

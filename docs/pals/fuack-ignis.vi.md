@@ -7,7 +7,7 @@ code: BluePlatypus_Fire
 element: [water, fire]
 rarity: 2
 size: xs
-food_consumption: 2
+food_consumption: 1
 work_suitability:
   kindling: 2
   watering: 2
@@ -45,7 +45,7 @@ drops:
 breeding:
   rank: 2300
   known_combos:
-    - [[fuack]] + [[flambelle]]
+    - "[[fuack]] + [[flambelle]]"
 spawns: []
 tags: [pal, water, fire]
 ---
@@ -61,9 +61,9 @@ ngoài tự nhiên.
 
 ## Thức ăn
 
-<span class="food-meter" data-value="2" data-max="10"></span>
+<span class="food-meter" data-value="1" data-max="10"></span>
 
-Mức ăn **2 / 10** — thấp, nuôi rẻ.
+Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 
 ## Partner skill
 

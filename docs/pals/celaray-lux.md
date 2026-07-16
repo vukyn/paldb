@@ -27,6 +27,10 @@ capture_rate_correct: 1.1
 male_probability: 50
 egg: Damp Egg
 gold_coin: 658
+level_80:
+  health: [4100, 5060]
+  attack: [550, 685]
+  defense: [530, 674]
 drops:
   - item: [[aquatic-pal-fluids]]
     qty: "1-2"
@@ -34,7 +38,7 @@ drops:
 breeding:
   rank: 2380
   known_combos:
-    - [[celaray]] + [[univolt]]
+    - "[[celaray]] + [[univolt]]"
 spawns: []
 tags: [pal, water, electric]
 ---
@@ -95,7 +99,8 @@ useful at a power generator — on top of the glider buff it shares with base
 
 [[elements|Water]]/[[elements|Electric]] dual type — weak to Electric (Water) and
 Ground (Electric). Decent melee (MeleeAttack 100) with modest Attack (75),
-Health 80, Defense 80.
+Health 80, Defense 80. At level 80 it reaches Health 4100–5060, Attack 550–685,
+Defense 530–674.
 
 ## Breeding
 

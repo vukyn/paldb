@@ -48,8 +48,9 @@ tags: [pal, water]
 
 # Croajiro <small>#9</small>
 
-> Kẻ nào làm ô danh đàn sẽ bị buộc tự kết liễu. Bằng cách chọc thủng túi kêu đã
-> phồng bằng một cành cây, chúng bị thổi bay lên trời và trở về thế giới bên kia.
+> Kẻ nào làm ô danh cả đàn sẽ bị buộc phải tự kết liễu. Chúng dùng cành cây chọc
+> thủng cái túi hơi phồng to ở cổ, thế là bị xì hơi thổi bay lên không trung và
+> trở về thế giới bên kia.
 
 Một Pal hệ [[elements|Water]] — Paldeck #9, cỡ XS, độ hiếm 4. Vừa là bệ phóng vừa
 là công cụ mở combo sát thương.
@@ -83,8 +84,8 @@ của người chơi tăng 50–86%**. Giá trị kỹ năng theo cấp:
 | ![](../assets/icons/work/gathering.png){ .game-icon } | [Gathering](../mechanics/work/gathering.md) | 1 |
 | ![](../assets/icons/work/transporting.png){ .game-icon } | [Transporting](../mechanics/work/transporting.md) | 1 |
 
-Bốn việc đều cấp 1 — một Pal làm việc linh hoạt ở cấp thấp, nhưng điểm mạnh chính
-là kỹ năng phóng/buff Attack khi đi cùng ngoài field.
+Bốn việc đều ở cấp 1 — một Pal làm việc vặt linh hoạt lúc đầu game, nhưng giá trị
+chính là kỹ năng bật nhảy kiêm tăng sát thương khi mang nó theo bên mình.
 
 ## Chiến đấu
 

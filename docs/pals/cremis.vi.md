@@ -26,6 +26,10 @@ capture_rate_correct: 1.3
 male_probability: 50
 egg: Common Egg
 gold_coin: 489
+level_80:
+  health: [3700, 4540]
+  attack: [520, 646]
+  defense: [500, 635]
 drops:
   - item: [[wool]]
     qty: "1-2"
@@ -94,7 +98,8 @@ trợ cho đội hình Neutral.
 ## Chiến đấu
 
 Hệ [[elements|Neutral]] — yếu trước Dark, không mạnh trước hệ nào. Cận chiến khá
-(MeleeAttack 100) nhưng Attack thấp (70), Health 70, Defense 75.
+(MeleeAttack 100) nhưng Attack thấp (70), Health 70, Defense 75. Ở cấp 80 đạt
+Health 3700–4540, Attack 520–646, Defense 500–635.
 
 ## Nhân giống
 

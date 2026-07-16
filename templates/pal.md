@@ -54,7 +54,7 @@ active_skills:              # key attacks (omit if unknown)
 breeding:
   rank: 0                   # CombiRank (breeding power; combo resolver uses this)
   known_combos:             # documented parent pairs → this pal
-    - [[parent-a]] + [[parent-b]]
+    - "[[parent-a]] + [[parent-b]]"   # MUST quote — leading [[ is invalid YAML unquoted
 spawns:                     # where found
   - [[location-slug]]
 tags: [pal]
