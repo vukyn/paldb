@@ -59,9 +59,9 @@ Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 
 ## Partner skill
 
-**Cold Bomb** — khi kích hoạt, Jolthog Cryst gắn vào người chơi thành vật ném;
-quăng nó để tạo **vụ nổ** hệ [[elements|Ice]] khi trúng. Giá trị vụ nổ tăng theo
-cấp kỹ năng, kèm thưởng sát thương Awakening từ Lv 2:
+**Cold Bomb** — khi kích hoạt, người chơi cầm chính Jolthog Cryst ném thẳng vào
+kẻ địch như một quả bom, **nổ tung** ra sát thương hệ [[elements|Ice]] khi trúng.
+Sức nổ tăng theo cấp kỹ năng, kèm thưởng sát thương Awakening từ Lv 2:
 
 | Lv | Value | Awakening |
 |:--:|:-----:|-----------|
