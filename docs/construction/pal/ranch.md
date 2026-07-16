@@ -39,6 +39,7 @@ skill's item.
 | [Cremis](../../pals/cremis.md) | [Wool](../../items/materials/wool.md) | Fluffy Wool |
 | [Chikipi](../../pals/chikipi.md) | [Egg](../../items/food/egg.md) | Egg Layer |
 | [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Gold, Arrows, Bone | Dig Here! |
+| [Sootseer](../../pals/sootseer.md) | [Bone](../../items/materials/bone.md) | Grave Robber |
 
 ## Build
 

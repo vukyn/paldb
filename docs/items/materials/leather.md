@@ -13,6 +13,7 @@ dropped_by:
   - [[fuack]]
   - [[fuack-ignis]]
   - [[vixy]]
+  - [[herbil]]
 tags: [item, material]
 ---
 
@@ -26,7 +27,7 @@ material, feeding into armor and other protective crafts.
 ## Obtain
 
 Dropped by certain Pals on capture or defeat, including [[fuack|Fuack]],
-[[fuack-ignis|Fuack Ignis]], and [[vixy|Vixy]] (×1, 100%).
+[[fuack-ignis|Fuack Ignis]], [[vixy|Vixy]], and [[herbil|Herbil]] (×1, 100%).
 
 ## Used in
 

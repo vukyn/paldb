@@ -95,7 +95,13 @@ Attack 700–880, Defense 560–713.
 
 ## Nhân giống
 
-CombiRank 2600. Nở từ **Damp Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 2600. Nở từ **Damp Egg**. Chưa ghi nhận cặp bố mẹ nào.
+
+Pal con đã biết:
+
+- [[croajiro|Croajiro]] + [[bushi-noct|Bushi Noct]] → [[croajiro-noct|Croajiro Noct]]
+
+Xem [[breeding]].
 
 ## Vật phẩm rơi
 

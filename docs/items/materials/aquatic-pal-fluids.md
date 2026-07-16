@@ -15,6 +15,7 @@ dropped_by:
   - [[celaray]]
   - [[celaray-lux]]
   - [[croajiro]]
+  - [[croajiro-noct]]
 tags: [item, material]
 ---
 
@@ -29,7 +30,8 @@ useful in binding and cooling recipes like [[cement|Cement]] and
 ## Obtain
 
 Dropped by Water-element Pals on capture or defeat — e.g. [[fuack|Fuack]],
-[[fuack-ignis|Fuack Ignis]], [[celaray|Celaray]], [[celaray-lux|Celaray Lux]], and [[croajiro|Croajiro]].
+[[fuack-ignis|Fuack Ignis]], [[celaray|Celaray]], [[celaray-lux|Celaray Lux]], [[croajiro|Croajiro]], and
+[[croajiro-noct|Croajiro Noct]].
 
 ## Used in
 

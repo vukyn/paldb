@@ -63,6 +63,7 @@ Các trạm sản xuất, chia theo chức năng.
 |:--:|------|------|
 | ![](../../assets/icons/items/mill.png){ .item-icon } | [Cối xay](mill.md) | chế (Tech Lv 15) |
 | ![](../../assets/icons/items/crusher.png){ .item-icon } | [Máy nghiền](crusher.md) | chế (Tech Lv 8) |
+| ![](../../assets/icons/items/refrigerated-crusher.png){ .item-icon } | [Máy nghiền làm lạnh](refrigerated-crusher.md) | stub |
 
 ## Hố câu cá
 

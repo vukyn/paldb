@@ -96,7 +96,13 @@ Health 4100–5060, Attack 700–880, Defense 560–713.
 ## Breeding
 
 CombiRank 2600. Hatches from a **Damp Egg**. Documented parent combos: none
-recorded yet. See [[breeding]].
+recorded yet.
+
+Known children:
+
+- [[croajiro|Croajiro]] + [[bushi-noct|Bushi Noct]] → [[croajiro-noct|Croajiro Noct]]
+
+See [[breeding]].
 
 ## Drops
 
