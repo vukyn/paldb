@@ -57,7 +57,8 @@ tags: [pal, neutral]
 > [[cattiva|Cattiva]] chọc phá thắt nút lại. Những lúc ấy, gương mặt nó hoá quỷ.
 
 Một Pal hệ [[elements|Neutral]] — Paldeck #44, cỡ XS, độ hiếm 1. Một Pal hỗ trợ
-vừa buff đồng đội hệ Neutral vừa tăng tốc Handiwork ở căn cứ.
+vừa buff đồng đội hệ Neutral vừa tăng tốc Handiwork ở căn cứ. Biến thể hệ Grass
+của nó là [[ribbuny-botan|Ribbuny Botan]] (#44B).
 
 ## Thức ăn
 

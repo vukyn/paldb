@@ -65,6 +65,12 @@ Các trạm sản xuất, chia theo chức năng.
 | ![](../../assets/icons/items/crusher.png){ .item-icon } | [Máy nghiền](crusher.md) | chế (Tech Lv 8) |
 | ![](../../assets/icons/items/refrigerated-crusher.png){ .item-icon } | [Máy nghiền làm lạnh](refrigerated-crusher.md) | stub |
 
+## Trồng trọt
+
+|  | Vật phẩm | Nguồn |
+|:--:|------|------|
+| ![](../../assets/icons/items/carrot-plantation.png){ .item-icon } | [Vườn Carrot](carrot-plantation.md) | chế (Tech Lv 32) |
+
 ## Hố câu cá
 
 *Chưa có mục nào — sẽ bổ sung.*

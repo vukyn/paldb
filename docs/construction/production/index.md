@@ -65,6 +65,12 @@ Production stations, grouped by function.
 | ![](../../assets/icons/items/crusher.png){ .item-icon } | [Crusher](crusher.md) | craft (Tech Lv 8) |
 | ![](../../assets/icons/items/refrigerated-crusher.png){ .item-icon } | [Refrigerated Crusher](refrigerated-crusher.md) | stub |
 
+## Farming
+
+|  | Item | Source |
+|:--:|------|------|
+| ![](../../assets/icons/items/carrot-plantation.png){ .item-icon } | [Carrot Plantation](carrot-plantation.md) | craft (Tech Lv 32) |
+
 ## Fishing Holes
 
 *None yet — to be added.*

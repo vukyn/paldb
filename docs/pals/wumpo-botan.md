@@ -1,18 +1,15 @@
 ---
 entity: pal
-name: Prunelia
-slug: prunelia
+name: Wumpo Botan
+slug: wumpo-botan
 drops:
-  - item: [[low-grade-medical-supplies]]
-    qty: "1-3"
-    chance: 100%
   - item: [[carrot-seeds]]
     qty: "1"
     chance: 50%
 tags: [pal]
 ---
 
-# Prunelia
+# Wumpo Botan
 
 > Stub — awaiting data.
 
@@ -22,5 +19,4 @@ On capture or defeat:
 
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/low-grade-medical-supplies.png){ .game-icon } | [Low Grade Medical Supplies](../items/consumables/low-grade-medical-supplies.md) | ×1–3 | 100% |
 | ![](../assets/icons/items/carrot-seeds.png){ .game-icon } | [Carrot Seeds](../items/materials/carrot-seeds.md) | ×1 | 50% |

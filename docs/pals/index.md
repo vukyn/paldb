@@ -30,6 +30,7 @@ title: Pals
 | ![](../assets/icons/pals/depresso.png){ .pal-avatar } | [Depresso](depresso.md) | <span class="el el-dark">Dark</span> | XS |
 | ![](../assets/icons/pals/pengullet.png){ .pal-avatar } | [Pengullet](pengullet.md) | <span class="el el-water">Water</span> <span class="el el-ice">Ice</span> | XS |
 | ![](../assets/icons/pals/ribbuny.png){ .pal-avatar } | [Ribbuny](ribbuny.md) | <span class="el el-neutral">Neutral</span> | XS |
+| ![](../assets/icons/pals/ribbuny-botan.png){ .pal-avatar } | [Ribbuny Botan](ribbuny-botan.md) | <span class="el el-grass">Grass</span> | XS |
 | ![](../assets/icons/pals/bushi.png){ .pal-avatar } | [Bushi](bushi.md) | <span class="el el-fire">Fire</span> | M |
 | ![](../assets/icons/pals/bushi-noct.png){ .pal-avatar } | [Bushi Noct](bushi-noct.md) | <span class="el el-fire">Fire</span> <span class="el el-dark">Dark</span> | M |
 | ![](../assets/icons/pals/sootseer.png){ .pal-avatar } | [Sootseer](sootseer.md) | <span class="el el-dark">Dark</span> <span class="el el-fire">Fire</span> | M |
@@ -49,5 +50,9 @@ title: Pals
 | ![](../assets/icons/pals/blazamut-ryu.png){ .pal-avatar } | [Blazamut Ryu](blazamut-ryu.md) | — | — |
 | ![](../assets/icons/pals/flambelle.png){ .pal-avatar } | [Flambelle](flambelle.md) | — | — |
 | ![](../assets/icons/pals/univolt.png){ .pal-avatar } | [Univolt](univolt.md) | — | — |
+| ![](../assets/icons/pals/dinossom-lux.png){ .pal-avatar } | [Dinossom Lux](dinossom-lux.md) | — | — |
+| ![](../assets/icons/pals/mossanda.png){ .pal-avatar } | [Mossanda](mossanda.md) | — | — |
+| ![](../assets/icons/pals/wumpo-botan.png){ .pal-avatar } | [Wumpo Botan](wumpo-botan.md) | — | — |
+| ![](../assets/icons/pals/palumba.png){ .pal-avatar } | [Palumba](palumba.md) | — | — |
 
 </div>

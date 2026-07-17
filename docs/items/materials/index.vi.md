@@ -15,6 +15,7 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/bio-battery.png){ .item-icon } | [Pin Sinh Học](bio-battery.md) | chế (Dây chuyền sản xuất II) |
 | ![](../../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | Pal rơi |
 | ![](../../assets/icons/items/carbon-fiber.png){ .item-icon } | [Carbon Fiber](carbon-fiber.md) | stub |
+| ![](../../assets/icons/items/carrot-seeds.png){ .item-icon } | [Carrot Seeds](carrot-seeds.md) | [Ribbuny Botan](../../pals/ribbuny-botan.md) rơi |
 | ![](../../assets/icons/items/cement.png){ .item-icon } | [Xi Măng](cement.md) | chế (HQ Workbench) |
 | ![](../../assets/icons/items/charcoal.png){ .item-icon } | [Than Củi](charcoal.md) | chế (Gỗ) |
 | ![](../../assets/icons/items/circuit-board.png){ .item-icon } | [Bảng Mạch](circuit-board.md) | chế (Quartz + Polymer) |

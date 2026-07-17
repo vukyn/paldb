@@ -13,3 +13,4 @@ title: Food
 | ![](../../assets/icons/items/flour.png){ .item-icon } | [Flour](flour.md) | mill (Wheat) |
 | ![](../../assets/icons/items/bread.png){ .item-icon } | [Bread](bread.md) | cook (Flour) |
 | ![](../../assets/icons/items/wheat.png){ .item-icon } | [Wheat](wheat.md) | grow (Wheat Seeds) |
+| ![](../../assets/icons/items/carrot.png){ .item-icon } | [Carrot](carrot.md) | [Ribbuny Botan](../../pals/ribbuny-botan.md) drop / grow |
