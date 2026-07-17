@@ -95,7 +95,7 @@ Health 4100–5060, Attack 580–724, Defense 470–596.
 
 ## Nhân giống
 
-CombiRank 2510. Nở từ **[[frozen-egg|Frozen Egg]]**. Combo độc nhất — lai từ
+CombiRank 2510. Nở từ **[[frozen-egg|Trứng Băng]]**. Combo độc nhất — lai từ
 **[[hangyu|Hangyu]] + [[swee|Swee]]**. Xem [[breeding]].
 
 ## Vật phẩm rơi

@@ -21,7 +21,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Carbon Fiber
+# Sợi Carbon (Carbon Fiber)
 
 > Vật liệu nhẹ nhưng bền chắc, dùng cho giáp và trang bị khác. Chế tại Dây chuyền
 > sản xuất.

@@ -12,20 +12,20 @@ code: PalEgg_Leaf_05
 tags: [item, egg]
 ---
 
-# Huge Verdant Egg
+# Trứng Xanh Khổng Lồ (Huge Verdant Egg)
 
-> Một quả Huge Verdant Egg. Bên trong có một tinh linh xanh đang lớn dần — như thể
+> Một quả Trứng Xanh Khổng Lồ. Bên trong có một tinh linh xanh đang lớn dần — như thể
 > một quái vật sắp chào đời. Đặt vào Egg Incubator để ấp.
 
 Quả trứng Grass to nhất, bậc Legendary — phiên bản khổng lồ của
-[[verdant-egg|Verdant Egg]] thường. Nó nở ra các Pal hệ Grass cỡ lớn / độ hiếm cao
+[[verdant-egg|Trứng Xanh]] thường. Nó nở ra các Pal hệ Grass cỡ lớn / độ hiếm cao
 như [[vaelet|Vaelet]], [[petallia|Petallia]], [[petallia-ignis|Petallia Ignis]]
 và [[elizabee|Elizabee]]. Đặt vào [[egg-incubator|Egg Incubator]] để ấp nở.
 
 ## Nguồn
 
 Tìm thấy trong tổ ngoài thế giới, hoặc tạo ra qua [[breeding|nhân giống]] hai Pal
-mà kết quả nở từ Huge Verdant Egg.
+mà kết quả nở từ Trứng Xanh Khổng Lồ.
 
 ## Chỉ số
 

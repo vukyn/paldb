@@ -93,7 +93,7 @@ Hệ đôi [[elements|Grass]]/[[elements|Neutral]] — yếu trước Fire (do G
 
 ## Nhân giống
 
-CombiRank 2630. Nở từ **Verdant Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 2630. Nở từ **Trứng Xanh**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 

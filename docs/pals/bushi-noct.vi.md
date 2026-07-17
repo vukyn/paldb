@@ -104,7 +104,7 @@ Health/Defense. Ở cấp 80 đạt Health 4100–5060, Attack 880–1114, Defen
 
 ## Nhân giống
 
-CombiRank 840. Nở từ **Large Scorching Egg**. Tạo ra từ combo độc nhất
+CombiRank 840. Nở từ **Trứng Rực Lửa Lớn**. Tạo ra từ combo độc nhất
 [[bushi|Bushi]] + [[sootseer|Sootseer]]. Bản thân nó cũng là bố mẹ của
 [[croajiro-noct|Croajiro Noct]]. Xem [[breeding]].
 

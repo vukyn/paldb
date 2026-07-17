@@ -148,7 +148,7 @@ là Support 140. Ở cấp 80 đạt Health 3700–4540, Attack 520–646, Defen
 
 ## Nhân giống
 
-CombiRank 3060. Nở từ **Common Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 3060. Nở từ **Trứng Thường**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 

@@ -95,7 +95,7 @@ với thân hình lớn. Ở cấp 80 đạt Health 4500–5580, Attack 730–91
 
 ## Nhân giống
 
-CombiRank 1790. Nở từ **[[huge-verdant-egg|Huge Verdant Egg]]**. Chưa ghi nhận
+CombiRank 1790. Nở từ **[[huge-verdant-egg|Trứng Xanh Khổng Lồ]]**. Chưa ghi nhận
 cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi

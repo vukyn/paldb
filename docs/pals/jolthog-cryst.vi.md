@@ -87,7 +87,7 @@ Health 3700–4540, Attack 550–685, Defense 530–674.
 
 ## Nhân giống
 
-CombiRank 2850. Nở từ **Frozen Egg**. Tạo ra từ combo độc nhất [[jolthog|Jolthog]]
+CombiRank 2850. Nở từ **Trứng Băng**. Tạo ra từ combo độc nhất [[jolthog|Jolthog]]
 + [[pengullet|Pengullet]]. Xem [[breeding]].
 
 ## Vật phẩm rơi

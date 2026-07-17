@@ -97,7 +97,7 @@ Health 4100–5060, Attack 520–646, Defense 530–674.
 
 ## Nhân giống
 
-CombiRank 2740. Nở từ **Damp Egg**. Chưa ghi nhận cặp bố mẹ nào.
+CombiRank 2740. Nở từ **Trứng Ẩm**. Chưa ghi nhận cặp bố mẹ nào.
 
 Pal con đã biết:
 
@@ -111,7 +111,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1–2 | 100% |
 
 ## Nơi tìm thấy
 

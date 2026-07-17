@@ -100,7 +100,7 @@ Hệ [[elements|Neutral]] — yếu trước Dark, không mạnh trước hệ n
 
 ## Nhân giống
 
-CombiRank 2860. Nở từ **Common Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 2860. Nở từ **Trứng Thường**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 

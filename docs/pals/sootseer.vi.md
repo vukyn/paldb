@@ -117,7 +117,7 @@ cấp 80 đạt Health 5100–6360, Attack 850–1075, Defense 590–752.
 
 ## Nhân giống
 
-CombiRank 980. Nở từ **Large Dark Egg**. Chưa ghi nhận cặp bố mẹ nào.
+CombiRank 980. Nở từ **Trứng Bóng Tối Lớn**. Chưa ghi nhận cặp bố mẹ nào.
 
 Pal con đã biết:
 
@@ -133,7 +133,7 @@ Khi bắt hoặc hạ gục:
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/medium-pal-soul.png){ .game-icon } | [Medium Pal Soul](../items/materials/medium-pal-soul.md) | ×1–2 | 100% |
 | ![](../assets/icons/items/bone.png){ .game-icon } | [Xương](../items/materials/bone.md) | ×1–2 | 100% |
-| ![](../assets/icons/items/crude-oil.png){ .game-icon } | [Crude Oil](../items/materials/crude-oil.md) | ×1 | 50% |
+| ![](../assets/icons/items/crude-oil.png){ .game-icon } | [Dầu Thô](../items/materials/crude-oil.md) | ×1 | 50% |
 
 ## Nơi tìm thấy
 

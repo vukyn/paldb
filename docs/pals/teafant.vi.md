@@ -86,7 +86,7 @@ Hệ [[elements|Water]] — mạnh trước Fire, yếu trước Electric. Chỉ
 
 ## Nhân giống
 
-CombiRank 3070. Nở từ **Damp Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 3070. Nở từ **Trứng Ẩm**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 
@@ -94,7 +94,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
 
 ## Nơi tìm thấy
 

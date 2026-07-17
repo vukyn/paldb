@@ -103,7 +103,7 @@ Dragon (do Dark). Tấn công mạnh (Attack 110, MeleeAttack 100) cùng Defense
 
 ## Nhân giống
 
-CombiRank 1860. Nở từ **Large Damp Egg**. Tạo ra từ combo độc nhất
+CombiRank 1860. Nở từ **Trứng Ẩm Lớn**. Tạo ra từ combo độc nhất
 [[croajiro|Croajiro]] + [[bushi-noct|Bushi Noct]]. Xem [[breeding]].
 
 ## Vật phẩm rơi
@@ -112,7 +112,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1–2 | 100% |
 | ![](../assets/icons/items/cloth.png){ .game-icon } | [Vải](../items/materials/cloth.md) | ×1–2 | 25% |
 | ![](../assets/icons/items/venom-gland.png){ .game-icon } | [Tuyến Nọc Độc](../items/materials/venom-gland.md) | ×2–4 | 100% |
 

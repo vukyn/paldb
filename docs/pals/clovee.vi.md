@@ -81,7 +81,7 @@ cấp 80 đạt Health 4100–5060, Attack 490–607, Defense 440–557.
 
 ## Nhân giống
 
-CombiRank 2970. Nở từ **Verdant Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 2970. Nở từ **Trứng Xanh**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 

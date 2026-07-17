@@ -97,7 +97,7 @@ Attack 850–1075, Defense 530–674.
 
 ## Nhân giống
 
-CombiRank 1560. Nở từ **Large Scorching Egg**. Chưa ghi nhận cặp bố mẹ nào.
+CombiRank 1560. Nở từ **Trứng Rực Lửa Lớn**. Chưa ghi nhận cặp bố mẹ nào.
 
 Pal con đã biết:
 

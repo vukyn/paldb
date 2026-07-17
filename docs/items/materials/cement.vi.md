@@ -24,7 +24,7 @@ tags: [item, structure-material]
 # Xi Măng (Cement)
 
 > Vật liệu xây dựng cho các công trình nâng cao. Chế tại Bàn chế tạo cao cấp
-> từ Đá, Xương và Aquatic Pal Fluids.
+> từ Đá, Xương và Dịch Pal Nước.
 
 Vật liệu xây dựng chủ chốt cho công trình giai đoạn giữa/cuối. Mở ở Công nghệ
 Cấp 19, chế được khi đã có [[high-quality-workbench|Bàn chế tạo cao cấp]].
@@ -35,7 +35,7 @@ Cấp 19, chế được khi đã có [[high-quality-workbench|Bàn chế tạo 
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](stone.md) | 20 |
 | ![](../../assets/icons/items/bone.png){ .game-icon } | [Xương](bone.md) | 1 |
-| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](aquatic-pal-fluids.md) | 1 |
+| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](aquatic-pal-fluids.md) | 1 |
 
 **Chế được tại**
 

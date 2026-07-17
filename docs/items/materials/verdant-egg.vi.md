@@ -12,9 +12,9 @@ code: PalEgg_Leaf_01
 tags: [item, egg]
 ---
 
-# Verdant Egg
+# Trứng Xanh (Verdant Egg)
 
-> Một quả Verdant Egg — bên trong có gì đó đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
+> Một quả Trứng Xanh — bên trong có gì đó đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
 
 Loại trứng thường mang chủ đề hệ Grass. Đặt vào [[egg-incubator|Egg Incubator]]
 để ấp và nở ra Pal bên trong. Nhặt được ngoài thế giới hoặc do nhân giống — các
@@ -24,7 +24,7 @@ và [[beegarde|Beegarde]] nở ra từ loại trứng này.
 ## Nguồn
 
 Nhặt trong các tổ ngoài thế giới, hoặc do [[breeding]] hai Pal mà kết quả nở từ
-Verdant Egg.
+Trứng Xanh.
 
 ## Chỉ số
 

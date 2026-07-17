@@ -99,7 +99,7 @@ Defense 650–830.
 
 ## Nhân giống
 
-CombiRank 820. Nở từ **[[huge-verdant-egg|Huge Verdant Egg]]**. Combo độc nhất —
+CombiRank 820. Nở từ **[[huge-verdant-egg|Trứng Xanh Khổng Lồ]]**. Combo độc nhất —
 lai từ **[[petallia|Petallia]] + [[bushi|Bushi]]**. Xem [[breeding]].
 
 ## Vật phẩm rơi

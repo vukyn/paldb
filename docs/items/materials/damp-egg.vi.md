@@ -12,9 +12,9 @@ code: PalEgg_Water_01
 tags: [item, egg]
 ---
 
-# Damp Egg
+# Trứng Ẩm (Damp Egg)
 
-> Một quả Damp Egg — bên trong có thứ gì đó đang bơi. Đặt vào Egg Incubator để ấp.
+> Một quả Trứng Ẩm — bên trong có thứ gì đó đang bơi. Đặt vào Egg Incubator để ấp.
 
 Quả trứng thường mang chủ đề hệ Water. Đặt vào [[egg-incubator|Egg Incubator]] để
 ấp và nở ra Pal bên trong. Nhặt được gần vùng nước hoặc do nhân giống — các Pal
@@ -24,7 +24,7 @@ loại trứng này.
 ## Nguồn
 
 Nhặt trong tổ gần vùng nước, hoặc tạo ra qua [[breeding|nhân giống]] hai Pal mà
-kết quả nở từ Damp Egg.
+kết quả nở từ Trứng Ẩm.
 
 ## Chỉ số
 

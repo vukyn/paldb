@@ -12,9 +12,9 @@ code: PalEgg_Normal_01
 tags: [item, egg]
 ---
 
-# Common Egg
+# Trứng Thường (Common Egg)
 
-> Một quả Common Egg — bên trong có gì đó hiền hoà đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
+> Một quả Trứng Thường — bên trong có gì đó hiền hoà đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
 
 Loại trứng thường mang chủ đề hệ Neutral. Đặt vào [[egg-incubator|Egg Incubator]]
 để ấp và nở ra Pal bên trong. Các Pal hệ Neutral như [[lamball|Lamball]],
@@ -24,7 +24,7 @@ ra từ loại trứng này.
 ## Nguồn
 
 Nhặt trong các tổ ngoài thế giới, hoặc do [[breeding]] hai Pal mà kết quả nở từ
-Common Egg.
+Trứng Thường.
 
 ## Chỉ số
 

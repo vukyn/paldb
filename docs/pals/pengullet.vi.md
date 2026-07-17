@@ -94,7 +94,7 @@ năng phóng đạn. Ở cấp 80 đạt Health 3700–4540, Attack 550–685, D
 
 ## Nhân giống
 
-CombiRank 2960. Nở từ **[[damp-egg|Damp Egg]]**. Chưa ghi nhận cặp bố mẹ nào.
+CombiRank 2960. Nở từ **[[damp-egg|Trứng Ẩm]]**. Chưa ghi nhận cặp bố mẹ nào.
 
 Con lai đã biết:
 
@@ -110,7 +110,7 @@ Khi bắt hoặc hạ gục:
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/ice-organ.png){ .game-icon } | [Ice Organ](../items/materials/ice-organ.md) | ×1–2 | 100% |
-| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
 
 ## Nơi tìm thấy
 

@@ -98,7 +98,7 @@ thấp (Health 75, Attack/Defense 70). Ở cấp 80 đạt Health 3900–4800, A
 
 ## Nhân giống
 
-CombiRank 3020. Cặp bố mẹ ghi nhận: chưa có. Nở từ trứng Verdant Egg.
+CombiRank 3020. Cặp bố mẹ ghi nhận: chưa có. Nở từ trứng Trứng Xanh.
 
 ## Vật phẩm rơi
 

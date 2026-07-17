@@ -88,7 +88,7 @@ cấp 80 đạt Health 3700–4540, Attack 520–646, Defense 470–596.
 
 ## Nhân giống
 
-CombiRank 2950. Nở từ **Verdant Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 2950. Nở từ **Trứng Xanh**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 
@@ -97,7 +97,7 @@ Khi bắt hoặc hạ gục:
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Hạt giống Berry](../items/materials/berry-seeds.md) | ×1 | 100% |
-| ![](../assets/icons/items/gumoss-leaf.png){ .game-icon } | [Gumoss Leaf](../items/materials/gumoss-leaf.md) | ×1 | 50% |
+| ![](../assets/icons/items/gumoss-leaf.png){ .game-icon } | [Lá Gumoss](../items/materials/gumoss-leaf.md) | ×1 | 50% |
 
 ## Nơi tìm thấy
 

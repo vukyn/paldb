@@ -104,7 +104,7 @@ Hệ [[elements|Grass]] — yếu trước Fire, mạnh trước Ground. Cận c
 
 ## Nhân giống
 
-CombiRank 2460. Nở từ **Verdant Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 2460. Nở từ **Trứng Xanh**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 

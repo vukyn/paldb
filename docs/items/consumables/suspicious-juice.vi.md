@@ -49,7 +49,7 @@ nguy.
 | ![](../../assets/icons/items/beautiful-flower.png){ .game-icon } | [Beautiful Flower](../materials/beautiful-flower.md) | 3 |
 | ![](../../assets/icons/items/horn.png){ .game-icon } | [Sừng](../materials/horn.md) | 3 |
 | ![](../../assets/icons/items/bone.png){ .game-icon } | [Xương](../materials/bone.md) | 1 |
-| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../materials/aquatic-pal-fluids.md) | 1 |
+| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../materials/aquatic-pal-fluids.md) | 1 |
 
 **Chế tạo tại**
 
