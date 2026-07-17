@@ -109,7 +109,7 @@ Khi bắt hoặc hạ gục:
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/beautiful-flower.png){ .game-icon } | [Beautiful Flower](../items/materials/beautiful-flower.md) | ×2–3 | 100% |
-| ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../items/materials/flame-organ.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](../items/materials/flame-organ.md) | ×1–2 | 100% |
 
 Ở dạng **boss alpha (Lv 70)** nó còn rơi thêm [[world-tree-holy-water|World Tree
 Holy Water]] và [[fire-radiant-gem|Fire Radiant Gem]] (×1–3, 50%), cùng Ancient

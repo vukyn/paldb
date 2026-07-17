@@ -30,4 +30,4 @@ Mở tại **Công nghệ Cấp 38**.
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/ingot.png){ .game-icon } | [Thỏi Đồng](../../items/materials/ingot.md) | 5 |
-| ![](../../assets/icons/items/ice-organ.png){ .game-icon } | [Ice Organ](../../items/materials/ice-organ.md) | 2 |
+| ![](../../assets/icons/items/ice-organ.png){ .game-icon } | [Cơ Quan Băng](../../items/materials/ice-organ.md) | 2 |

@@ -35,7 +35,7 @@ Công nghệ Cấp 6, chế tại [[primitive-workbench|Bàn chế tạo sơ kha
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/wood.png){ .game-icon } | [Gỗ](../materials/wood.md) | 2 |
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](../materials/stone.md) | 2 |
-| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../materials/flame-organ.md) | 1 |
+| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](../materials/flame-organ.md) | 1 |
 
 **Chế được tại**
 

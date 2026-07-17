@@ -25,13 +25,13 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/computer.png){ .item-icon } | [Máy Tính](computer.md) | stub |
 | ![](../../assets/icons/items/coralum-ingot.png){ .item-icon } | [Coralum Ingot](coralum-ingot.md) | stub |
 | ![](../../assets/icons/items/corrosive-solvent.png){ .item-icon } | [Dung Môi Ăn Mòn](corrosive-solvent.md) | stub |
-| ![](../../assets/icons/items/crude-oil.png){ .item-icon } | [Dầu Thô](crude-oil.md) | Dầu Thô Extractor / Pal rơi |
+| ![](../../assets/icons/items/crude-oil.png){ .item-icon } | [Dầu Thô](crude-oil.md) | Máy khai thác Dầu Thô / Pal rơi |
 | ![](../../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Dung Dịch Làm Lạnh](cryogenic-coolant.md) | chế (Assembly Line) |
 | ![](../../assets/icons/items/damp-egg.png){ .item-icon } | [Trứng Ẩm](damp-egg.md) | tổ / nhân giống (Water) |
 | ![](../../assets/icons/items/dark-egg.png){ .item-icon } | [Trứng Bóng Tối](dark-egg.md) | tổ / nhân giống (Dark) |
-| ![](../../assets/icons/items/electric-organ.png){ .item-icon } | [Electric Organ](electric-organ.md) | Pal Điện rơi |
+| ![](../../assets/icons/items/electric-organ.png){ .item-icon } | [Cơ Quan Điện](electric-organ.md) | Pal Điện rơi |
 | ![](../../assets/icons/items/fiber.png){ .item-icon } | [Sợi thực vật](fiber.md) | thu từ cây |
-| ![](../../assets/icons/items/flame-organ.png){ .item-icon } | [Flame Organ](flame-organ.md) | Pal Lửa rơi |
+| ![](../../assets/icons/items/flame-organ.png){ .item-icon } | [Cơ Quan Lửa](flame-organ.md) | Pal Lửa rơi |
 | ![](../../assets/icons/items/frozen-egg.png){ .item-icon } | [Trứng Băng](frozen-egg.md) | tổ / nhân giống (Ice) |
 | ![](../../assets/icons/items/giant-pal-soul.png){ .item-icon } | [Giant Pal Soul](giant-pal-soul.md) | Crusher (Large ×2) / Pal rơi |
 | ![](../../assets/icons/items/gold-coin.png){ .item-icon } | [Đồng Vàng](gold-coin.md) | chế từ Thỏi Đồng / bán |
@@ -42,10 +42,11 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/high-quality-cloth.png){ .item-icon } | [Vải cao cấp](high-quality-cloth.md) | chế (Bàn chế tạo cao cấp) |
 | ![](../../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [Dầu Pal Cao Cấp](high-quality-pal-oil.md) | Pal rơi |
 | ![](../../assets/icons/items/huge-verdant-egg.png){ .item-icon } | [Trứng Xanh Khổng Lồ](huge-verdant-egg.md) | tổ / nhân giống (Grass, lớn) |
-| ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | Pal Băng rơi |
+| ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Cơ Quan Băng](ice-organ.md) | Pal Băng rơi |
 | ![](../../assets/icons/items/ingot.png){ .item-icon } | [Thỏi Đồng](ingot.md) | nung từ Quặng Đồng |
+| ![](../../assets/icons/items/large-frozen-egg.png){ .item-icon } | [Trứng Băng Lớn](large-frozen-egg.md) | tổ / nhân giống (Ice, lớn) |
 | ![](../../assets/icons/items/large-pal-soul.png){ .item-icon } | [Large Pal Soul](large-pal-soul.md) | Crusher (Medium ×2) / Pal rơi |
-| ![](../../assets/icons/items/leather.png){ .item-icon } | [Leather](leather.md) | Pal rơi |
+| ![](../../assets/icons/items/leather.png){ .item-icon } | [Da](leather.md) | Pal rơi |
 | ![](../../assets/icons/items/lettuce-seeds.png){ .item-icon } | [Hạt giống Xà Lách](lettuce-seeds.md) | Trang trại (Vaelet) |
 | ![](../../assets/icons/items/medium-pal-soul.png){ .item-icon } | [Medium Pal Soul](medium-pal-soul.md) | Crusher (Small ×2) / Pal rơi |
 | ![](../../assets/icons/items/meteorite-fragment.png){ .item-icon } | [Mảnh Thiên Thạch](meteorite-fragment.md) | nhặt → Crusher → Paldium |
@@ -60,12 +61,13 @@ title: Nguyên liệu
 | ![](../../assets/icons/items/potato-seeds.png){ .item-icon } | [Hạt giống Khoai Tây](potato-seeds.md) | Grass Pal drop / Trang trại |
 | ![](../../assets/icons/items/pure-quartz.png){ .item-icon } | [Thạch Anh Tinh Khiết](pure-quartz.md) | đào (tuyết) / Pierdon Cryst |
 | ![](../../assets/icons/items/refined-ingot.png){ .item-icon } | [Thỏi Tinh Luyện](refined-ingot.md) | luyện Quặng + Than |
-| ![](../../assets/icons/items/ribbuny-ribbon.png){ .item-icon } | [Ribbuny Ribbon](ribbuny-ribbon.md) | [Ribbuny](../../pals/ribbuny.md) rơi |
+| ![](../../assets/icons/items/ribbuny-ribbon.png){ .item-icon } | [Nơ Ribbuny](ribbuny-ribbon.md) | [Ribbuny](../../pals/ribbuny.md) rơi |
 | ![](../../assets/icons/items/rocky-egg.png){ .item-icon } | [Trứng Đá](rocky-egg.md) | tổ / nhân giống (Ground) |
 | ![](../../assets/icons/items/small-pal-soul.png){ .item-icon } | [Small Pal Soul](small-pal-soul.md) | Crusher / Pal rơi |
 | ![](../../assets/icons/items/soralite-ingot.png){ .item-icon } | [Soralite Ingot](soralite-ingot.md) | stub |
 | ![](../../assets/icons/items/stone.png){ .item-icon } | [Đá](stone.md) | thu thập |
 | ![](../../assets/icons/items/sulfur.png){ .item-icon } | [Lưu Huỳnh](sulfur.md) | đào (núi lửa) / Pierdon |
+| ![](../../assets/icons/items/swee-hair.png){ .item-icon } | [Lông Swee](swee-hair.md) | [Swee](../../pals/swee.md) rơi |
 | ![](../../assets/icons/items/thermal-core.png){ .item-icon } | [Thermal Core](thermal-core.md) | stub |
 | ![](../../assets/icons/items/tomato-seeds.png){ .item-icon } | [Hạt giống Cà Chua](tomato-seeds.md) | thương nhân / Grass Pal rơi |
 | ![](../../assets/icons/items/venom-gland.png){ .item-icon } | [Tuyến Nọc Độc](venom-gland.md) | Pal độc rơi |

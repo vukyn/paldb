@@ -44,6 +44,7 @@ title: Materials
 | ![](../../assets/icons/items/huge-verdant-egg.png){ .item-icon } | [Huge Verdant Egg](huge-verdant-egg.md) | nest / breeding (Grass, large) |
 | ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | Ice Pal drop |
 | ![](../../assets/icons/items/ingot.png){ .item-icon } | [Ingot](ingot.md) | refine from Ore |
+| ![](../../assets/icons/items/large-frozen-egg.png){ .item-icon } | [Large Frozen Egg](large-frozen-egg.md) | nest / breeding (Ice, large) |
 | ![](../../assets/icons/items/large-pal-soul.png){ .item-icon } | [Large Pal Soul](large-pal-soul.md) | Crusher (Medium ×2) / Pal drop |
 | ![](../../assets/icons/items/leather.png){ .item-icon } | [Leather](leather.md) | Pal drop |
 | ![](../../assets/icons/items/lettuce-seeds.png){ .item-icon } | [Lettuce Seeds](lettuce-seeds.md) | Ranch (Vaelet) |
@@ -66,6 +67,7 @@ title: Materials
 | ![](../../assets/icons/items/soralite-ingot.png){ .item-icon } | [Soralite Ingot](soralite-ingot.md) | stub |
 | ![](../../assets/icons/items/stone.png){ .item-icon } | [Stone](stone.md) | gather |
 | ![](../../assets/icons/items/sulfur.png){ .item-icon } | [Sulfur](sulfur.md) | mine (volcano) / Pierdon |
+| ![](../../assets/icons/items/swee-hair.png){ .item-icon } | [Swee Hair](swee-hair.md) | [Swee](../../pals/swee.md) drop |
 | ![](../../assets/icons/items/thermal-core.png){ .item-icon } | [Thermal Core](thermal-core.md) | stub |
 | ![](../../assets/icons/items/tomato-seeds.png){ .item-icon } | [Tomato Seeds](tomato-seeds.md) | merchant / Grass Pal drop |
 | ![](../../assets/icons/items/venom-gland.png){ .item-icon } | [Venom Gland](venom-gland.md) | Pal drop (poison) |

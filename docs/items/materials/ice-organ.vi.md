@@ -16,7 +16,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Ice Organ
+# Cơ Quan Băng (Ice Organ)
 
 > Vật liệu thu từ các Pal hệ Băng. Dùng cho đồ làm mát và các công thức băng.
 

@@ -108,9 +108,9 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/leather.png){ .game-icon } | [Leather](../items/materials/leather.md) | ×1 | 100% |
+| ![](../assets/icons/items/leather.png){ .game-icon } | [Da](../items/materials/leather.md) | ×1 | 100% |
 | ![](../assets/icons/items/beautiful-flower.png){ .game-icon } | [Beautiful Flower](../items/materials/beautiful-flower.md) | ×1 | 5% |
-| ![](../assets/icons/items/ribbuny-ribbon.png){ .game-icon } | [Ribbuny Ribbon](../items/materials/ribbuny-ribbon.md) | ×1 | 100% |
+| ![](../assets/icons/items/ribbuny-ribbon.png){ .game-icon } | [Nơ Ribbuny](../items/materials/ribbuny-ribbon.md) | ×1 | 100% |
 | ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Hạt giống Berry](../items/materials/berry-seeds.md) | ×1 | 100% |
 
 ## Nơi tìm thấy

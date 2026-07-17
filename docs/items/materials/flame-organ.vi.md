@@ -16,7 +16,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Flame Organ
+# Cơ Quan Lửa (Flame Organ)
 
 > Vật liệu thu từ các Pal hệ Lửa. Dùng cho lò nung và các công thức chế đồ lửa.
 

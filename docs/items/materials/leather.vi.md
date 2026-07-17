@@ -19,7 +19,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Leather
+# Da (Leather)
 
 > Da thuộc lấy từ Pal — vật liệu phòng thủ dùng cho giáp và trang bị.
 

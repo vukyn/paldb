@@ -19,7 +19,7 @@ tags: [item, egg]
 
 Quả trứng thường mang chủ đề hệ Ice. Đặt vào [[egg-incubator|Egg Incubator]] để
 ấp và nở ra Pal bên trong. Nhặt được ở biome lạnh hoặc do nhân giống — các Pal hệ
-Ice như [[hangyu-cryst|Hangyu Cryst]] nở ra từ loại trứng này.
+Ice như [[swee|Swee]] và [[hangyu-cryst|Hangyu Cryst]] nở ra từ loại trứng này.
 
 ## Nguồn
 

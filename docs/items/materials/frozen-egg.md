@@ -19,7 +19,8 @@ tags: [item, egg]
 
 The Ice-themed common egg. Put it in an [[egg-incubator|Egg Incubator]] to
 incubate and hatch the Pal inside. Found in cold biomes or laid via breeding —
-Ice Pals such as [[hangyu-cryst|Hangyu Cryst]] hatch from this egg type.
+Ice Pals such as [[swee|Swee]] and [[hangyu-cryst|Hangyu Cryst]] hatch from this
+egg type.
 
 ## Obtain
 

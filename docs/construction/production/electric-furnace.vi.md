@@ -46,7 +46,7 @@ Cần nguồn điện để hoạt động.
 
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|
-| ![](../../assets/icons/items/refined-ingot.png){ .game-icon } | [Refined Ingot](../../items/materials/refined-ingot.md) | 50 |
+| ![](../../assets/icons/items/refined-ingot.png){ .game-icon } | [Thỏi Tinh Luyện](../../items/materials/refined-ingot.md) | 50 |
 | ![](../../assets/icons/items/bio-battery.png){ .game-icon } | [Pin Sinh Học](../../items/materials/bio-battery.md) | 4 |
 | ![](../../assets/icons/items/polymer.png){ .game-icon } | [Polymer](../../items/materials/polymer.md) | 20 |
 | ![](../../assets/icons/items/cryogenic-coolant.png){ .game-icon } | [Dung Dịch Làm Lạnh](../../items/materials/cryogenic-coolant.md) | 10 |

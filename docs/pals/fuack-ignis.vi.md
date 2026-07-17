@@ -110,9 +110,9 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/leather.png){ .game-icon } | [Leather](../items/materials/leather.md) | ×1 | 100% |
+| ![](../assets/icons/items/leather.png){ .game-icon } | [Da](../items/materials/leather.md) | ×1 | 100% |
 | ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
-| ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../items/materials/flame-organ.md) | ×1–2 | 50% |
+| ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](../items/materials/flame-organ.md) | ×1–2 | 50% |
 
 ## Nơi tìm thấy
 
