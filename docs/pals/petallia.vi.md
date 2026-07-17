@@ -98,7 +98,7 @@ cứng cáp (Defense 100). Ở cấp 80 đạt Health 4900–6100, Attack 670–
 
 ## Nhân giống
 
-CombiRank 1720. Nở từ **[[huge-verdant-egg|Huge Verdant Egg]]**. Chưa ghi nhận
+CombiRank 1720. Nở từ **[[huge-verdant-egg|Trứng Xanh Khổng Lồ]]**. Chưa ghi nhận
 cặp bố mẹ nào.
 
 Con lai đã biết:

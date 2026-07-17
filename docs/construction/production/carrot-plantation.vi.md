@@ -44,4 +44,4 @@ Mở tại **Công nghệ Cấp 32**. Công sức xây: 20000 ([[handiwork|Handi
 | ![](../../assets/icons/items/carrot-seeds.png){ .game-icon } | [Hạt giống Cà Rốt](../../items/materials/carrot-seeds.md) | 3 |
 | ![](../../assets/icons/items/wood.png){ .game-icon } | [Gỗ](../../items/materials/wood.md) | 30 |
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](../../items/materials/stone.md) | 20 |
-| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../../items/materials/aquatic-pal-fluids.md) | 1 |
+| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../../items/materials/aquatic-pal-fluids.md) | 1 |

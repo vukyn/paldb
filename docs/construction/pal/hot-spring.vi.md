@@ -48,4 +48,4 @@ Mở khoá ở **Technology Lv 9**. Công sức xây: 8000 ([[handiwork|Handiwor
 | ![](../../assets/icons/items/wood.png){ .game-icon } | [Gỗ](../../items/materials/wood.md) | 20 |
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](../../items/materials/stone.md) | 15 |
 | ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Mảnh Paldium](../../items/materials/paldium-fragment.md) | 7 |
-| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../../items/materials/aquatic-pal-fluids.md) | 3 |
+| ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../../items/materials/aquatic-pal-fluids.md) | 3 |

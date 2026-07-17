@@ -22,7 +22,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Aquatic Pal Fluids
+# Dịch Pal Nước (Aquatic Pal Fluids)
 
 > Dịch cơ thể sánh đặc lấy từ Pal hệ Nước — vật liệu chế tạo tiện dụng.
 

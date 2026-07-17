@@ -103,7 +103,7 @@ Health 3700–4540, Attack 520–646, Defense 500–635.
 
 ## Nhân giống
 
-CombiRank 2890. Nở từ **Common Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 2890. Nở từ **Trứng Thường**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 

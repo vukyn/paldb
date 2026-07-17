@@ -36,7 +36,7 @@ trình cuối game.
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/electric-organ.png){ .game-icon } | [Electric Organ](electric-organ.md) | 1 |
 | ![](../../assets/icons/items/refined-ingot.png){ .game-icon } | [Refined Ingot](refined-ingot.md) | 1 |
-| ![](../../assets/icons/items/carbon-fiber.png){ .game-icon } | [Carbon Fiber](carbon-fiber.md) | 1 |
+| ![](../../assets/icons/items/carbon-fiber.png){ .game-icon } | [Sợi Carbon](carbon-fiber.md) | 1 |
 
 **Chế được tại**
 

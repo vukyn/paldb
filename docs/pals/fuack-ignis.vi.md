@@ -101,7 +101,7 @@ Defense 410–518.
 
 ## Nhân giống
 
-CombiRank 2300. Nở từ **Damp Egg**. Tạo ra từ combo độc nhất [[fuack|Fuack]] +
+CombiRank 2300. Nở từ **Trứng Ẩm**. Tạo ra từ combo độc nhất [[fuack|Fuack]] +
 [[flambelle|Flambelle]]. Xem [[breeding]].
 
 ## Vật phẩm rơi
@@ -111,7 +111,7 @@ Khi bắt hoặc hạ gục:
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/leather.png){ .game-icon } | [Leather](../items/materials/leather.md) | ×1 | 100% |
-| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
 | ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../items/materials/flame-organ.md) | ×1–2 | 50% |
 
 ## Nơi tìm thấy

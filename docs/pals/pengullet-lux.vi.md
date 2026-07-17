@@ -96,7 +96,7 @@ số vừa phải (Attack 80). Ở cấp 80 đạt Health 3700–4540, Attack 58
 
 ## Nhân giống
 
-CombiRank 2490. Nở từ **[[damp-egg|Damp Egg]]**. Combo độc nhất — lai từ
+CombiRank 2490. Nở từ **[[damp-egg|Trứng Ẩm]]**. Combo độc nhất — lai từ
 **[[pengullet|Pengullet]] + [[sparkit|Sparkit]]**. Xem [[breeding]].
 
 ## Vật phẩm rơi
@@ -106,7 +106,7 @@ Khi bắt hoặc hạ gục:
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/electric-organ.png){ .game-icon } | [Electric Organ](../items/materials/electric-organ.md) | ×1–2 | 100% |
-| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1 | 100% |
 
 ## Nơi tìm thấy
 

@@ -32,9 +32,9 @@ Công trình cốt lõi cho [[breeding|nhân giống]]: bỏ trứng Pal bất k
 
 ## Công dụng
 
-Thả một quả trứng (ví dụ [[common-egg|Common Egg]], [[rocky-egg|Rocky Egg]],
-[[verdant-egg|Verdant Egg]], [[huge-verdant-egg|Huge Verdant Egg]],
-[[dark-egg|Dark Egg]]) vào lồng và chờ; nó nở ra Pal tương ứng. Xem
+Thả một quả trứng (ví dụ [[common-egg|Trứng Thường]], [[rocky-egg|Trứng Đá]],
+[[verdant-egg|Trứng Xanh]], [[huge-verdant-egg|Trứng Xanh Khổng Lồ]],
+[[dark-egg|Trứng Bóng Tối]]) vào lồng và chờ; nó nở ra Pal tương ứng. Xem
 [[breeding|nhân giống]] để biết cách tạo trứng lai.
 
 ## Xây dựng

@@ -12,9 +12,9 @@ code: PalEgg_Dark_01
 tags: [item, egg]
 ---
 
-# Dark Egg
+# Trứng Bóng Tối (Dark Egg)
 
-> Một quả Dark Egg — bên trong có gì đó hỗn loạn đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
+> Một quả Trứng Bóng Tối — bên trong có gì đó hỗn loạn đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
 
 Loại trứng thường mang chủ đề hệ Dark. Đặt vào [[egg-incubator|Egg Incubator]] để
 ấp và nở ra Pal bên trong. Các Pal thiên hệ Dark như [[depresso|Depresso]] nở ra
@@ -23,7 +23,7 @@ từ loại trứng này.
 ## Nguồn
 
 Nhặt trong các tổ ngoài thế giới, hoặc do [[breeding]] hai Pal mà kết quả nở từ
-Dark Egg.
+Trứng Bóng Tối.
 
 ## Chỉ số
 

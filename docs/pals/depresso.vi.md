@@ -107,7 +107,7 @@ Hệ [[elements|Dark]] — mạnh trước Neutral, yếu trước Dragon. Chỉ
 
 ## Nhân giống
 
-CombiRank 3000. Nở từ **Dark Egg**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
+CombiRank 3000. Nở từ **Trứng Bóng Tối**. Chưa ghi nhận cặp bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
 

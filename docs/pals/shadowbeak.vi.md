@@ -20,4 +20,4 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:--:|:------:|
-| ![](../assets/icons/items/carbon-fiber.png){ .game-icon } | [Carbon Fiber](../items/materials/carbon-fiber.md) | ×2–3 | 100% |
+| ![](../assets/icons/items/carbon-fiber.png){ .game-icon } | [Sợi Carbon](../items/materials/carbon-fiber.md) | ×2–3 | 100% |

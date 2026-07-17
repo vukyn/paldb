@@ -14,7 +14,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Gumoss Leaf
+# Lá Gumoss (Gumoss Leaf)
 
 > Chiếc lá rơi từ Gumoss — tươi và dính, dùng để may quần áo.
 

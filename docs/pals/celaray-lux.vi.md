@@ -103,7 +103,7 @@ Defense 530–674.
 
 ## Nhân giống
 
-CombiRank 2380. Nở từ **Damp Egg**. Tạo ra từ combo độc nhất [[celaray|Celaray]]
+CombiRank 2380. Nở từ **Trứng Ẩm**. Tạo ra từ combo độc nhất [[celaray|Celaray]]
 + [[univolt|Univolt]]. Xem [[breeding]].
 
 ## Vật phẩm rơi
@@ -112,7 +112,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Dịch Pal Nước](../items/materials/aquatic-pal-fluids.md) | ×1–2 | 100% |
 
 ## Nơi tìm thấy
 
