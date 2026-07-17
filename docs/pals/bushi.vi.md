@@ -102,6 +102,7 @@ CombiRank 1560. Nở từ **Large Scorching Egg**. Chưa ghi nhận cặp bố m
 Pal con đã biết:
 
 - [[bushi|Bushi]] + [[sootseer|Sootseer]] → [[bushi-noct|Bushi Noct]]
+- [[petallia|Petallia]] + [[bushi|Bushi]] → [[petallia-ignis|Petallia Ignis]]
 
 Xem [[breeding]].
 
@@ -111,7 +112,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/bone.png){ .game-icon } | [Bone](../items/materials/bone.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/bone.png){ .game-icon } | [Xương](../items/materials/bone.md) | ×1–2 | 100% |
 | ![](../assets/icons/items/ingot.png){ .game-icon } | [Thỏi Đồng](../items/materials/ingot.md) | ×2–3 | 100% |
 
 ## Nơi tìm thấy

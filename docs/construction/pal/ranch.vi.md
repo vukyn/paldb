@@ -26,7 +26,7 @@ tags: [item, structure]
 > hợp là nó sẽ đều đặn tạo ra vật phẩm.
 
 Một công trình ở căn cứ. Cần khả năng [Farming](../../mechanics/work/farming.md) để
-vận hành; chứa tối đa **4** Pal làm việc. Defense 3.
+vận hành; chứa tối đa **4** Pal làm việc. Phòng thủ 3.
 
 ## Sản xuất
 
@@ -38,13 +38,15 @@ kỹ năng đó.
 | [Lamball](../../pals/lamball.md) | [Len](../../items/materials/wool.md) | Fluffy Shield |
 | [Cremis](../../pals/cremis.md) | [Len](../../items/materials/wool.md) | Fluffy Wool |
 | [Chikipi](../../pals/chikipi.md) | [Trứng](../../items/food/egg.md) | Egg Layer |
-| [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Đồng Vàng, Mũi Tên, Bone | Dig Here! |
-| [Sootseer](../../pals/sootseer.md) | [Bone](../../items/materials/bone.md) | Grave Robber |
-| [Depresso](../../pals/depresso.md) | [Venom Gland](../../items/materials/venom-gland.md) | Caffeine Inoculation |
+| [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Đồng Vàng, Mũi Tên, Xương | Dig Here! |
+| [Sootseer](../../pals/sootseer.md) | [Xương](../../items/materials/bone.md) | Grave Robber |
+| [Depresso](../../pals/depresso.md) | [Tuyến Nọc Độc](../../items/materials/venom-gland.md) | Caffeine Inoculation |
+| [Vaelet](../../pals/vaelet.md) | nhiều loại [hạt giống](../../items/materials/tomato-seeds.md) | Purification of Gaia |
+| [Beegarde](../../pals/beegarde.md) | [Mật Ong](../../items/food/honey.md) | Worker Bee |
 
 ## Chế tạo
 
-Mở khoá ở **Technology Lv 5**. Công sức xây: 15000 ([[handiwork|Handiwork]]).
+Mở khoá ở **Công nghệ Cấp 5**. Công sức xây: 15000 ([[handiwork|Handiwork]]).
 
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|

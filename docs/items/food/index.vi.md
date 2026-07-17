@@ -12,5 +12,8 @@ title: Thức ăn
 | ![](../../assets/icons/items/red-berries.png){ .item-icon } | [Red Berries](red-berries.md) | [Cattiva](../../pals/cattiva.md) rơi |
 | ![](../../assets/icons/items/flour.png){ .item-icon } | [Bột Mì](flour.md) | xay (Lúa Mì) |
 | ![](../../assets/icons/items/bread.png){ .item-icon } | [Bánh Mì](bread.md) | nấu (Bột Mì) |
-| ![](../../assets/icons/items/wheat.png){ .item-icon } | [Lúa Mì](wheat.md) | trồng (Hạt Lúa Mì) |
-| ![](../../assets/icons/items/carrot.png){ .item-icon } | [Carrot](carrot.md) | [Ribbuny Botan](../../pals/ribbuny-botan.md) rơi / trồng |
+| ![](../../assets/icons/items/wheat.png){ .item-icon } | [Lúa Mì](wheat.md) | trồng (Hạt giống Lúa Mì) |
+| ![](../../assets/icons/items/carrot.png){ .item-icon } | [Cà Rốt](carrot.md) | [Ribbuny Botan](../../pals/ribbuny-botan.md) rơi / trồng |
+| ![](../../assets/icons/items/honey.png){ .item-icon } | [Mật Ong](honey.md) | [Elizabee](../../pals/elizabee.md) rơi / Trang trại |
+| ![](../../assets/icons/items/onion.png){ .item-icon } | [Hành Tây](onion.md) | trồng (Hạt giống Hành Tây) |
+| ![](../../assets/icons/items/potato.png){ .item-icon } | [Khoai Tây](potato.md) | trồng (Hạt giống Khoai Tây) |

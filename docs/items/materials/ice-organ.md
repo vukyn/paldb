@@ -12,6 +12,7 @@ code: IceOrgan
 dropped_by:
   - [[jolthog-cryst]]
   - [[pengullet]]
+  - [[hangyu-cryst]]
 tags: [item, material]
 ---
 
@@ -26,7 +27,7 @@ Dropped by Ice-element Pals on capture or defeat. Used in cooling recipes such a
 ## Obtain
 
 Dropped by Ice-element Pals on capture or defeat — e.g. [[jolthog-cryst|Jolthog Cryst]]
-(×1) or [[pengullet|Pengullet]] (×1–2), both 100%.
+(×1), [[pengullet|Pengullet]] (×1–2) or [[hangyu-cryst|Hangyu Cryst]] (×1), all 100%.
 
 ## Used in
 

@@ -19,4 +19,4 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:--:|:------:|
-| ![](../assets/icons/items/wheat-seeds.png){ .game-icon } | [Hạt Lúa Mì](../items/materials/wheat-seeds.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/wheat-seeds.png){ .game-icon } | [Hạt giống Lúa Mì](../items/materials/wheat-seeds.md) | ×1–2 | 100% |

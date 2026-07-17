@@ -58,7 +58,7 @@ Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 
 ## Partner skill
 
-**Happy Clover** — khi được giao ở căn cứ, nó tăng cấp
+**Happy Clover** — khi cắm ở căn cứ, nó tăng cấp
 [[gathering|Gathering]] của **tất cả Pal khác trong căn cứ thêm +1** (không cộng
 dồn). Mức thưởng là **+1** cố định — không tăng theo cấp kỹ năng. Lựa chọn tốt để
 cắm ở căn cứ chuyên thu thập.
@@ -89,7 +89,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Berry Seeds](../items/materials/berry-seeds.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Hạt giống Berry](../items/materials/berry-seeds.md) | ×1–2 | 100% |
 
 ## Nơi tìm thấy
 

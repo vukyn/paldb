@@ -49,4 +49,4 @@ Cần nguồn điện để hoạt động.
 | ![](../../assets/icons/items/coralum-ingot.png){ .game-icon } | [Coralum Ingot](../../items/materials/coralum-ingot.md) | 50 |
 | ![](../../assets/icons/items/hexolite.png){ .game-icon } | [Hexolite](../../items/materials/hexolite.md) | 50 |
 | ![](../../assets/icons/items/computer.png){ .game-icon } | [Computer](../../items/materials/computer.md) | 30 |
-| ![](../../assets/icons/items/bio-battery.png){ .game-icon } | [Bio Battery](../../items/materials/bio-battery.md) | 20 |
+| ![](../../assets/icons/items/bio-battery.png){ .game-icon } | [Pin Sinh Học](../../items/materials/bio-battery.md) | 20 |

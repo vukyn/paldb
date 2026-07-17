@@ -52,7 +52,7 @@ Mũi tên dùng cho cung. Mở khoá ở Technology Lv 3, chế được từ
 ## Nguồn
 
 Chế tạo (ở trên). Cũng đào được từ [[vixy|Vixy]] qua kỹ năng **Dig Here!** trên
-[[ranch|Ranch]].
+[[ranch|Trang trại]].
 
 ## Chỉ số
 

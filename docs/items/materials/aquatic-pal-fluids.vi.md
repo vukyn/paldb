@@ -18,6 +18,7 @@ dropped_by:
   - [[croajiro-noct]]
   - [[teafant]]
   - [[pengullet]]
+  - [[pengullet-lux]]
 tags: [item, material]
 ---
 
@@ -32,8 +33,8 @@ các công thức kết dính và làm mát như [[cement|Xi Măng]] và
 ## Nguồn
 
 Rơi từ các Pal hệ Nước khi bắt hoặc hạ gục — ví dụ [[fuack|Fuack]],
-[[fuack-ignis|Fuack Ignis]], [[celaray|Celaray]], [[celaray-lux|Celaray Lux]], [[croajiro|Croajiro]], [[croajiro-noct|Croajiro Noct]], [[teafant|Teafant]] và
-[[pengullet|Pengullet]].
+[[fuack-ignis|Fuack Ignis]], [[celaray|Celaray]], [[celaray-lux|Celaray Lux]], [[croajiro|Croajiro]], [[croajiro-noct|Croajiro Noct]], [[teafant|Teafant]], [[pengullet|Pengullet]] và
+[[pengullet-lux|Pengullet Lux]].
 
 ## Dùng trong
 

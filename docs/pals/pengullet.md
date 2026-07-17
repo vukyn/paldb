@@ -53,6 +53,7 @@ tags: [pal, water, ice]
 > can.
 
 An early [[elements|Water]]/[[elements|Ice]] Pal — Paldeck #17, size XS, rarity 1.
+Its Water/Electric variant is [[pengullet-lux|Pengullet Lux]] (#17B).
 Its partner skill turns it into rocket-launcher ammunition.
 
 ## Food
@@ -96,11 +97,12 @@ the launcher partner skill. At level 80 it reaches Health 3700–4540, Attack
 
 ## Breeding
 
-CombiRank 2960. Hatches from a **Damp Egg**. Documented parent combos: none
-recorded yet.
+CombiRank 2960. Hatches from a **[[damp-egg|Damp Egg]]**. Documented parent
+combos: none recorded yet.
 
 Known children:
 
+- [[pengullet|Pengullet]] + [[sparkit|Sparkit]] → [[pengullet-lux|Pengullet Lux]]
 - [[jolthog|Jolthog]] + [[pengullet|Pengullet]] → [[jolthog-cryst|Jolthog Cryst]]
 
 See [[breeding]].

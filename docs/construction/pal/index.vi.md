@@ -32,6 +32,8 @@ Giường Pal — nơi Pal ngủ, hồi HP và phục hồi [Sanity](../../mecha
 | ![](../../assets/icons/items/high-quality-hot-spring.png){ .item-icon } | [Suối nước nóng cao cấp](high-quality-hot-spring.md) | stub |
 | ![](../../assets/icons/items/statue-of-power.png){ .item-icon } | [Statue of Power](statue-of-power.md) | stub — cường hoá Pal Soul |
 
-## Pal (Khác)
+## Ấp trứng
 
-*Chưa có mục nào — sẽ bổ sung.*
+|  | Vật phẩm | Nguồn |
+|:--:|------|------|
+| ![](../../assets/icons/items/egg-incubator.png){ .item-icon } | [Lồng ấp trứng](egg-incubator.md) | chế (Tech Lv 10) |

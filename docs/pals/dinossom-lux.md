@@ -6,6 +6,9 @@ drops:
   - item: [[carrot-seeds]]
     qty: "1-2"
     chance: 100%
+  - item: [[tomato-seeds]]
+    qty: "1-2"
+    chance: 100%
 tags: [pal]
 ---
 
@@ -20,3 +23,4 @@ On capture or defeat:
 |  | Item | Qty | Chance |
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/carrot-seeds.png){ .game-icon } | [Carrot Seeds](../items/materials/carrot-seeds.md) | ×1–2 | 100% |
+| ![](../assets/icons/items/tomato-seeds.png){ .game-icon } | [Tomato Seeds](../items/materials/tomato-seeds.md) | ×1–2 | 100% |

@@ -41,6 +41,8 @@ skill's item.
 | [Vixy](../../pals/vixy.md) | [Pal Sphere](../../items/spheres/pal-sphere.md), Gold, Arrows, Bone | Dig Here! |
 | [Sootseer](../../pals/sootseer.md) | [Bone](../../items/materials/bone.md) | Grave Robber |
 | [Depresso](../../pals/depresso.md) | [Venom Gland](../../items/materials/venom-gland.md) | Caffeine Inoculation |
+| [Vaelet](../../pals/vaelet.md) | various crop [Seeds](../../items/materials/tomato-seeds.md) | Purification of Gaia |
+| [Beegarde](../../pals/beegarde.md) | [Honey](../../items/food/honey.md) | Worker Bee |
 
 ## Build
 

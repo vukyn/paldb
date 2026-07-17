@@ -11,6 +11,9 @@ stack: 9999
 code: Fiber
 sources:
   - gathered
+dropped_by:
+  - [[hangyu]]
+  - [[hangyu-cryst]]
 tags: [item, material]
 ---
 
@@ -21,7 +24,8 @@ tags: [item, material]
 ## Cách lấy
 
 Thu từ cây — chặt cây ([[lumbering|Lumbering]]) cho ra Sợi thực vật cùng với
-[[wood|Gỗ]].
+[[wood|Gỗ]]. Ngoài ra rơi từ [[hangyu|Hangyu]] và [[hangyu-cryst|Hangyu Cryst]]
+(×5–10, 100%).
 
 ## Công dụng
 

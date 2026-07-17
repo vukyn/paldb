@@ -17,7 +17,7 @@ dropped_by:
 tags: [item, seed]
 ---
 
-# Hạt Lúa Mì (Wheat Seeds)
+# Hạt giống Lúa Mì (Wheat Seeds)
 
 > Hạt để trồng Lúa Mì — cần để bắt đầu nông trại. Cũng mua được từ thương nhân.
 

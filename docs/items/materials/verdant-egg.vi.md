@@ -18,8 +18,8 @@ tags: [item, egg]
 
 Loại trứng thường mang chủ đề hệ Grass. Đặt vào [[egg-incubator|Egg Incubator]]
 để ấp và nở ra Pal bên trong. Nhặt được ngoài thế giới hoặc do nhân giống — các
-Pal thiên hệ Grass như [[gumoss|Gumoss]], [[herbil|Herbil]] và [[lifmunk|Lifmunk]]
-nở ra từ loại trứng này.
+Pal thiên hệ Grass như [[gumoss|Gumoss]], [[herbil|Herbil]], [[lifmunk|Lifmunk]]
+và [[beegarde|Beegarde]] nở ra từ loại trứng này.
 
 ## Nguồn
 

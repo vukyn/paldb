@@ -12,6 +12,7 @@ code: IceOrgan
 dropped_by:
   - [[jolthog-cryst]]
   - [[pengullet]]
+  - [[hangyu-cryst]]
 tags: [item, material]
 ---
 
@@ -26,7 +27,7 @@ Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục. Dùng trong các côn
 ## Nguồn
 
 Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục — ví dụ [[jolthog-cryst|Jolthog Cryst]]
-(×1) hoặc [[pengullet|Pengullet]] (×1–2), đều 100%.
+(×1), [[pengullet|Pengullet]] (×1–2) hoặc [[hangyu-cryst|Hangyu Cryst]] (×1), đều 100%.
 
 ## Dùng trong
 

@@ -10,7 +10,7 @@ title: Materials
 | ![](../../assets/icons/items/ancient-civilization-core.png){ .item-icon } | [Ancient Civilization Core](ancient-civilization-core.md) | rare find (ruins) |
 | ![](../../assets/icons/items/ancient-civilization-parts.png){ .item-icon } | [Ancient Civilization Parts](ancient-civilization-parts.md) | boss / ruins |
 | ![](../../assets/icons/items/aquatic-pal-fluids.png){ .item-icon } | [Aquatic Pal Fluids](aquatic-pal-fluids.md) | Water Pal drop |
-| ![](../../assets/icons/items/beautiful-flower.png){ .item-icon } | [Beautiful Flower](beautiful-flower.md) | stub |
+| ![](../../assets/icons/items/beautiful-flower.png){ .item-icon } | [Beautiful Flower](beautiful-flower.md) | gather / [Ribbuny](../../pals/ribbuny.md) drop |
 | ![](../../assets/icons/items/berry-seeds.png){ .item-icon } | [Berry Seeds](berry-seeds.md) | Pal drop / merchant |
 | ![](../../assets/icons/items/bio-battery.png){ .item-icon } | [Bio Battery](bio-battery.md) | craft (Assembly Line II) |
 | ![](../../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | Pal drop |
@@ -27,10 +27,12 @@ title: Materials
 | ![](../../assets/icons/items/corrosive-solvent.png){ .item-icon } | [Corrosive Solvent](corrosive-solvent.md) | stub |
 | ![](../../assets/icons/items/crude-oil.png){ .item-icon } | [Crude Oil](crude-oil.md) | Crude Oil Extractor / Pal drop |
 | ![](../../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | craft (Assembly Line) |
+| ![](../../assets/icons/items/damp-egg.png){ .item-icon } | [Damp Egg](damp-egg.md) | nest / breeding (Water) |
 | ![](../../assets/icons/items/dark-egg.png){ .item-icon } | [Dark Egg](dark-egg.md) | nest / breeding (Dark) |
 | ![](../../assets/icons/items/electric-organ.png){ .item-icon } | [Electric Organ](electric-organ.md) | Electric Pal drop |
 | ![](../../assets/icons/items/fiber.png){ .item-icon } | [Fiber](fiber.md) | gather (trees) |
 | ![](../../assets/icons/items/flame-organ.png){ .item-icon } | [Flame Organ](flame-organ.md) | Fire Pal drop |
+| ![](../../assets/icons/items/frozen-egg.png){ .item-icon } | [Frozen Egg](frozen-egg.md) | nest / breeding (Ice) |
 | ![](../../assets/icons/items/giant-pal-soul.png){ .item-icon } | [Giant Pal Soul](giant-pal-soul.md) | Crusher (Large ×2) / Pal drop |
 | ![](../../assets/icons/items/gold-coin.png){ .item-icon } | [Gold Coin](gold-coin.md) | craft from Ingot / sell |
 | ![](../../assets/icons/items/gumoss-leaf.png){ .item-icon } | [Gumoss Leaf](gumoss-leaf.md) | [Gumoss](../../pals/gumoss.md) drop |
@@ -39,19 +41,23 @@ title: Materials
 | ![](../../assets/icons/items/hexolite.png){ .item-icon } | [Hexolite](hexolite.md) | stub |
 | ![](../../assets/icons/items/high-quality-cloth.png){ .item-icon } | [High Quality Cloth](high-quality-cloth.md) | craft (HQ Workbench) |
 | ![](../../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [High Quality Pal Oil](high-quality-pal-oil.md) | Pal drop |
+| ![](../../assets/icons/items/huge-verdant-egg.png){ .item-icon } | [Huge Verdant Egg](huge-verdant-egg.md) | nest / breeding (Grass, large) |
 | ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | Ice Pal drop |
 | ![](../../assets/icons/items/ingot.png){ .item-icon } | [Ingot](ingot.md) | refine from Ore |
 | ![](../../assets/icons/items/large-pal-soul.png){ .item-icon } | [Large Pal Soul](large-pal-soul.md) | Crusher (Medium ×2) / Pal drop |
 | ![](../../assets/icons/items/leather.png){ .item-icon } | [Leather](leather.md) | Pal drop |
+| ![](../../assets/icons/items/lettuce-seeds.png){ .item-icon } | [Lettuce Seeds](lettuce-seeds.md) | Ranch (Vaelet) |
 | ![](../../assets/icons/items/medium-pal-soul.png){ .item-icon } | [Medium Pal Soul](medium-pal-soul.md) | Crusher (Small ×2) / Pal drop |
 | ![](../../assets/icons/items/meteorite-fragment.png){ .item-icon } | [Meteorite Fragment](meteorite-fragment.md) | gather → Crusher → Paldium |
 | ![](../../assets/icons/items/mythical-wood.png){ .item-icon } | [Mythical Wood](mythical-wood.md) | stub |
 | ![](../../assets/icons/items/nail.png){ .item-icon } | [Nail](nail.md) | craft (Ingot) |
+| ![](../../assets/icons/items/onion-seeds.png){ .item-icon } | [Onion Seeds](onion-seeds.md) | Grass Pal drop / Ranch |
 | ![](../../assets/icons/items/ore.png){ .item-icon } | [Ore](ore.md) | mine |
 | ![](../../assets/icons/items/pal-metal-ingot.png){ .item-icon } | [Pal Metal Ingot](pal-metal-ingot.md) | refine Ore + Quartz + Paldium |
 | ![](../../assets/icons/items/paldium-fragment.png){ .item-icon } | [Paldium Fragment](paldium-fragment.md) | craft from Stone / gather |
 | ![](../../assets/icons/items/plasteel.png){ .item-icon } | [Plasteel](plasteel.md) | stub |
 | ![](../../assets/icons/items/polymer.png){ .item-icon } | [Polymer](polymer.md) | craft (Pal Oil + Sulfur) |
+| ![](../../assets/icons/items/potato-seeds.png){ .item-icon } | [Potato Seeds](potato-seeds.md) | Grass Pal drop / Ranch |
 | ![](../../assets/icons/items/pure-quartz.png){ .item-icon } | [Pure Quartz](pure-quartz.md) | mine (snow) / Pierdon Cryst |
 | ![](../../assets/icons/items/refined-ingot.png){ .item-icon } | [Refined Ingot](refined-ingot.md) | refine Ore + Coal |
 | ![](../../assets/icons/items/ribbuny-ribbon.png){ .item-icon } | [Ribbuny Ribbon](ribbuny-ribbon.md) | [Ribbuny](../../pals/ribbuny.md) drop |
@@ -61,6 +67,7 @@ title: Materials
 | ![](../../assets/icons/items/stone.png){ .item-icon } | [Stone](stone.md) | gather |
 | ![](../../assets/icons/items/sulfur.png){ .item-icon } | [Sulfur](sulfur.md) | mine (volcano) / Pierdon |
 | ![](../../assets/icons/items/thermal-core.png){ .item-icon } | [Thermal Core](thermal-core.md) | stub |
+| ![](../../assets/icons/items/tomato-seeds.png){ .item-icon } | [Tomato Seeds](tomato-seeds.md) | merchant / Grass Pal drop |
 | ![](../../assets/icons/items/venom-gland.png){ .item-icon } | [Venom Gland](venom-gland.md) | Pal drop (poison) |
 | ![](../../assets/icons/items/verdant-egg.png){ .item-icon } | [Verdant Egg](verdant-egg.md) | nest / breeding (Grass) |
 | ![](../../assets/icons/items/wheat-seeds.png){ .item-icon } | [Wheat Seeds](wheat-seeds.md) | Lifmunk drop |

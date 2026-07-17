@@ -69,7 +69,7 @@ Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 ## Partner skill
 
 **Happy-Go-Lucky Bunny** — khi ở trong đội, nó tăng **Attack của các Pal hệ
-Neutral thêm 15–30%**; khi giao ở căn cứ, nó tăng cấp [[handiwork|Handiwork]] của
+Neutral thêm 15–30%**; khi cắm ở căn cứ, nó tăng cấp [[handiwork|Handiwork]] của
 **tất cả Pal khác trong căn cứ thêm +1** (cả hai đều không cộng dồn). Mức
 Handiwork là **+1** cố định; mức Attack tăng theo cấp:
 
@@ -111,7 +111,7 @@ Khi bắt hoặc hạ gục:
 | ![](../assets/icons/items/leather.png){ .game-icon } | [Leather](../items/materials/leather.md) | ×1 | 100% |
 | ![](../assets/icons/items/beautiful-flower.png){ .game-icon } | [Beautiful Flower](../items/materials/beautiful-flower.md) | ×1 | 5% |
 | ![](../assets/icons/items/ribbuny-ribbon.png){ .game-icon } | [Ribbuny Ribbon](../items/materials/ribbuny-ribbon.md) | ×1 | 100% |
-| ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Berry Seeds](../items/materials/berry-seeds.md) | ×1 | 100% |
+| ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Hạt giống Berry](../items/materials/berry-seeds.md) | ×1 | 100% |
 
 ## Nơi tìm thấy
 
