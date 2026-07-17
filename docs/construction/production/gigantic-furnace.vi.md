@@ -48,5 +48,5 @@ Cần nguồn điện để hoạt động.
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/plasteel.png){ .game-icon } | [Plasteel](../../items/materials/plasteel.md) | 150 |
 | ![](../../assets/icons/items/polymer.png){ .game-icon } | [Polymer](../../items/materials/polymer.md) | 100 |
-| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../../items/materials/flame-organ.md) | 200 |
+| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](../../items/materials/flame-organ.md) | 200 |
 | ![](../../assets/icons/items/computer.png){ .game-icon } | [Computer](../../items/materials/computer.md) | 12 |

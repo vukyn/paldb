@@ -46,7 +46,7 @@ Cần nguồn điện để hoạt động.
 
 |  | Vật liệu | SL |
 |:--:|----------|:--:|
-| ![](../../assets/icons/items/refined-ingot.png){ .game-icon } | [Refined Ingot](../../items/materials/refined-ingot.md) | 100 |
+| ![](../../assets/icons/items/refined-ingot.png){ .game-icon } | [Thỏi Tinh Luyện](../../items/materials/refined-ingot.md) | 100 |
 | ![](../../assets/icons/items/circuit-board.png){ .game-icon } | [Circuit Board](../../items/materials/circuit-board.md) | 10 |
 | ![](../../assets/icons/items/cement.png){ .game-icon } | [Xi Măng](../../items/materials/cement.md) | 30 |
 | ![](../../assets/icons/items/corrosive-solvent.png){ .game-icon } | [Corrosive Solvent](../../items/materials/corrosive-solvent.md) | 5 |

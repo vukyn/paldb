@@ -100,7 +100,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/electric-organ.png){ .game-icon } | [Electric Organ](../items/materials/electric-organ.md) | ×1 | 100% |
+| ![](../assets/icons/items/electric-organ.png){ .game-icon } | [Cơ Quan Điện](../items/materials/electric-organ.md) | ×1 | 100% |
 
 ## Nơi tìm thấy
 

@@ -35,7 +35,7 @@ Vật liệu giai đoạn cuối. Mở ở Công nghệ Cấp 35 và chế tại
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/coal.png){ .game-icon } | [Than](coal.md) | 2 |
-| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](flame-organ.md) | 1 |
+| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](flame-organ.md) | 1 |
 
 **Chế được tại**
 

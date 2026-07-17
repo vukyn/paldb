@@ -26,17 +26,17 @@ tags: [item, structure]
 
 # Lò nung cải tiến (Improved Furnace)
 
-> Lò nung tốt hơn — luyện [[refined-ingot|Refined Ingot]]. Chất lượng cao hơn lò
+> Lò nung tốt hơn — luyện [[refined-ingot|Thỏi Tinh Luyện]]. Chất lượng cao hơn lò
 > sơ khai nhưng vẫn chậm. Cần một Pal hệ lửa để nhóm lửa.
 
 Lò nung bậc giữa, nâng cấp từ [[primitive-furnace|Lò nung sơ khai]], mở khả
-năng luyện [[refined-ingot|Refined Ingot]]. Chất lượng tăng nhưng sản lượng vẫn
+năng luyện [[refined-ingot|Thỏi Tinh Luyện]]. Chất lượng tăng nhưng sản lượng vẫn
 vừa phải. Cần kỹ năng [[kindling|Kindling]]. Hao một chút tinh thần (SAN −0.15);
 phòng thủ 3.
 
 ## Luyện ra
 
-- [[refined-ingot|Refined Ingot]] — từ [[ore|Quặng Đồng]] + [[coal|Than]].
+- [[refined-ingot|Thỏi Tinh Luyện]] — từ [[ore|Quặng Đồng]] + [[coal|Than]].
 
 ## Xây dựng
 
@@ -46,5 +46,5 @@ Mở tại **Công nghệ Cấp 34**. Công sức xây: 30000 ([[handiwork|Handi
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](../../items/materials/stone.md) | 100 |
 | ![](../../assets/icons/items/cement.png){ .game-icon } | [Xi Măng](../../items/materials/cement.md) | 30 |
-| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../../items/materials/flame-organ.md) | 15 |
+| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](../../items/materials/flame-organ.md) | 15 |
 | ![](../../assets/icons/items/cryogenic-coolant.png){ .game-icon } | [Dung Dịch Làm Lạnh](../../items/materials/cryogenic-coolant.md) | 5 |

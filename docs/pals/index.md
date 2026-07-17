@@ -69,7 +69,8 @@ title: Pals
 | ![](../assets/icons/pals/robinquill-terra.png){ .pal-avatar } | [Robinquill Terra](robinquill-terra.md) | — | — |
 | ![](../assets/icons/pals/elizabee.png){ .pal-avatar } | [Elizabee](elizabee.md) | <span class="el el-grass">Grass</span> | L |
 | ![](../assets/icons/pals/beegarde.png){ .pal-avatar } | [Beegarde](beegarde.md) | <span class="el el-grass">Grass</span> | M |
-| ![](../assets/icons/pals/swee.png){ .pal-avatar } | [Swee](swee.md) | — | — |
+| ![](../assets/icons/pals/swee.png){ .pal-avatar } | [Swee](swee.md) | <span class="el el-ice">Ice</span> | XS |
+| ![](../assets/icons/pals/sweepa.png){ .pal-avatar } | [Sweepa](sweepa.md) | <span class="el el-ice">Ice</span> | L |
 | ![](../assets/icons/pals/warsect.png){ .pal-avatar } | [Warsect](warsect.md) | — | — |
 | ![](../assets/icons/pals/warsect-terra.png){ .pal-avatar } | [Warsect Terra](warsect-terra.md) | — | — |
 

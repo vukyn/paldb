@@ -15,7 +15,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Ribbuny Ribbon
+# Nơ Ribbuny (Ribbuny Ribbon)
 
 > Chiếc nơ rơi ra từ [[ribbuny|Ribbuny]]. Màu sắc và kiểu dáng dễ thương, dùng để
 > may quần áo.

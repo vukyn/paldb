@@ -44,7 +44,7 @@ Cần nguồn điện để hoạt động.
 
 |  | Vật liệu | SL |
 |:--:|----------|:--:|
-| ![](../../assets/icons/items/refined-ingot.png){ .game-icon } | [Refined Ingot](../../items/materials/refined-ingot.md) | 100 |
+| ![](../../assets/icons/items/refined-ingot.png){ .game-icon } | [Thỏi Tinh Luyện](../../items/materials/refined-ingot.md) | 100 |
 | ![](../../assets/icons/items/circuit-board.png){ .game-icon } | [Circuit Board](../../items/materials/circuit-board.md) | 10 |
 | ![](../../assets/icons/items/nail.png){ .game-icon } | [Đinh](../../items/materials/nail.md) | 30 |
 | ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](../../items/materials/paldium-fragment.md) | 50 |

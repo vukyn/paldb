@@ -9,6 +9,8 @@ sources:
 dropped_by:
   - [[lamball]]
   - [[cremis]]
+  - [[swee]]
+  - [[sweepa]]
 tags: [item, material]
 ---
 
@@ -20,6 +22,7 @@ tags: [item, material]
 
 - Guaranteed drop when you capture or defeat [[lamball|Lamball]] (×1–3).
 - Guaranteed drop when you capture or defeat [[cremis|Cremis]] (×1–2).
+- Guaranteed drop when you capture or defeat [[swee|Swee]] (×1) or [[sweepa|Sweepa]] (×3–5).
 - Produced by [[lamball|Lamball]] (Fluffy Shield) or [[cremis|Cremis]] (Fluffy Wool) on a
   [[ranch|Ranch]] (amount scales with skill level).
 

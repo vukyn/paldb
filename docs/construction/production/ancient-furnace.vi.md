@@ -39,7 +39,7 @@ băng, vì vậy đòi hỏi Pal có kỹ năng **[[kindling|Kindling]]** *và*
 
 ## Luyện ra
 
-- Mọi loại thỏi — [[ingot|Thỏi Đồng]], [[refined-ingot|Refined Ingot]], [[pal-metal-ingot|Pal Metal Ingot]], [[hexolite|Hexolite]], và hơn nữa.
+- Mọi loại thỏi — [[ingot|Thỏi Đồng]], [[refined-ingot|Thỏi Tinh Luyện]], [[pal-metal-ingot|Pal Metal Ingot]], [[hexolite|Hexolite]], và hơn nữa.
 
 ## Xây dựng
 

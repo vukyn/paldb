@@ -19,12 +19,12 @@ tags: [item, material]
 > Vật liệu có thể chế biến thành nhiều sản phẩm, chủ yếu khai thác từ mỏ dầu.
 
 Một vật liệu công nghiệp cơ bản, tinh chế ra các sản phẩm công nghệ cao hơn. Chủ
-yếu lấy được bằng cách đặt [[crude-oil-extractor|Dầu Thô Extractor]] trên mỏ
+yếu lấy được bằng cách đặt [[crude-oil-extractor|Máy khai thác Dầu Thô]] trên mỏ
 dầu, và cũng rơi từ một số Pal.
 
 ## Nguồn
 
-- Đặt [[crude-oil-extractor|Dầu Thô Extractor]] trên mỏ dầu để bơm dầu thụ động.
+- Đặt [[crude-oil-extractor|Máy khai thác Dầu Thô]] trên mỏ dầu để bơm dầu thụ động.
 - Rơi từ một số Pal khi bắt hoặc hạ gục, ví dụ [[sootseer|Sootseer]] (×1, 50%).
 
 ## Chỉ số

@@ -43,4 +43,4 @@ Mở tại **Công nghệ Cấp 10**. Công sức xây: 5000 ([[handiwork|Handiw
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/wood.png){ .game-icon } | [Gỗ](../../items/materials/wood.md) | 20 |
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](../../items/materials/stone.md) | 40 |
-| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../../items/materials/flame-organ.md) | 3 |
+| ![](../../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](../../items/materials/flame-organ.md) | 3 |

@@ -15,7 +15,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Electric Organ
+# Cơ Quan Điện (Electric Organ)
 
 > Vật liệu thu từ các Pal hệ Điện. Nó tích điện — cần cẩn thận khi dùng.
 

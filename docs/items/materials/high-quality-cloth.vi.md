@@ -23,7 +23,7 @@ tags: [item, structure-material]
 
 > Loại vải tinh xảo dệt từ nhiều Len — bắt buộc để chế giáp cao cấp.
 
-Loại vải tinh xảo dệt từ lượng lớn [[wool|Len]] cùng [[leather|Leather]]. Cần
+Loại vải tinh xảo dệt từ lượng lớn [[wool|Len]] cùng [[leather|Da]]. Cần
 thiết để chế giáp cao cấp, và dùng cho các công trình cuối game. Mở khoá ở
 Technology Lv 36, chế tại [[high-quality-workbench|Bàn chế tạo cao cấp]].
 
@@ -32,7 +32,7 @@ Technology Lv 36, chế tại [[high-quality-workbench|Bàn chế tạo cao cấ
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|
 | ![](../../assets/icons/items/wool.png){ .game-icon } | [Len](wool.md) | 10 |
-| ![](../../assets/icons/items/leather.png){ .game-icon } | [Leather](leather.md) | 1 |
+| ![](../../assets/icons/items/leather.png){ .game-icon } | [Da](leather.md) | 1 |
 
 **Chế được tại**
 

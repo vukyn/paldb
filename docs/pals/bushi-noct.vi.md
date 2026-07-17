@@ -114,7 +114,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Flame Organ](../items/materials/flame-organ.md) | ×4–8 | 100% |
+| ![](../assets/icons/items/flame-organ.png){ .game-icon } | [Cơ Quan Lửa](../items/materials/flame-organ.md) | ×4–8 | 100% |
 | ![](../assets/icons/items/ingot.png){ .game-icon } | [Thỏi Đồng](../items/materials/ingot.md) | ×2–3 | 100% |
 | ![](../assets/icons/items/medium-pal-soul.png){ .game-icon } | [Medium Pal Soul](../items/materials/medium-pal-soul.md) | ×1–2 | 40% |
 
