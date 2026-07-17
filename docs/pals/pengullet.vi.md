@@ -52,7 +52,8 @@ tags: [pal, water, ice]
 > liệt như xưa. Đến giờ nó vẫn cố bay lại bằng mọi cách có thể.
 
 Một Pal hệ [[elements|Water]]/[[elements|Ice]] thời kỳ đầu — Paldeck #17, cỡ XS,
-độ hiếm 1. Kỹ năng đồng hành biến nó thành đạn cho súng phóng tên lửa.
+độ hiếm 1. Biến thể Water/Electric của nó là [[pengullet-lux|Pengullet Lux]] (#17B).
+Kỹ năng đồng hành biến nó thành đạn cho súng phóng tên lửa.
 
 ## Thức ăn
 
@@ -93,10 +94,11 @@ năng phóng đạn. Ở cấp 80 đạt Health 3700–4540, Attack 550–685, D
 
 ## Nhân giống
 
-CombiRank 2960. Nở từ **Damp Egg**. Chưa ghi nhận cặp bố mẹ nào.
+CombiRank 2960. Nở từ **[[damp-egg|Damp Egg]]**. Chưa ghi nhận cặp bố mẹ nào.
 
-Pal con đã biết:
+Con lai đã biết:
 
+- [[pengullet|Pengullet]] + [[sparkit|Sparkit]] → [[pengullet-lux|Pengullet Lux]]
 - [[jolthog|Jolthog]] + [[pengullet|Pengullet]] → [[jolthog-cryst|Jolthog Cryst]]
 
 Xem [[breeding]].

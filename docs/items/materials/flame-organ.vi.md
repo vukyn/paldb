@@ -12,6 +12,7 @@ code: FireOrgan
 dropped_by:
   - [[fuack-ignis]]
   - [[bushi-noct]]
+  - [[petallia-ignis]]
 tags: [item, material]
 ---
 
@@ -25,7 +26,8 @@ nó nuôi lửa cho mọi bậc lò nung và chế đồ hệ lửa như [[fire-
 ## Nguồn
 
 Rơi từ các Pal hệ Lửa khi bắt hoặc hạ gục — ví dụ [[fuack-ignis|Fuack Ignis]]
-(×1–2, 50%) hoặc [[bushi-noct|Bushi Noct]] (×4–8, 100%).
+(×1–2, 50%), [[bushi-noct|Bushi Noct]] (×4–8, 100%) hoặc
+[[petallia-ignis|Petallia Ignis]] (×1–2, 100%).
 
 ## Dùng để xây
 

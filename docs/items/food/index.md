@@ -14,3 +14,6 @@ title: Food
 | ![](../../assets/icons/items/bread.png){ .item-icon } | [Bread](bread.md) | cook (Flour) |
 | ![](../../assets/icons/items/wheat.png){ .item-icon } | [Wheat](wheat.md) | grow (Wheat Seeds) |
 | ![](../../assets/icons/items/carrot.png){ .item-icon } | [Carrot](carrot.md) | [Ribbuny Botan](../../pals/ribbuny-botan.md) drop / grow |
+| ![](../../assets/icons/items/honey.png){ .item-icon } | [Honey](honey.md) | [Elizabee](../../pals/elizabee.md) drop / Ranch |
+| ![](../../assets/icons/items/onion.png){ .item-icon } | [Onion](onion.md) | grow (Onion Seeds) |
+| ![](../../assets/icons/items/potato.png){ .item-icon } | [Potato](potato.md) | grow (Potato Seeds) |

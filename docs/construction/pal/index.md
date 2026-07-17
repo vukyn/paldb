@@ -32,6 +32,8 @@ Pal beds — where Pals sleep, heal HP, and recover [Sanity](../../mechanics/san
 | ![](../../assets/icons/items/high-quality-hot-spring.png){ .item-icon } | [High Quality Hot Spring](high-quality-hot-spring.md) | stub |
 | ![](../../assets/icons/items/statue-of-power.png){ .item-icon } | [Statue of Power](statue-of-power.md) | stub — Pal Soul enhance |
 
-## Pal (Other)
+## Egg Hatching
 
-*None yet — to be added.*
+|  | Item | Source |
+|:--:|------|------|
+| ![](../../assets/icons/items/egg-incubator.png){ .item-icon } | [Egg Incubator](egg-incubator.md) | craft (Tech Lv 10) |

@@ -59,7 +59,7 @@ Mức ăn **1 / 10** — rất thấp, nuôi rẻ.
 
 **Fluffy Wool** — khi ở trong đội, nó tăng **Attack của các Pal hệ Neutral thêm
 15–30%** (không cộng dồn với một Cremis khác). Nó cũng **thỉnh thoảng cho Len**
-khi được giao vào [[ranch|Ranch]]. Mức tăng Attack theo cấp:
+khi cắm vào [[ranch|Trang trại]]. Mức tăng Attack theo cấp:
 
 | Lv | Neutral Attack + |
 |:--:|:----------------:|
@@ -69,7 +69,7 @@ khi được giao vào [[ranch|Ranch]]. Mức tăng Attack theo cấp:
 | 4 | 24% |
 | 5 | 30% |
 
-Sản lượng [[wool|Len]] ở Ranch theo cấp (mỗi lần cho đều chắc chắn):
+Sản lượng [[wool|Len]] ở Trang trại theo cấp (mỗi lần cho đều chắc chắn):
 
 | Lv | Len | Tỉ lệ |
 |:--:|------|:------:|
@@ -91,7 +91,7 @@ Sản lượng [[wool|Len]] ở Ranch theo cấp (mỗi lần cho đều chắc 
 | ![](../assets/icons/work/gathering.png){ .game-icon } | [Gathering](../mechanics/work/gathering.md) | 1 |
 | ![](../assets/icons/work/farming.png){ .game-icon } | [Farming](../mechanics/work/farming.md) | 2 |
 
-Farming Lv 2 cho phép nó tạo [[wool|Len]] ở [[ranch|Ranch]] (tốt hơn Farming 1
+Farming Lv 2 cho phép nó tạo [[wool|Len]] ở [[ranch|Trang trại]] (tốt hơn Farming 1
 của [[lamball|Lamball]]), còn buff Attack cho cả đội khiến nó thành lựa chọn hỗ
 trợ cho đội hình Neutral.
 

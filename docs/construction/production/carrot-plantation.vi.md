@@ -22,18 +22,18 @@ defense: 2
 tags: [item, structure]
 ---
 
-# Vườn Carrot (Carrot Plantation)
+# Vườn Cà Rốt (Carrot Plantation)
 
-> Vườn trồng [[carrot|Carrot]]. Thu hoạch mất thời gian nhưng giúp đa dạng thêm
+> Vườn trồng [[carrot|Cà Rốt]]. Thu hoạch mất thời gian nhưng giúp đa dạng thêm
 > các món ăn nấu được.
 
-Ô vườn ở base cho ra [[carrot|Carrot]] theo thời gian. Cần một nhóm Pal luân
+Ô vườn ở base cho ra [[carrot|Cà Rốt]] theo thời gian. Cần một nhóm Pal luân
 phiên vận hành: [[planting|Planting]] để gieo hạt, [[watering|Watering]] để tưới
 cây lớn, và [[gathering|Gathering]] để thu hoạch. Phòng thủ 2.
 
 ## Sản phẩm
 
-- [[carrot|Carrot]] — trồng từ [[carrot-seeds|Carrot Seeds]].
+- [[carrot|Cà Rốt]] — trồng từ [[carrot-seeds|Hạt giống Cà Rốt]].
 
 ## Xây dựng
 
@@ -41,7 +41,7 @@ Mở tại **Công nghệ Cấp 32**. Công sức xây: 20000 ([[handiwork|Handi
 
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|
-| ![](../../assets/icons/items/carrot-seeds.png){ .game-icon } | [Carrot Seeds](../../items/materials/carrot-seeds.md) | 3 |
+| ![](../../assets/icons/items/carrot-seeds.png){ .game-icon } | [Hạt giống Cà Rốt](../../items/materials/carrot-seeds.md) | 3 |
 | ![](../../assets/icons/items/wood.png){ .game-icon } | [Gỗ](../../items/materials/wood.md) | 30 |
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](../../items/materials/stone.md) | 20 |
 | ![](../../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../../items/materials/aquatic-pal-fluids.md) | 1 |

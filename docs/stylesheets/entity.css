@@ -65,6 +65,45 @@
   min-height: 1em;
 }
 
+/* Pagination (table-filter.js, opt-in via data-page-size). */
+.table-filter-pager {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0.6rem 0;
+}
+.table-filter-page {
+  min-width: 2rem;
+  padding: 0.3rem 0.55rem;
+  border-radius: 0.4rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font-size: 0.8rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.table-filter-page:hover:not(:disabled):not(.is-current) {
+  border-color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+}
+.table-filter-page.is-current {
+  background: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+  color: var(--md-accent-bg-color, #fff);
+  font-weight: 600;
+  cursor: default;
+}
+.table-filter-page:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.table-filter-gap {
+  padding: 0 0.15rem;
+  color: var(--md-default-fg-color--light);
+}
+
 /* Food-consumption meter (rendered by food-meter.js). */
 .food-meter {
   display: inline-flex;

@@ -23,4 +23,4 @@ Khi bắt hoặc hạ gục:
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:--:|:------:|
 | ![](../assets/icons/items/low-grade-medical-supplies.png){ .game-icon } | [Vật tư Y tế cấp thấp](../items/consumables/low-grade-medical-supplies.md) | ×1–3 | 100% |
-| ![](../assets/icons/items/carrot-seeds.png){ .game-icon } | [Carrot Seeds](../items/materials/carrot-seeds.md) | ×1 | 50% |
+| ![](../assets/icons/items/carrot-seeds.png){ .game-icon } | [Hạt giống Cà Rốt](../items/materials/carrot-seeds.md) | ×1 | 50% |

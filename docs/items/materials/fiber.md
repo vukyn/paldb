@@ -11,6 +11,9 @@ stack: 9999
 code: Fiber
 sources:
   - gathered
+dropped_by:
+  - [[hangyu]]
+  - [[hangyu-cryst]]
 tags: [item, material]
 ---
 
@@ -21,7 +24,8 @@ tags: [item, material]
 ## Obtain
 
 Gathered from trees — chopping trees ([[lumbering|Lumbering]]) yields Fiber
-alongside [[wood|Wood]].
+alongside [[wood|Wood]]. Also dropped by [[hangyu|Hangyu]] and
+[[hangyu-cryst|Hangyu Cryst]] (×5–10, 100%).
 
 ## Use
 

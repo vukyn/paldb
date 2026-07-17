@@ -12,6 +12,7 @@ code: FireOrgan
 dropped_by:
   - [[fuack-ignis]]
   - [[bushi-noct]]
+  - [[petallia-ignis]]
 tags: [item, material]
 ---
 
@@ -25,7 +26,8 @@ it fuels every furnace tier and crafts fire gear such as the [[fire-arrow|Fire A
 ## Obtain
 
 Dropped by Fire-element Pals on capture or defeat — e.g. [[fuack-ignis|Fuack Ignis]]
-(×1–2, 50%) or [[bushi-noct|Bushi Noct]] (×4–8, 100%).
+(×1–2, 50%), [[bushi-noct|Bushi Noct]] (×4–8, 100%) or
+[[petallia-ignis|Petallia Ignis]] (×1–2, 100%).
 
 ## Used to build
 

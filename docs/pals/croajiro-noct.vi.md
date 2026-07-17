@@ -114,7 +114,7 @@ Khi bắt hoặc hạ gục:
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/aquatic-pal-fluids.png){ .game-icon } | [Aquatic Pal Fluids](../items/materials/aquatic-pal-fluids.md) | ×1–2 | 100% |
 | ![](../assets/icons/items/cloth.png){ .game-icon } | [Vải](../items/materials/cloth.md) | ×1–2 | 25% |
-| ![](../assets/icons/items/venom-gland.png){ .game-icon } | [Venom Gland](../items/materials/venom-gland.md) | ×2–4 | 100% |
+| ![](../assets/icons/items/venom-gland.png){ .game-icon } | [Tuyến Nọc Độc](../items/materials/venom-gland.md) | ×2–4 | 100% |
 
 ## Nơi tìm thấy
 

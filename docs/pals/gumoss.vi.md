@@ -96,7 +96,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Berry Seeds](../items/materials/berry-seeds.md) | ×1 | 100% |
+| ![](../assets/icons/items/berry-seeds.png){ .game-icon } | [Hạt giống Berry](../items/materials/berry-seeds.md) | ×1 | 100% |
 | ![](../assets/icons/items/gumoss-leaf.png){ .game-icon } | [Gumoss Leaf](../items/materials/gumoss-leaf.md) | ×1 | 50% |
 
 ## Nơi tìm thấy

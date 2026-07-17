@@ -49,4 +49,4 @@ Cần nguồn điện để hoạt động.
 |:--:|----------|:--:|
 | ![](../../assets/icons/items/soralite-ingot.png){ .game-icon } | [Soralite Ingot](../../items/materials/soralite-ingot.md) | 50 |
 | ![](../../assets/icons/items/ai-core.png){ .game-icon } | [AI Core](../../items/materials/ai-core.md) | 5 |
-| ![](../../assets/icons/items/bio-battery.png){ .game-icon } | [Bio Battery](../../items/materials/bio-battery.md) | 20 |
+| ![](../../assets/icons/items/bio-battery.png){ .game-icon } | [Pin Sinh Học](../../items/materials/bio-battery.md) | 20 |

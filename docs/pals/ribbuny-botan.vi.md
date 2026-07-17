@@ -114,8 +114,8 @@ Khi bắt hoặc hạ gục:
 |:----:|------|:---:|:------:|
 | ![](../assets/icons/items/leather.png){ .game-icon } | [Leather](../items/materials/leather.md) | ×1 | 100% |
 | ![](../assets/icons/items/ribbuny-ribbon.png){ .game-icon } | [Ribbuny Ribbon](../items/materials/ribbuny-ribbon.md) | ×1 | 50% |
-| ![](../assets/icons/items/carrot-seeds.png){ .game-icon } | [Carrot Seeds](../items/materials/carrot-seeds.md) | ×1 | 100% |
-| ![](../assets/icons/items/carrot.png){ .game-icon } | [Carrot](../items/food/carrot.md) | ×1 | 100% |
+| ![](../assets/icons/items/carrot-seeds.png){ .game-icon } | [Hạt giống Cà Rốt](../items/materials/carrot-seeds.md) | ×1 | 100% |
+| ![](../assets/icons/items/carrot.png){ .game-icon } | [Cà Rốt](../items/food/carrot.md) | ×1 | 100% |
 
 ## Nơi tìm thấy
 

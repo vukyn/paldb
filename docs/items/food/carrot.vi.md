@@ -17,17 +17,17 @@ dropped_by:
 tags: [item, crop, ingredient]
 ---
 
-# Carrot
+# Cà Rốt (Carrot)
 
 > Củ cải rễ tươi rói, giàu dinh dưỡng. Không ăn sống được.
 
-Cây trồng phổ biến, gieo từ [[carrot-seeds|Carrot Seeds]] ở
-[[carrot-plantation|Vườn Carrot]]. Là nguyên liệu nấu ăn — đem chế biến thành món
+Cây trồng phổ biến, gieo từ [[carrot-seeds|Hạt giống Cà Rốt]] ở
+[[carrot-plantation|Vườn Cà Rốt]]. Là nguyên liệu nấu ăn — đem chế biến thành món
 chứ không ăn sống.
 
 ## Nguồn
 
-Trồng ở [[carrot-plantation|Vườn Carrot]] từ [[carrot-seeds|Carrot Seeds]]; ngoài
+Trồng ở [[carrot-plantation|Vườn Cà Rốt]] từ [[carrot-seeds|Hạt giống Cà Rốt]]; ngoài
 ra chắc chắn rơi khi bắt hoặc hạ gục [[ribbuny-botan|Ribbuny Botan]] (×1).
 
 ## Giá trị dinh dưỡng

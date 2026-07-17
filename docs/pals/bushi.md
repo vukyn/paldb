@@ -104,6 +104,7 @@ none recorded yet.
 Known children:
 
 - [[bushi|Bushi]] + [[sootseer|Sootseer]] → [[bushi-noct|Bushi Noct]]
+- [[petallia|Petallia]] + [[bushi|Bushi]] → [[petallia-ignis|Petallia Ignis]]
 
 See [[breeding]].
 

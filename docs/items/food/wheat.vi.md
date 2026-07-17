@@ -19,12 +19,12 @@ tags: [item, crop, ingredient]
 
 > Nguyên liệu nền của nhiều món ăn — cây trồng phổ biến khắp thế giới.
 
-Trồng ở nông trại từ [[wheat-seeds|Hạt Lúa Mì]]; xay tại [[mill|Cối xay]] thành
+Trồng ở nông trại từ [[wheat-seeds|Hạt giống Lúa Mì]]; xay tại [[mill|Cối xay]] thành
 [[flour|Bột Mì]]. Ăn sống được nhưng thường để nấu.
 
 ## Nguồn
 
-Trồng ở nông trại từ [[wheat-seeds|Hạt Lúa Mì]].
+Trồng ở nông trại từ [[wheat-seeds|Hạt giống Lúa Mì]].
 
 ## Dùng trong
 

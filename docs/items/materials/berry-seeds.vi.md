@@ -16,7 +16,7 @@ dropped_by:
 tags: [item, seed]
 ---
 
-# Berry Seeds
+# Hạt giống Berry (Berry Seeds)
 
 > Hạt giống trồng ra Red Berries — cần để bắt đầu làm nông.
 

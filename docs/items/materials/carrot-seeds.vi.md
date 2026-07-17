@@ -19,12 +19,12 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Carrot Seeds
+# Hạt giống Cà Rốt (Carrot Seeds)
 
-> Hạt giống tạo ra [[carrot|Carrot]]. Cần có để bắt đầu làm nông.
+> Hạt giống tạo ra [[carrot|Cà Rốt]]. Cần có để bắt đầu làm nông.
 
 Một loại hạt giống cây trồng giai đoạn đầu. Trồng ở vườn (Berry Plantation hoặc
-tương đương) để thu [[carrot|Carrot]] — nguồn thức ăn tái tạo cho Pal ở căn cứ.
+tương đương) để thu [[carrot|Cà Rốt]] — nguồn thức ăn tái tạo cho Pal ở căn cứ.
 
 ## Nguồn
 
@@ -34,7 +34,7 @@ Rơi từ nhiều Pal hệ Grass và Pal rừng khi bắt hoặc hạ gục: [[r
 
 ## Dùng trong
 
-- [[carrot-plantation|Vườn Carrot]] — gieo tại đây để thu [[carrot|Carrot]] (đồng thời ×3 để xây)
+- [[carrot-plantation|Vườn Cà Rốt]] — gieo tại đây để thu [[carrot|Cà Rốt]] (đồng thời ×3 để xây)
 
 ## Chỉ số
 

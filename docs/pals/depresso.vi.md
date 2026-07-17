@@ -61,8 +61,8 @@ Mức ăn **1 / 10** — rất thấp, nuôi cực rẻ.
 
 **Caffeine Inoculation** — khi kích hoạt, Depresso tu cạn một lon nước tăng lực,
 tự tăng **Tốc độ di chuyển và Tốc độ làm việc của chính nó thêm 100–900%** (chỉ
-bản thân). Nó cũng **thỉnh thoảng cho [[venom-gland|Venom Gland]]** khi được giao
-vào [[ranch|Ranch]]. Mức tăng Work Speed cho bản thân theo cấp:
+bản thân). Nó cũng **thỉnh thoảng cho [[venom-gland|Tuyến Nọc Độc]]** khi cắm
+vào [[ranch|Trang trại]]. Mức tăng Work Speed cho bản thân theo cấp:
 
 | Lv | Work Speed + (bản thân) |
 |:--:|:-------------------:|
@@ -72,9 +72,9 @@ vào [[ranch|Ranch]]. Mức tăng Work Speed cho bản thân theo cấp:
 | 4 | +600% |
 | 5 | +900% |
 
-Sản lượng [[venom-gland|Venom Gland]] ở Ranch theo cấp (mỗi lần đều chắc chắn):
+Sản lượng [[venom-gland|Tuyến Nọc Độc]] ở Trang trại theo cấp (mỗi lần đều chắc chắn):
 
-| Lv | Venom Gland | Tỉ lệ |
+| Lv | Tuyến Nọc Độc | Tỉ lệ |
 |:--:|-------------|:------:|
 | 1 | ×1 | 100% |
 | 2 | ×1–2 | 100% |
@@ -115,7 +115,7 @@ Khi bắt hoặc hạ gục:
 
 |  | Vật phẩm | SL | Tỉ lệ |
 |:----:|------|:---:|:------:|
-| ![](../assets/icons/items/venom-gland.png){ .game-icon } | [Venom Gland](../items/materials/venom-gland.md) | ×2–3 | 100% |
+| ![](../assets/icons/items/venom-gland.png){ .game-icon } | [Tuyến Nọc Độc](../items/materials/venom-gland.md) | ×2–3 | 100% |
 
 ## Nơi tìm thấy
 

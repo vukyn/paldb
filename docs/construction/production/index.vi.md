@@ -69,7 +69,7 @@ Các trạm sản xuất, chia theo chức năng.
 
 |  | Vật phẩm | Nguồn |
 |:--:|------|------|
-| ![](../../assets/icons/items/carrot-plantation.png){ .item-icon } | [Vườn Carrot](carrot-plantation.md) | chế (Tech Lv 32) |
+| ![](../../assets/icons/items/carrot-plantation.png){ .item-icon } | [Vườn Cà Rốt](carrot-plantation.md) | chế (Tech Lv 32) |
 
 ## Hố câu cá
 

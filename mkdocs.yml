@@ -87,7 +87,8 @@ plugins:
             Spheres: Sphere
             Ammo: Đạn dược
             Consumables: Vật phẩm tiêu hao
-            Construction: Xây dựng
+            Weapons: Vũ khí
+            Construction: Công trình
             Production: Sản xuất
             Pal: Pal
             Defenses: Phòng thủ
@@ -134,6 +135,7 @@ nav:
     - Spheres: items/spheres/index.md
     - Ammo: items/ammo/index.md
     - Consumables: items/consumables/index.md
+    - Weapons: items/weapons/index.md
   - Construction:
     - Production: construction/production/index.md
     - Pal: construction/pal/index.md

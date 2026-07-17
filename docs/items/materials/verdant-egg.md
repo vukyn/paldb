@@ -18,8 +18,8 @@ tags: [item, egg]
 
 The Grass-themed common egg. Put it in an [[egg-incubator|Egg Incubator]] to
 incubate and hatch the Pal inside. Found in the wild or laid via breeding —
-Grass-leaning Pals such as [[gumoss|Gumoss]], [[herbil|Herbil]] and
-[[lifmunk|Lifmunk]] hatch from this egg type.
+Grass-leaning Pals such as [[gumoss|Gumoss]], [[herbil|Herbil]],
+[[lifmunk|Lifmunk]] and [[beegarde|Beegarde]] hatch from this egg type.
 
 ## Obtain
 

@@ -17,7 +17,7 @@ dropped_by:
 tags: [item, material]
 ---
 
-# Bone
+# Xương (Bone)
 
 > Xương thu từ Pal — nguồn canxi cao cấp dồi dào.
 
@@ -27,7 +27,7 @@ công thức như [[cement|Xi Măng]].
 ## Nguồn
 
 Rơi từ Pal khi bắt hoặc hạ gục — ví dụ [[vixy|Vixy]] (×1, 100%), [[bushi|Bushi]]
-[[sootseer|Sootseer]] hoặc [[pupperai|Pupperai]] (×1–2, 100%). Cũng có thể đào được ở [[ranch|Ranch]]
+[[sootseer|Sootseer]] hoặc [[pupperai|Pupperai]] (×1–2, 100%). Cũng có thể đào được ở [[ranch|Trang trại]]
 bởi [[vixy|Vixy]] (**Dig Here!**) hoặc [[sootseer|Sootseer]] (**Grave Robber**).
 
 ## Dùng trong
