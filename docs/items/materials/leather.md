@@ -15,6 +15,7 @@ dropped_by:
   - [[vixy]]
   - [[herbil]]
   - [[ribbuny]]
+  - [[ribbuny-botan]]
 tags: [item, material]
 ---
 
@@ -28,7 +29,7 @@ material, feeding into armor and other protective crafts.
 ## Obtain
 
 Dropped by certain Pals on capture or defeat, including [[fuack|Fuack]],
-[[fuack-ignis|Fuack Ignis]], [[vixy|Vixy]], [[herbil|Herbil]], and [[ribbuny|Ribbuny]] (×1, 100%).
+[[fuack-ignis|Fuack Ignis]], [[vixy|Vixy]], [[herbil|Herbil]], [[ribbuny|Ribbuny]], and [[ribbuny-botan|Ribbuny Botan]] (×1, 100%).
 
 ## Used in
 

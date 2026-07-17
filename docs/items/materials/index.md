@@ -15,6 +15,7 @@ title: Materials
 | ![](../../assets/icons/items/bio-battery.png){ .item-icon } | [Bio Battery](bio-battery.md) | craft (Assembly Line II) |
 | ![](../../assets/icons/items/bone.png){ .item-icon } | [Bone](bone.md) | Pal drop |
 | ![](../../assets/icons/items/carbon-fiber.png){ .item-icon } | [Carbon Fiber](carbon-fiber.md) | stub |
+| ![](../../assets/icons/items/carrot-seeds.png){ .item-icon } | [Carrot Seeds](carrot-seeds.md) | [Ribbuny Botan](../../pals/ribbuny-botan.md) drop |
 | ![](../../assets/icons/items/cement.png){ .item-icon } | [Cement](cement.md) | craft (HQ Workbench) |
 | ![](../../assets/icons/items/charcoal.png){ .item-icon } | [Charcoal](charcoal.md) | craft (Wood) |
 | ![](../../assets/icons/items/circuit-board.png){ .item-icon } | [Circuit Board](circuit-board.md) | craft (Quartz + Polymer) |

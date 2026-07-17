@@ -58,7 +58,8 @@ tags: [pal, neutral]
 > expression turns demonic.
 
 A [[elements|Neutral]] Pal — Paldeck #44, size XS, rarity 1. A support Pal that
-buffs Neutral teammates and speeds up base Handiwork.
+buffs Neutral teammates and speeds up base Handiwork. Its Grass variant is
+[[ribbuny-botan|Ribbuny Botan]] (#44B).
 
 ## Food
 

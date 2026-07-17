@@ -5,6 +5,7 @@ slug: ribbuny-ribbon
 category: material
 dropped_by:
   - [[ribbuny]]
+  - [[ribbuny-botan]]
 tags: [item, material]
 ---
 
@@ -14,4 +15,5 @@ tags: [item, material]
 
 ## Obtain
 
-Dropped by [[ribbuny|Ribbuny]] on capture or defeat (×1, 100%).
+Dropped by [[ribbuny|Ribbuny]] (×1, 100%) and [[ribbuny-botan|Ribbuny Botan]]
+(×1, 50%) on capture or defeat.

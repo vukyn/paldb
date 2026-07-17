@@ -15,6 +15,7 @@ dropped_by:
   - [[vixy]]
   - [[herbil]]
   - [[ribbuny]]
+  - [[ribbuny-botan]]
 tags: [item, material]
 ---
 
@@ -28,7 +29,7 @@ dùng để chế giáp và các trang bị bảo vệ khác.
 ## Nguồn
 
 Rơi từ một số Pal khi bắt hoặc hạ gục, ví dụ [[fuack|Fuack]],
-[[fuack-ignis|Fuack Ignis]], [[vixy|Vixy]], [[herbil|Herbil]] và [[ribbuny|Ribbuny]] (×1, 100%).
+[[fuack-ignis|Fuack Ignis]], [[vixy|Vixy]], [[herbil|Herbil]], [[ribbuny|Ribbuny]] và [[ribbuny-botan|Ribbuny Botan]] (×1, 100%).
 
 ## Dùng trong
 
