@@ -87,7 +87,7 @@ Hệ [[elements|Ice]] — yếu trước Fire. Chỉ số đều (Attack/Defense
 
 ## Nhân giống
 
-CombiRank 2150. Nở từ **[[large-frozen-egg|Large Frozen Egg]]**. Chưa ghi nhận cặp
+CombiRank 2150. Nở từ **[[large-frozen-egg|Trứng Băng Lớn]]**. Chưa ghi nhận cặp
 bố mẹ nào. Xem [[breeding]].
 
 ## Vật phẩm rơi
