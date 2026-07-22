@@ -23,11 +23,11 @@ tags: [item, structure]
 
 # Giường tốt (Fine Bed)
 
-> Giường người chơi nâng cấp — ngủ êm hơn Shoddy Bed.
+> Giường cho người chơi, bản nâng cấp — ngủ êm hơn Giường tạm.
 
-Một chiếc giường êm cho người. Dùng khi bị thương hoặc để ngủ đêm. Bạn sẽ không
+Một chiếc giường êm cho người. Dùng khi bị thương hoặc để nghỉ ngơi qua đêm. Bạn sẽ không
 ngủ ngon nếu không có mái che trên đầu. Bản nâng cấp từ
-[Shoddy Bed](shoddy-bed.md).
+[Giường tạm](shoddy-bed.md).
 
 ## Công dụng
 

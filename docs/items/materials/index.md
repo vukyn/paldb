@@ -28,6 +28,12 @@ title: Materials
 | ![](../../assets/icons/items/crude-oil.png){ .item-icon } | [Crude Oil](crude-oil.md) | Crude Oil Extractor / Pal drop |
 | ![](../../assets/icons/items/cryogenic-coolant.png){ .item-icon } | [Cryogenic Coolant](cryogenic-coolant.md) | craft (Assembly Line) |
 | ![](../../assets/icons/items/damp-egg.png){ .item-icon } | [Damp Egg](damp-egg.md) | nest / breeding (Water) |
+| ![](../../assets/icons/items/large-damp-egg.png){ .item-icon } | [Large Damp Egg](large-damp-egg.md) | nest / breeding (Water, Rare) |
+| ![](../../assets/icons/items/large-electric-egg.png){ .item-icon } | [Large Electric Egg](large-electric-egg.md) | nest / breeding (Electric, Rare) |
+| ![](../../assets/icons/items/large-dark-egg.png){ .item-icon } | [Large Dark Egg](large-dark-egg.md) | nest / breeding (Dark, Rare) |
+| ![](../../assets/icons/items/large-scorching-egg.png){ .item-icon } | [Large Scorching Egg](large-scorching-egg.md) | nest / breeding (Fire, Rare) |
+| ![](../../assets/icons/items/huge-common-egg.png){ .item-icon } | [Huge Common Egg](huge-common-egg.md) | nest / breeding (Neutral, Legendary) |
+| ![](../../assets/icons/items/huge-frozen-egg.png){ .item-icon } | [Huge Frozen Egg](huge-frozen-egg.md) | nest / breeding (Ice, Legendary) |
 | ![](../../assets/icons/items/dark-egg.png){ .item-icon } | [Dark Egg](dark-egg.md) | nest / breeding (Dark) |
 | ![](../../assets/icons/items/electric-organ.png){ .item-icon } | [Electric Organ](electric-organ.md) | Electric Pal drop |
 | ![](../../assets/icons/items/fiber.png){ .item-icon } | [Fiber](fiber.md) | gather (trees) |
@@ -43,10 +49,14 @@ title: Materials
 | ![](../../assets/icons/items/high-quality-pal-oil.png){ .item-icon } | [High Quality Pal Oil](high-quality-pal-oil.md) | Pal drop |
 | ![](../../assets/icons/items/huge-verdant-egg.png){ .item-icon } | [Huge Verdant Egg](huge-verdant-egg.md) | nest / breeding (Grass, large) |
 | ![](../../assets/icons/items/ice-organ.png){ .item-icon } | [Ice Organ](ice-organ.md) | Ice Pal drop |
+| ![](../../assets/icons/items/penking-plume.png){ .item-icon } | [Penking Plume](penking-plume.md) | [Penking](../../pals/penking.md) drop |
 | ![](../../assets/icons/items/ingot.png){ .item-icon } | [Ingot](ingot.md) | refine from Ore |
 | ![](../../assets/icons/items/large-frozen-egg.png){ .item-icon } | [Large Frozen Egg](large-frozen-egg.md) | nest / breeding (Ice, large) |
 | ![](../../assets/icons/items/large-pal-soul.png){ .item-icon } | [Large Pal Soul](large-pal-soul.md) | Crusher (Medium ×2) / Pal drop |
 | ![](../../assets/icons/items/leather.png){ .item-icon } | [Leather](leather.md) | Pal drop |
+| ![](../../assets/icons/items/katress-hair.png){ .item-icon } | [Katress Hair](katress-hair.md) | [Katress](../../pals/katress.md) drop |
+| ![](../../assets/icons/items/neutral-radiant-gem.png){ .item-icon } | [Neutral Radiant Gem](neutral-radiant-gem.md) | [Kingpaca](../../pals/kingpaca.md) alpha drop |
+| ![](../../assets/icons/items/ice-radiant-gem.png){ .item-icon } | [Ice Radiant Gem](ice-radiant-gem.md) | [Reindrix](../../pals/reindrix.md) alpha drop |
 | ![](../../assets/icons/items/lettuce-seeds.png){ .item-icon } | [Lettuce Seeds](lettuce-seeds.md) | Ranch (Vaelet) |
 | ![](../../assets/icons/items/medium-pal-soul.png){ .item-icon } | [Medium Pal Soul](medium-pal-soul.md) | Crusher (Small ×2) / Pal drop |
 | ![](../../assets/icons/items/meteorite-fragment.png){ .item-icon } | [Meteorite Fragment](meteorite-fragment.md) | gather → Crusher → Paldium |

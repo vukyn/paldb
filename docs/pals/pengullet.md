@@ -54,7 +54,8 @@ tags: [pal, water, ice]
 
 An early [[elements|Water]]/[[elements|Ice]] Pal — Paldeck #17, size XS, rarity 1.
 Its Water/Electric variant is [[pengullet-lux|Pengullet Lux]] (#17B).
-Its partner skill turns it into rocket-launcher ammunition.
+Its partner skill turns it into rocket-launcher ammunition. Despite the penguin
+looks and similar name, [[penking|Penking]] (#18) is a **separate, unrelated** Pal.
 
 ## Food
 

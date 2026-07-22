@@ -12,6 +12,7 @@ code: Venom
 dropped_by:
   - [[croajiro-noct]]
   - [[depresso]]
+  - [[daedream]]
 tags: [item, material]
 ---
 
@@ -25,7 +26,8 @@ A crafting material harvested from poison-type Pals. Its main use is making
 ## Obtain
 
 Dropped by poison-type / Dark Pals on capture or defeat, e.g.
-[[croajiro-noct|Croajiro Noct]] (×2–4) or [[depresso|Depresso]] (×2–3), both 100%.
+[[croajiro-noct|Croajiro Noct]] (×2–4), [[depresso|Depresso]] (×2–3) or
+[[daedream|Daedream]] (×1), all 100%.
 Also produced by [[depresso|Depresso]] on a [[ranch|Ranch]] via Caffeine Inoculation.
 
 ## Used in

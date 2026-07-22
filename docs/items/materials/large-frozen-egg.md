@@ -18,7 +18,8 @@ tags: [item, egg]
 > hatch it.
 
 The large Ice egg, a rarer counterpart of the common [[frozen-egg|Frozen Egg]]. It
-hatches big Ice Pals such as [[sweepa|Sweepa]]. Put it in an
+hatches Ice Pals such as [[sweepa|Sweepa]], [[rayhound-cryst|Rayhound Cryst]] and
+[[foxcicle|Foxcicle]]. Put it in an
 [[egg-incubator|Egg Incubator]] to hatch it.
 
 ## Obtain

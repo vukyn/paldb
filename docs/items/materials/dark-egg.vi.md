@@ -14,11 +14,11 @@ tags: [item, egg]
 
 # Trứng Bóng Tối (Dark Egg)
 
-> Một quả Trứng Bóng Tối — bên trong có gì đó hỗn loạn đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
+> Một quả Trứng Bóng Tối — bên trong có gì đó hỗn loạn đang cựa quậy. Đặt vào Lồng ấp trứng để ấp nở.
 
-Loại trứng thường mang chủ đề hệ Dark. Đặt vào [[egg-incubator|Egg Incubator]] để
-ấp và nở ra Pal bên trong. Các Pal thiên hệ Dark như [[depresso|Depresso]] nở ra
-từ loại trứng này.
+Loại trứng thường mang chủ đề hệ Dark. Đặt vào [[egg-incubator|Lồng ấp trứng]] để
+ấp và nở ra Pal bên trong. Các Pal thiên hệ Dark như [[depresso|Depresso]], [[hoocrates|Hoocrates]] và
+[[daedream|Daedream]] nở ra từ loại trứng này.
 
 ## Nguồn
 

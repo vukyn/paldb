@@ -43,7 +43,7 @@ Mở tại **Công nghệ Cấp 10**. Công sức xây: 5000 ([[handiwork|Handiw
 
 |  | Nguyên liệu | SL |
 |:--:|-------------|:--:|
-| ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](../../items/materials/paldium-fragment.md) | 10 |
-| ![](../../assets/icons/items/cloth.png){ .game-icon } | [Cloth](../../items/materials/cloth.md) | 5 |
+| ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Mảnh Paldium](../../items/materials/paldium-fragment.md) | 10 |
+| ![](../../assets/icons/items/cloth.png){ .game-icon } | [Vải](../../items/materials/cloth.md) | 5 |
 | ![](../../assets/icons/items/stone.png){ .game-icon } | [Đá](../../items/materials/stone.md) | 30 |
-| ![](../../assets/icons/items/ancient-civilization-parts.png){ .game-icon } | [Ancient Civilization Parts](../../items/materials/ancient-civilization-parts.md) | 2 |
+| ![](../../assets/icons/items/ancient-civilization-parts.png){ .game-icon } | [Linh kiện Văn minh Cổ đại](../../items/materials/ancient-civilization-parts.md) | 2 |

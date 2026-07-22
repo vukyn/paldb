@@ -54,7 +54,8 @@ tags: [pal, water, electric]
 
 Biến thể [[elements|Water]]/[[elements|Electric]] của [[pengullet|Pengullet]] —
 Paldeck #17B, cỡ XS, độ hiếm 2. Giống Pengullet, nó vừa làm "đạn sống" cho súng
-phóng rocket, vừa nhờ hệ Electric mà thành nguồn điện cho căn cứ.
+phóng rocket, vừa nhờ hệ Electric mà thành nguồn điện cho căn cứ. Theo cốt truyện,
+nó trở thành kẻ trung thành đi theo [[penking-lux|Penking Lux]].
 
 ## Thức ăn
 

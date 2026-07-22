@@ -28,8 +28,8 @@ tags: [item, structure]
 > Giường Pal êm ái giai đoạn giữa game mà Pal rất thích nằm ngủ.
 
 Một chiếc giường êm để Pal nghỉ ngơi thoải mái. Pal nằm nghỉ khi bị thương hoặc
-để ngủ đêm. Pal cực thích ngủ trên giường êm như thế này. Nâng cấp từ
-[Straw Pal Bed](straw-pal-bed.md).
+để nghỉ ngơi qua đêm. Pal cực thích ngủ trên giường êm như thế này. Nâng cấp từ
+[Giường rơm cho Pal](straw-pal-bed.md).
 
 ## Nghỉ ngơi
 

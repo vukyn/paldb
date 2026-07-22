@@ -13,6 +13,8 @@ crafted_from:
   - item: [[medium-pal-soul]]
     qty: 1
 crafted_at: [[crusher]]
+dropped_by:
+  - [[daedream]]
 tags: [item, material]
 ---
 
@@ -28,7 +30,8 @@ combine **2 Small → 1 [[medium-pal-soul|Medium Pal Soul]]**, or break **1 Medi
 ## Obtain / convert
 
 Crafted at a [[crusher|Crusher]] or [[refrigerated-crusher|Refrigerated Crusher]]
-by breaking down a higher-tier soul; also dropped by Pals.
+by breaking down a higher-tier soul; also dropped by Pals such as
+[[daedream|Daedream]] (×1, 1%).
 
 ## Used to craft
 

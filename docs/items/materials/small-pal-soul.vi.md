@@ -13,6 +13,8 @@ crafted_from:
   - item: [[medium-pal-soul]]
     qty: 1
 crafted_at: [[crusher]]
+dropped_by:
+  - [[daedream]]
 tags: [item, material]
 ---
 
@@ -27,7 +29,7 @@ Bậc thấp nhất trong các loại Pal Soul. Dâng tại [[statue-of-power|St
 ## Nguồn / chuyển đổi
 
 Chế ở [[crusher|Crusher]] hoặc [[refrigerated-crusher|Refrigerated Crusher]] bằng
-cách tách một soul bậc cao hơn; cũng rơi từ Pal.
+cách tách một soul bậc cao hơn; cũng rơi từ Pal như [[daedream|Daedream]] (×1, 1%).
 
 ## Dùng để chế
 

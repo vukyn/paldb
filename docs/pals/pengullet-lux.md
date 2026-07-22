@@ -55,7 +55,8 @@ tags: [pal, water, electric]
 
 The [[elements|Water]]/[[elements|Electric]] variant of [[pengullet|Pengullet]] —
 Paldeck #17B, size XS, rarity 2. Like Pengullet it doubles as living rocket-launcher
-ammo, but its Electric typing also makes it a base power source.
+ammo, but its Electric typing also makes it a base power source. Per its lore it
+became a loyal follower of [[penking-lux|Penking Lux]].
 
 ## Food
 

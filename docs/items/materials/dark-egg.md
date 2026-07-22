@@ -17,8 +17,8 @@ tags: [item, egg]
 > A Dark Egg — something chaotic stirs within. Place it in an Egg Incubator to hatch it.
 
 The Dark-themed common egg. Put it in an [[egg-incubator|Egg Incubator]] to
-incubate and hatch the Pal inside. Dark-leaning Pals such as [[depresso|Depresso]]
-hatch from this egg type.
+incubate and hatch the Pal inside. Dark-leaning Pals such as [[depresso|Depresso]],
+[[hoocrates|Hoocrates]] and [[daedream|Daedream]] hatch from this egg type.
 
 ## Obtain
 

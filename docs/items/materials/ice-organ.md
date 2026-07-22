@@ -13,6 +13,11 @@ dropped_by:
   - [[jolthog-cryst]]
   - [[pengullet]]
   - [[hangyu-cryst]]
+  - [[penking]]
+  - [[rayhound-cryst]]
+  - [[foxcicle]]
+  - [[kingpaca-cryst]]
+  - [[reindrix]]
 tags: [item, material]
 ---
 
@@ -27,7 +32,10 @@ Dropped by Ice-element Pals on capture or defeat. Used in cooling recipes such a
 ## Obtain
 
 Dropped by Ice-element Pals on capture or defeat — e.g. [[jolthog-cryst|Jolthog Cryst]]
-(×1), [[pengullet|Pengullet]] (×1–2) or [[hangyu-cryst|Hangyu Cryst]] (×1), all 100%.
+(×1), [[pengullet|Pengullet]] (×1–2), [[hangyu-cryst|Hangyu Cryst]] (×1),
+[[penking|Penking]] (×1–3), [[rayhound-cryst|Rayhound Cryst]] (×1–2),
+[[foxcicle|Foxcicle]] (×2–3), [[kingpaca-cryst|Kingpaca Cryst]] (×3–6) or
+[[reindrix|Reindrix]] (×2–3), all 100%.
 
 ## Used in
 

@@ -21,11 +21,11 @@ tags: [item, structure]
 
 # Giường rơm cho Pal (Straw Pal Bed)
 
-> Giường Pal rẻ nhất — nơi Pal đã bắt nghỉ ngơi và hồi phục vào ban đêm.
+> Giường Pal rẻ nhất — nơi Pal bạn thu phục nghỉ ngơi và hồi phục vào ban đêm.
 
-Một chiếc giường rơm cho Pal. Pal nằm nghỉ khi bị thương hoặc để ngủ đêm. Nó
+Một chiếc giường rơm cho Pal. Pal nằm nghỉ khi bị thương hoặc để nghỉ ngơi qua đêm. Nó
 không êm, nhưng vẫn hơn không có gì — lựa chọn khởi đầu trước khi có
-[Fluffy Pal Bed](fluffy-pal-bed.md).
+[Giường êm cho Pal](fluffy-pal-bed.md).
 
 ## Nghỉ ngơi
 

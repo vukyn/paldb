@@ -45,7 +45,7 @@ Cần nguồn điện để hoạt động.
 
 |  | Vật liệu | SL |
 |:--:|----------|:--:|
-| ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](../../items/materials/paldium-fragment.md) | 30 |
+| ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Mảnh Paldium](../../items/materials/paldium-fragment.md) | 30 |
 | ![](../../assets/icons/items/wooden-board.png){ .game-icon } | [Ván Gỗ](../../items/materials/wooden-board.md) | 5 |
 | ![](../../assets/icons/items/ingot.png){ .game-icon } | [Thỏi Đồng](../../items/materials/ingot.md) | 100 |
 | ![](../../assets/icons/items/nail.png){ .game-icon } | [Đinh](../../items/materials/nail.md) | 20 |

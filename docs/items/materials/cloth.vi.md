@@ -48,8 +48,8 @@ trình. Mở khoá ở Technology Lv 4, chế được từ
 
 ## Dùng để xây
 
-- [[fluffy-pal-bed|Fluffy Pal Bed]] (×5)
-- [[fine-bed|Fine Bed]] (×10)
+- [[fluffy-pal-bed|Giường êm cho Pal]] (×5)
+- [[fine-bed|Giường tốt]] (×10)
 
 ## Chỉ số
 

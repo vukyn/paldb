@@ -14,9 +14,9 @@ tags: [item, egg]
 
 # Trứng Xanh (Verdant Egg)
 
-> Một quả Trứng Xanh — bên trong có gì đó đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
+> Một quả Trứng Xanh — bên trong có gì đó đang cựa quậy. Đặt vào Lồng ấp trứng để ấp nở.
 
-Loại trứng thường mang chủ đề hệ Grass. Đặt vào [[egg-incubator|Egg Incubator]]
+Loại trứng thường mang chủ đề hệ Grass. Đặt vào [[egg-incubator|Lồng ấp trứng]]
 để ấp và nở ra Pal bên trong. Nhặt được ngoài thế giới hoặc do nhân giống — các
 Pal thiên hệ Grass như [[gumoss|Gumoss]], [[herbil|Herbil]], [[lifmunk|Lifmunk]]
 và [[beegarde|Beegarde]] nở ra từ loại trứng này.

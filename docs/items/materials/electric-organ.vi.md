@@ -12,6 +12,8 @@ code: ElectricOrgan
 dropped_by:
   - [[jolthog]]
   - [[pengullet-lux]]
+  - [[penking-lux]]
+  - [[rayhound]]
 tags: [item, material]
 ---
 
@@ -25,7 +27,8 @@ dùng để chế [[bio-battery|Pin Sinh Học]].
 ## Nguồn
 
 Rơi từ các Pal hệ Điện khi bắt hoặc hạ gục — ví dụ [[jolthog|Jolthog]] (×1, 100%)
-hoặc [[pengullet-lux|Pengullet Lux]] (×1–2, 100%).
+[[pengullet-lux|Pengullet Lux]] (×1–2, 100%), [[penking-lux|Penking Lux]] (×1–3, 100%)
+hoặc [[rayhound|Rayhound]] (×1–2, 100%).
 
 ## Dùng trong
 

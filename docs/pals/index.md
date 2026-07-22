@@ -30,6 +30,14 @@ title: Pals
 | ![](../assets/icons/pals/depresso.png){ .pal-avatar } | [Depresso](depresso.md) | <span class="el el-dark">Dark</span> | XS |
 | ![](../assets/icons/pals/pengullet.png){ .pal-avatar } | [Pengullet](pengullet.md) | <span class="el el-water">Water</span> <span class="el el-ice">Ice</span> | XS |
 | ![](../assets/icons/pals/pengullet-lux.png){ .pal-avatar } | [Pengullet Lux](pengullet-lux.md) | <span class="el el-water">Water</span> <span class="el el-electric">Electric</span> | XS |
+| ![](../assets/icons/pals/penking.png){ .pal-avatar } | [Penking](penking.md) | <span class="el el-water">Water</span> <span class="el el-ice">Ice</span> | M |
+| ![](../assets/icons/pals/penking-lux.png){ .pal-avatar } | [Penking Lux](penking-lux.md) | <span class="el el-water">Water</span> <span class="el el-electric">Electric</span> | M |
+| ![](../assets/icons/pals/hoocrates.png){ .pal-avatar } | [Hoocrates](hoocrates.md) | <span class="el el-dark">Dark</span> | XS |
+| ![](../assets/icons/pals/melpaca.png){ .pal-avatar } | [Melpaca](melpaca.md) | <span class="el el-neutral">Neutral</span> | M |
+| ![](../assets/icons/pals/kingpaca.png){ .pal-avatar } | [Kingpaca](kingpaca.md) | <span class="el el-neutral">Neutral</span> | XL |
+| ![](../assets/icons/pals/kingpaca-cryst.png){ .pal-avatar } | [Kingpaca Cryst](kingpaca-cryst.md) | <span class="el el-ice">Ice</span> | XL |
+| ![](../assets/icons/pals/daedream.png){ .pal-avatar } | [Daedream](daedream.md) | <span class="el el-dark">Dark</span> | XS |
+| ![](../assets/icons/pals/reindrix.png){ .pal-avatar } | [Reindrix](reindrix.md) | <span class="el el-ice">Ice</span> | M |
 | ![](../assets/icons/pals/ribbuny.png){ .pal-avatar } | [Ribbuny](ribbuny.md) | <span class="el el-neutral">Neutral</span> | XS |
 | ![](../assets/icons/pals/ribbuny-botan.png){ .pal-avatar } | [Ribbuny Botan](ribbuny-botan.md) | <span class="el el-grass">Grass</span> | XS |
 | ![](../assets/icons/pals/bushi.png){ .pal-avatar } | [Bushi](bushi.md) | <span class="el el-fire">Fire</span> | M |
@@ -73,5 +81,12 @@ title: Pals
 | ![](../assets/icons/pals/sweepa.png){ .pal-avatar } | [Sweepa](sweepa.md) | <span class="el el-ice">Ice</span> | L |
 | ![](../assets/icons/pals/warsect.png){ .pal-avatar } | [Warsect](warsect.md) | — | — |
 | ![](../assets/icons/pals/warsect-terra.png){ .pal-avatar } | [Warsect Terra](warsect-terra.md) | — | — |
+| ![](../assets/icons/pals/rayhound.png){ .pal-avatar } | [Rayhound](rayhound.md) | <span class="el el-electric">Electric</span> | M |
+| ![](../assets/icons/pals/rayhound-cryst.png){ .pal-avatar } | [Rayhound Cryst](rayhound-cryst.md) | <span class="el el-ice">Ice</span> | M |
+| ![](../assets/icons/pals/wixen.png){ .pal-avatar } | [Wixen](wixen.md) | <span class="el el-fire">Fire</span> | M |
+| ![](../assets/icons/pals/wixen-noct.png){ .pal-avatar } | [Wixen Noct](wixen-noct.md) | <span class="el el-fire">Fire</span> <span class="el el-dark">Dark</span> | M |
+| ![](../assets/icons/pals/katress.png){ .pal-avatar } | [Katress](katress.md) | <span class="el el-dark">Dark</span> | M |
+| ![](../assets/icons/pals/katress-ignis.png){ .pal-avatar } | [Katress Ignis](katress-ignis.md) | <span class="el el-dark">Dark</span> <span class="el el-fire">Fire</span> | M |
+| ![](../assets/icons/pals/foxcicle.png){ .pal-avatar } | [Foxcicle](foxcicle.md) | <span class="el el-ice">Ice</span> | S |
 
 </div>

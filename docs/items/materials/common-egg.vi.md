@@ -14,12 +14,12 @@ tags: [item, egg]
 
 # Trứng Thường (Common Egg)
 
-> Một quả Trứng Thường — bên trong có gì đó hiền hoà đang cựa quậy. Đặt vào Egg Incubator để ấp nở.
+> Một quả Trứng Thường — bên trong có gì đó hiền hoà đang cựa quậy. Đặt vào Lồng ấp trứng để ấp nở.
 
-Loại trứng thường mang chủ đề hệ Neutral. Đặt vào [[egg-incubator|Egg Incubator]]
+Loại trứng thường mang chủ đề hệ Neutral. Đặt vào [[egg-incubator|Lồng ấp trứng]]
 để ấp và nở ra Pal bên trong. Các Pal hệ Neutral như [[lamball|Lamball]],
-[[cattiva|Cattiva]], [[chikipi|Chikipi]], [[vixy|Vixy]] và [[ribbuny|Ribbuny]] nở
-ra từ loại trứng này.
+[[cattiva|Cattiva]], [[chikipi|Chikipi]], [[vixy|Vixy]], [[ribbuny|Ribbuny]] và
+[[melpaca|Melpaca]] nở ra từ loại trứng này.
 
 ## Nguồn
 

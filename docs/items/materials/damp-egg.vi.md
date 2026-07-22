@@ -14,9 +14,9 @@ tags: [item, egg]
 
 # Trứng Ẩm (Damp Egg)
 
-> Một quả Trứng Ẩm — bên trong có thứ gì đó đang bơi. Đặt vào Egg Incubator để ấp.
+> Một quả Trứng Ẩm — bên trong có thứ gì đó đang bơi. Đặt vào Lồng ấp trứng để ấp.
 
-Quả trứng thường mang chủ đề hệ Water. Đặt vào [[egg-incubator|Egg Incubator]] để
+Quả trứng thường mang chủ đề hệ Water. Đặt vào [[egg-incubator|Lồng ấp trứng]] để
 ấp và nở ra Pal bên trong. Nhặt được gần vùng nước hoặc do nhân giống — các Pal
 hệ Water như [[pengullet|Pengullet]] và [[pengullet-lux|Pengullet Lux]] nở ra từ
 loại trứng này.

@@ -11,6 +11,9 @@ dropped_by:
   - [[cremis]]
   - [[swee]]
   - [[sweepa]]
+  - [[melpaca]]
+  - [[kingpaca]]
+  - [[kingpaca-cryst]]
 tags: [item, material]
 ---
 
@@ -20,7 +23,7 @@ tags: [item, material]
 
 ## Cách lấy
 
-- Chắc chắn rơi khi bắt hoặc hạ [[lamball|Lamball]] (×1–3), [[cremis|Cremis]] (×1–2), [[swee|Swee]] (×1) hoặc [[sweepa|Sweepa]] (×3–5).
+- Chắc chắn rơi khi bắt hoặc hạ [[lamball|Lamball]] (×1–3), [[cremis|Cremis]] (×1–2), [[swee|Swee]] (×1), [[sweepa|Sweepa]] (×3–5), [[melpaca|Melpaca]] (×2–5), [[kingpaca|Kingpaca]] hoặc [[kingpaca-cryst|Kingpaca Cryst]] (×5).
 - Thả [[lamball|Lamball]] (Fluffy Shield) hoặc [[cremis|Cremis]] (Fluffy Wool) vào
   [[ranch|Trang trại]], chúng sẽ đều đặn cho Len
   (cấp càng cao càng nhiều).
