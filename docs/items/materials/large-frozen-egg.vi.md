@@ -14,11 +14,12 @@ tags: [item, egg]
 
 # Trứng Băng Lớn (Large Frozen Egg)
 
-> Một quả Trứng Băng Lớn — bên trong có nhịp đập lạnh giá. Đặt vào Egg Incubator
+> Một quả Trứng Băng Lớn — bên trong có nhịp đập lạnh giá. Đặt vào Lồng ấp trứng
 > để ấp.
 
 Quả trứng Ice cỡ lớn, bản hiếm hơn của [[frozen-egg|Trứng Băng]] thường. Nó nở ra
-các Pal hệ Ice cỡ lớn như [[sweepa|Sweepa]]. Đặt vào [[egg-incubator|Egg Incubator]]
+các Pal hệ Ice như [[sweepa|Sweepa]], [[rayhound-cryst|Rayhound Cryst]] và
+[[foxcicle|Foxcicle]]. Đặt vào [[egg-incubator|Lồng ấp trứng]]
 để ấp.
 
 ## Nguồn

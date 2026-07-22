@@ -13,6 +13,8 @@ dropped_by:
   - [[fuack-ignis]]
   - [[bushi-noct]]
   - [[petallia-ignis]]
+  - [[katress-ignis]]
+  - [[wixen]]
 tags: [item, material]
 ---
 
@@ -27,7 +29,8 @@ nó nuôi lửa cho mọi bậc lò nung và chế đồ hệ lửa như [[fire-
 
 Rơi từ các Pal hệ Lửa khi bắt hoặc hạ gục — ví dụ [[fuack-ignis|Fuack Ignis]]
 (×1–2, 50%), [[bushi-noct|Bushi Noct]] (×4–8, 100%) hoặc
-[[petallia-ignis|Petallia Ignis]] (×1–2, 100%).
+[[petallia-ignis|Petallia Ignis]] (×1–2, 100%), [[katress-ignis|Katress Ignis]]
+(×1–2, 100%) hoặc [[wixen|Wixen]] (×1–2, 100%).
 
 ## Dùng để xây
 

@@ -12,6 +12,8 @@ code: ElectricOrgan
 dropped_by:
   - [[jolthog]]
   - [[pengullet-lux]]
+  - [[penking-lux]]
+  - [[rayhound]]
 tags: [item, material]
 ---
 
@@ -25,8 +27,9 @@ used to craft the [[bio-battery|Bio Battery]].
 
 ## Obtain
 
-Dropped by Electric-element Pals on capture or defeat — e.g. [[jolthog|Jolthog]] (×1, 100%)
-or [[pengullet-lux|Pengullet Lux]] (×1–2, 100%).
+Dropped by Electric-element Pals on capture or defeat — e.g. [[jolthog|Jolthog]] (×1, 100%),
+[[pengullet-lux|Pengullet Lux]] (×1–2, 100%), [[penking-lux|Penking Lux]] (×1–3, 100%)
+or [[rayhound|Rayhound]] (×1–2, 100%).
 
 ## Used in
 

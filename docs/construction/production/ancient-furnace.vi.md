@@ -51,4 +51,4 @@ Cần nguồn điện để hoạt động.
 | ![](../../assets/icons/items/coralum-ingot.png){ .game-icon } | [Coralum Ingot](../../items/materials/coralum-ingot.md) | 100 |
 | ![](../../assets/icons/items/thermal-core.png){ .game-icon } | [Thermal Core](../../items/materials/thermal-core.md) | 20 |
 | ![](../../assets/icons/items/computer.png){ .game-icon } | [Computer](../../items/materials/computer.md) | 30 |
-| ![](../../assets/icons/items/ancient-civilization-core.png){ .game-icon } | [Ancient Civilization Core](../../items/materials/ancient-civilization-core.md) | 10 |
+| ![](../../assets/icons/items/ancient-civilization-core.png){ .game-icon } | [Lõi Văn minh Cổ đại](../../items/materials/ancient-civilization-core.md) | 10 |

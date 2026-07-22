@@ -11,6 +11,9 @@ dropped_by:
   - [[cremis]]
   - [[swee]]
   - [[sweepa]]
+  - [[melpaca]]
+  - [[kingpaca]]
+  - [[kingpaca-cryst]]
 tags: [item, material]
 ---
 
@@ -23,6 +26,10 @@ tags: [item, material]
 - Guaranteed drop when you capture or defeat [[lamball|Lamball]] (×1–3).
 - Guaranteed drop when you capture or defeat [[cremis|Cremis]] (×1–2).
 - Guaranteed drop when you capture or defeat [[swee|Swee]] (×1) or [[sweepa|Sweepa]] (×3–5).
+- Guaranteed drop when you capture or defeat [[melpaca|Melpaca]] (×2–5); it also
+  produces Wool on a [[ranch|Ranch]].
+- Guaranteed drop when you capture or defeat [[kingpaca|Kingpaca]] or
+  [[kingpaca-cryst|Kingpaca Cryst]] (×5).
 - Produced by [[lamball|Lamball]] (Fluffy Shield) or [[cremis|Cremis]] (Fluffy Wool) on a
   [[ranch|Ranch]] (amount scales with skill level).
 

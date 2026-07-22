@@ -14,9 +14,9 @@ tags: [item, egg]
 
 # Trứng Đá (Rocky Egg)
 
-> Một quả Trứng Đá — bên trong có gì đó đang cựa quậy khe khẽ. Đặt vào Egg Incubator để ấp nở.
+> Một quả Trứng Đá — bên trong có gì đó đang cựa quậy khe khẽ. Đặt vào Lồng ấp trứng để ấp nở.
 
-Loại trứng thường mang chủ đề hệ Ground. Đặt vào [[egg-incubator|Egg Incubator]]
+Loại trứng thường mang chủ đề hệ Ground. Đặt vào [[egg-incubator|Lồng ấp trứng]]
 để ấp và nở ra Pal bên trong. Các Pal thiên hệ Ground như [[pupperai|Pupperai]]
 nở ra từ loại trứng này.
 

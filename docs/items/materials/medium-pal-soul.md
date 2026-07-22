@@ -16,6 +16,7 @@ crafted_at: [[crusher]]
 dropped_by:
   - [[bushi-noct]]
   - [[sootseer]]
+  - [[wixen-noct]]
 tags: [item, material]
 ---
 
@@ -34,7 +35,8 @@ enhance a Pal. At a [[crusher|Crusher]] souls convert both ways: **2
   from [[small-pal-soul|Small Pal Soul]] ×2 (or break down a
   [[large-pal-soul|Large Pal Soul]]).
 - Dropped by certain Pals on capture or defeat, e.g. [[bushi-noct|Bushi Noct]]
-  (×1–2, 40%) and [[sootseer|Sootseer]] (×1–2, 100%).
+  (×1–2, 40%), [[sootseer|Sootseer]] (×1–2, 100%) and [[wixen-noct|Wixen Noct]]
+  (×1–2, 100%).
 
 ## Used to craft
 

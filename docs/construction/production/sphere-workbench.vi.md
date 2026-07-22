@@ -42,7 +42,7 @@ Mở tại **Công nghệ Cấp 14**. Công sức xây: 5000 ([[handiwork|Handiw
 
 |  | Vật liệu | SL |
 |:--:|----------|:--:|
-| ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Paldium Fragment](../../items/materials/paldium-fragment.md) | 10 |
+| ![](../../assets/icons/items/paldium-fragment.png){ .game-icon } | [Mảnh Paldium](../../items/materials/paldium-fragment.md) | 10 |
 | ![](../../assets/icons/items/wood.png){ .game-icon } | [Gỗ](../../items/materials/wood.md) | 30 |
 | ![](../../assets/icons/items/nail.png){ .game-icon } | [Đinh](../../items/materials/nail.md) | 10 |
 | ![](../../assets/icons/items/ingot.png){ .game-icon } | [Thỏi Đồng](../../items/materials/ingot.md) | 20 |

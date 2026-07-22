@@ -28,8 +28,8 @@ tags: [item, structure]
 > Giường êm cỡ lớn, đủ rộng cho cả Pal to nằm ngủ ngon.
 
 Một chiếc giường êm để Pal nghỉ ngơi thoải mái. Pal nằm nghỉ khi bị thương hoặc
-để ngủ đêm. Ngay cả Pal cỡ lớn cũng ngủ ngon trên chiếc giường như thế này. Bản
-nâng cấp cuối game từ [Fluffy Pal Bed](fluffy-pal-bed.md); cùng kích cỡ với
+để nghỉ ngơi qua đêm. Ngay cả Pal cỡ lớn cũng ngủ ngon trên chiếc giường như thế này. Bản
+nâng cấp cuối game từ [Giường êm cho Pal](fluffy-pal-bed.md); cùng kích cỡ với
 [Ancient Pal Bed](ancient-pal-bed.md).
 
 ## Nghỉ ngơi

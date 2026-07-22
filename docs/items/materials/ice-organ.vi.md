@@ -13,6 +13,11 @@ dropped_by:
   - [[jolthog-cryst]]
   - [[pengullet]]
   - [[hangyu-cryst]]
+  - [[penking]]
+  - [[rayhound-cryst]]
+  - [[foxcicle]]
+  - [[kingpaca-cryst]]
+  - [[reindrix]]
 tags: [item, material]
 ---
 
@@ -27,7 +32,10 @@ Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục. Dùng trong các côn
 ## Nguồn
 
 Rơi từ các Pal hệ Băng khi bắt hoặc hạ gục — ví dụ [[jolthog-cryst|Jolthog Cryst]]
-(×1), [[pengullet|Pengullet]] (×1–2) hoặc [[hangyu-cryst|Hangyu Cryst]] (×1), đều 100%.
+(×1), [[pengullet|Pengullet]] (×1–2), [[hangyu-cryst|Hangyu Cryst]] (×1),
+[[penking|Penking]] (×1–3), [[rayhound-cryst|Rayhound Cryst]] (×1–2),
+[[foxcicle|Foxcicle]] (×2–3), [[kingpaca-cryst|Kingpaca Cryst]] (×3–6) hoặc
+[[reindrix|Reindrix]] (×2–3), đều 100%.
 
 ## Dùng trong
 

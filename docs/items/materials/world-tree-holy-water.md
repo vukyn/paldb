@@ -5,6 +5,7 @@ slug: world-tree-holy-water
 category: material
 dropped_by:
   - [[petallia-ignis]]
+  - [[rayhound-cryst]]
 tags: [item, structure-material]
 ---
 
@@ -14,7 +15,8 @@ tags: [item, structure-material]
 
 ## Obtain
 
-Dropped by the [[petallia-ignis|Petallia Ignis]] alpha boss (×1–3, 50%).
+Dropped by alpha bosses — [[petallia-ignis|Petallia Ignis]] and
+[[rayhound-cryst|Rayhound Cryst]] (×1–3, 50%).
 
 ## Used to build
 

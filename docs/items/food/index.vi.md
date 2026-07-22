@@ -17,3 +17,5 @@ title: Thức ăn
 | ![](../../assets/icons/items/honey.png){ .item-icon } | [Mật Ong](honey.md) | [Elizabee](../../pals/elizabee.md) rơi / Trang trại |
 | ![](../../assets/icons/items/onion.png){ .item-icon } | [Hành Tây](onion.md) | trồng (Hạt giống Hành Tây) |
 | ![](../../assets/icons/items/potato.png){ .item-icon } | [Khoai Tây](potato.md) | trồng (Hạt giống Khoai Tây) |
+| ![](../../assets/icons/items/reindrix-venison.png){ .item-icon } | [Thịt nai Reindrix](reindrix-venison.md) | [Reindrix](../../pals/reindrix.md) rơi |
+| ![](../../assets/icons/items/tomato.png){ .item-icon } | [Cà Chua](tomato.md) | trồng (Hạt giống Cà Chua) |

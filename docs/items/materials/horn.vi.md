@@ -9,6 +9,8 @@ gold_coin: 200
 weight: 1
 stack: 9999
 code: Horn
+dropped_by:
+  - [[reindrix]]
 tags: [item, material]
 ---
 
@@ -21,7 +23,7 @@ công thức thuốc.
 
 ## Nguồn
 
-Thu từ Pal (khi bắt hoặc hạ gục).
+Thu từ Pal khi bắt hoặc hạ gục, ví dụ [[reindrix|Reindrix]] (×2, 100%).
 
 ## Dùng trong
 

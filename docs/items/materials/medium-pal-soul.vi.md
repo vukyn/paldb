@@ -16,6 +16,7 @@ crafted_at: [[crusher]]
 dropped_by:
   - [[bushi-noct]]
   - [[sootseer]]
+  - [[wixen-noct]]
 tags: [item, material]
 ---
 
@@ -34,7 +35,7 @@ cường hoá Pal. Ở [[crusher|Crusher]] souls chuyển đổi hai chiều: **
   [[small-pal-soul|Small Pal Soul]] ×2 (hoặc tách một
   [[large-pal-soul|Large Pal Soul]]).
 - Rơi từ một số Pal khi bắt hoặc hạ gục, ví dụ [[bushi-noct|Bushi Noct]] (×1–2,
-  40%) và [[sootseer|Sootseer]] (×1–2, 100%).
+  40%), [[sootseer|Sootseer]] (×1–2, 100%) và [[wixen-noct|Wixen Noct]] (×1–2, 100%).
 
 ## Dùng để chế
 

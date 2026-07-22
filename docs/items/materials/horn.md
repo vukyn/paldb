@@ -9,6 +9,8 @@ gold_coin: 200
 weight: 1
 stack: 9999
 code: Horn
+dropped_by:
+  - [[reindrix]]
 tags: [item, material]
 ---
 
@@ -21,7 +23,7 @@ medicine recipes.
 
 ## Obtain
 
-Collected from Pals (capture or defeat).
+Collected from Pals on capture or defeat, e.g. [[reindrix|Reindrix]] (×2, 100%).
 
 ## Used in
 

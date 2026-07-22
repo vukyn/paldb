@@ -37,7 +37,7 @@ Nó tiêu 500 điện/giây nhưng luyện nhanh hơn hẳn các lò đá. Cần
 
 ## Luyện ra
 
-- [[pal-metal-ingot|Pal Metal Ingot]] — từ [[ore|Quặng Đồng]] + [[pure-quartz|Pure Quartz]] + [[paldium-fragment|Paldium Fragment]].
+- [[pal-metal-ingot|Pal Metal Ingot]] — từ [[ore|Quặng Đồng]] + [[pure-quartz|Pure Quartz]] + [[paldium-fragment|Mảnh Paldium]].
 
 ## Xây dựng
 

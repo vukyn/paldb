@@ -53,7 +53,9 @@ tags: [pal, water, ice]
 
 Một Pal hệ [[elements|Water]]/[[elements|Ice]] thời kỳ đầu — Paldeck #17, cỡ XS,
 độ hiếm 1. Biến thể Water/Electric của nó là [[pengullet-lux|Pengullet Lux]] (#17B).
-Kỹ năng đồng hành biến nó thành đạn cho súng phóng tên lửa.
+Kỹ năng đồng hành biến nó thành đạn cho súng phóng tên lửa. Dù trông giống chim
+cánh cụt và tên na ná, [[penking|Penking]] (#18) là một Pal **riêng biệt, không
+họ hàng**.
 
 ## Thức ăn
 

@@ -5,7 +5,7 @@ tags: [mechanic]
 
 # Tinh thần (SAN)
 
-> Thanh tinh thần / tâm trạng mà mỗi **Pal đã bắt** đều có, tách biệt với máu và
+> Thanh tinh thần / tâm trạng mà mỗi **Pal bạn thu phục** đều có, tách biệt với máu và
 > độ no. Tinh thần thấp làm giảm năng suất căn cứ và cuối cùng gây trạng thái
 > **Depressed** (trầm cảm).
 

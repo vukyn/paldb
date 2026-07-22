@@ -36,7 +36,7 @@ tốc độ hồi còn cao hơn về sau.
 
 Đặt ở căn cứ; Pal rảnh và hết ca sẽ tự động ngâm mình để hồi **Sanity** với tốc
 độ **0.5**. Kết hợp với [[feed-box|Hộp thức ăn]] luôn đầy và một
-[[straw-pal-bed|giường Pal]] cho mỗi Pal để giữ tinh thần căn cứ luôn cao.
+[[straw-pal-bed|Giường rơm cho Pal]] cho mỗi Pal để giữ tinh thần căn cứ luôn cao.
 Defense 2.
 
 ## Chế tạo

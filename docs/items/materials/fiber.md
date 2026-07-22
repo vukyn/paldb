@@ -14,6 +14,7 @@ sources:
 dropped_by:
   - [[hangyu]]
   - [[hangyu-cryst]]
+  - [[hoocrates]]
 tags: [item, material]
 ---
 
@@ -24,8 +25,8 @@ tags: [item, material]
 ## Obtain
 
 Gathered from trees — chopping trees ([[lumbering|Lumbering]]) yields Fiber
-alongside [[wood|Wood]]. Also dropped by [[hangyu|Hangyu]] and
-[[hangyu-cryst|Hangyu Cryst]] (×5–10, 100%).
+alongside [[wood|Wood]]. Also dropped by [[hangyu|Hangyu]],
+[[hangyu-cryst|Hangyu Cryst]] and [[hoocrates|Hoocrates]] (×5–10, 100%).
 
 ## Use
 

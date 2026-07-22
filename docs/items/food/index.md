@@ -17,3 +17,5 @@ title: Food
 | ![](../../assets/icons/items/honey.png){ .item-icon } | [Honey](honey.md) | [Elizabee](../../pals/elizabee.md) drop / Ranch |
 | ![](../../assets/icons/items/onion.png){ .item-icon } | [Onion](onion.md) | grow (Onion Seeds) |
 | ![](../../assets/icons/items/potato.png){ .item-icon } | [Potato](potato.md) | grow (Potato Seeds) |
+| ![](../../assets/icons/items/reindrix-venison.png){ .item-icon } | [Reindrix Venison](reindrix-venison.md) | [Reindrix](../../pals/reindrix.md) drop |
+| ![](../../assets/icons/items/tomato.png){ .item-icon } | [Tomato](tomato.md) | grow (Tomato Seeds) |

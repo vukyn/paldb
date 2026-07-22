@@ -12,7 +12,7 @@ code: AncientParts2
 tags: [item, material]
 ---
 
-# Ancient Civilization Core
+# Lõi Văn minh Cổ đại (Ancient Civilization Core)
 
 > Lõi từ công nghệ đã thất truyền từ lâu, chứa đựng kho tàng tri thức bị lãng
 > quên. Gần như không thể tìm thấy trên quần đảo Palpagos.

@@ -14,6 +14,7 @@ sources:
 dropped_by:
   - [[hangyu]]
   - [[hangyu-cryst]]
+  - [[hoocrates]]
 tags: [item, material]
 ---
 
@@ -24,7 +25,7 @@ tags: [item, material]
 ## Cách lấy
 
 Thu từ cây — chặt cây ([[lumbering|Lumbering]]) cho ra Sợi thực vật cùng với
-[[wood|Gỗ]]. Ngoài ra rơi từ [[hangyu|Hangyu]] và [[hangyu-cryst|Hangyu Cryst]]
+[[wood|Gỗ]]. Ngoài ra rơi từ [[hangyu|Hangyu]], [[hangyu-cryst|Hangyu Cryst]] và [[hoocrates|Hoocrates]]
 (×5–10, 100%).
 
 ## Công dụng

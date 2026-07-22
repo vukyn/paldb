@@ -15,12 +15,12 @@ tags: [item, egg]
 # Trứng Xanh Khổng Lồ (Huge Verdant Egg)
 
 > Một quả Trứng Xanh Khổng Lồ. Bên trong có một tinh linh xanh đang lớn dần — như thể
-> một quái vật sắp chào đời. Đặt vào Egg Incubator để ấp.
+> một quái vật sắp chào đời. Đặt vào Lồng ấp trứng để ấp.
 
 Quả trứng Grass to nhất, bậc Legendary — phiên bản khổng lồ của
 [[verdant-egg|Trứng Xanh]] thường. Nó nở ra các Pal hệ Grass cỡ lớn / độ hiếm cao
 như [[vaelet|Vaelet]], [[petallia|Petallia]], [[petallia-ignis|Petallia Ignis]]
-và [[elizabee|Elizabee]]. Đặt vào [[egg-incubator|Egg Incubator]] để ấp nở.
+và [[elizabee|Elizabee]]. Đặt vào [[egg-incubator|Lồng ấp trứng]] để ấp nở.
 
 ## Nguồn
 

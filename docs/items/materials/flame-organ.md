@@ -13,6 +13,8 @@ dropped_by:
   - [[fuack-ignis]]
   - [[bushi-noct]]
   - [[petallia-ignis]]
+  - [[katress-ignis]]
+  - [[wixen]]
 tags: [item, material]
 ---
 
@@ -27,7 +29,8 @@ it fuels every furnace tier and crafts fire gear such as the [[fire-arrow|Fire A
 
 Dropped by Fire-element Pals on capture or defeat — e.g. [[fuack-ignis|Fuack Ignis]]
 (×1–2, 50%), [[bushi-noct|Bushi Noct]] (×4–8, 100%) or
-[[petallia-ignis|Petallia Ignis]] (×1–2, 100%).
+[[petallia-ignis|Petallia Ignis]] (×1–2, 100%), [[katress-ignis|Katress Ignis]]
+(×1–2, 100%) or [[wixen|Wixen]] (×1–2, 100%).
 
 ## Used to build
 

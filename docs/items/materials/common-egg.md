@@ -18,8 +18,8 @@ tags: [item, egg]
 
 The Neutral-themed common egg. Put it in an [[egg-incubator|Egg Incubator]] to
 incubate and hatch the Pal inside. Neutral Pals such as [[lamball|Lamball]],
-[[cattiva|Cattiva]], [[chikipi|Chikipi]], [[vixy|Vixy]] and [[ribbuny|Ribbuny]]
-hatch from this egg type.
+[[cattiva|Cattiva]], [[chikipi|Chikipi]], [[vixy|Vixy]], [[ribbuny|Ribbuny]] and
+[[melpaca|Melpaca]] hatch from this egg type.
 
 ## Obtain
 

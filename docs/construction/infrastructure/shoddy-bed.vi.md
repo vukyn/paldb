@@ -21,11 +21,11 @@ tags: [item, structure]
 
 # Giường tạm (Shoddy Bed)
 
-> Giường người chơi thời kỳ đầu — ngủ qua đêm để nhảy tới sáng.
+> Chiếc giường sơ khai cho người chơi — ngủ một giấc để trời sáng.
 
-Một chiếc giường tạm bợ cho người. Dùng khi bị thương hoặc để ngủ đêm. Bạn sẽ
+Một chiếc giường tạm bợ cho người. Dùng khi bị thương hoặc để nghỉ ngơi qua đêm. Bạn sẽ
 không ngủ ngon nếu không có mái che trên đầu. Giường khởi đầu, về sau thay bằng
-[Fine Bed](fine-bed.md).
+[Giường tốt](fine-bed.md).
 
 ## Công dụng
 

@@ -17,9 +17,10 @@ tags: [item, egg]
 > Một quả Trứng Băng — bên trong có thứ gì đó lạnh lẽo đang cựa quậy. Đặt vào Egg
 > Incubator để ấp.
 
-Quả trứng thường mang chủ đề hệ Ice. Đặt vào [[egg-incubator|Egg Incubator]] để
+Quả trứng thường mang chủ đề hệ Ice. Đặt vào [[egg-incubator|Lồng ấp trứng]] để
 ấp và nở ra Pal bên trong. Nhặt được ở biome lạnh hoặc do nhân giống — các Pal hệ
-Ice như [[swee|Swee]] và [[hangyu-cryst|Hangyu Cryst]] nở ra từ loại trứng này.
+Ice như [[swee|Swee]], [[hangyu-cryst|Hangyu Cryst]] và [[reindrix|Reindrix]] nở
+ra từ loại trứng này.
 
 ## Nguồn
 

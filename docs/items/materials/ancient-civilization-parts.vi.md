@@ -12,14 +12,14 @@ code: PalCrystal_Ex
 tags: [item, material]
 ---
 
-# Ancient Civilization Parts
+# Linh kiện Văn minh Cổ đại (Ancient Civilization Parts)
 
 > Mảnh vỡ đào từ tàn tích cổ, chứa nhiều thông tin về công nghệ thất truyền. Ai
 > cũng săn lùng.
 
 Vật liệu công nghệ cổ phổ biến — rơi từ các boss mạnh và đào được ở tàn tích, nó
 là nhiên liệu cho nhánh công nghệ cổ (thấp hơn một bậc so với
-[[ancient-civilization-core|Ancient Civilization Core]] huyền thoại).
+[[ancient-civilization-core|Lõi Văn minh Cổ đại]] huyền thoại).
 
 ## Nguồn
 
