@@ -16,6 +16,9 @@ __pycache__/
 .code-review-graph/
 
 # Agent / tooling internal state — never commit into the repo …
+# Machine-local Claude state — EXCEPT agent-memory, which is knowledge about
+# this repo and has to travel with it.
 .claude/*
+!.claude/agent-memory/
 # … except the shareable slash-commands (portable across machines with the repo)
 !.claude/commands/
